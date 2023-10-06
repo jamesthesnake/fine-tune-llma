@@ -1,0 +1,60 @@
+[tool.poetry]
+name = "hrd-models"
+version = "3.1.1"
+description = ""
+authors = []
+readme = "README.md"
+homepage = "https://github.com/tempuslabs/hrd-models" 
+
+[[tool.poetry.source]]
+name = "tempus-pypi"
+url = "https://nexus.opstempus.com/repository/pypi/simple/"
+default = true
+
+[tool.poetry.dependencies]
+python = "^3.8.1"
+boto3 = "^1.17.4"
+Cython = "^0.29.21"
+joblib = "0.16.0"
+numpy = ">=1.18"
+pandas = "1.2.2"
+pyranges = "^0.0.95"
+scikit-learn = "0.24.2"
+typing-extensions = "3.10.0.2"
+
+# Tempus internal dependencies
+rna-transform = "0.6.10"
+
+# ETL extras
+tdsu = { version = "1.6.1", optional = true }
+pandasql = { version = "^0.7.3", optional = true }
+pyarrow = { version = "^4.0.1", optional = true }
+PyMySQL = { version = "^0.9.2", optional = true }
+python-dotenv = {extras = ["cli"], version = "^0.17.1", optional = true }
+
+# Train extras
+scikit-optimize = { version = "0.8.1", optional = true }
+
+[tool.poetry.extras]
+etl = ["pandasql", "pyarrow", "PyMySQL", "python-dotenv", "tdsu"]
+train = ["scikit-optimize"]
+
+[tool.poetry.dev-dependencies]
+flake8 = "^3.8.4"
+pytest = "^6.2.2"
+pytest-cov = "^2.12.1"
+
+[build-system]
+build-backend = "poetry.core.masonry.api"
+requires = ["poetry-core>=1.0"]
+
+[tool.pytest.ini_options]
+addopts = "-s -W ignore --ignore=hrd_models/tests/tests_etl --ignore=hrd_models/tests/tests_train --ignore=hrd_models/tests/tests_common"
+
+[tool.coverage.run]
+source = ["hrd_models"]
+omit = ["hrd_models/etl/*", "hrd_models/train/*", "hrd_models/tests/*"]
+
+[tool.coverage.report]
+fail_under = 97
+show_missing = true

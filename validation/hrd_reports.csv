@@ -1,0 +1,1794 @@
+orderhub_id,uploaded,analysis_id,signout_result,notes,aneuploidy,cancer_cohort,tumor_purity,assay,match_type
+20chda,True,af3eis7k6ba4ppq24ympdp5ooa,positive,"aneuploidy; ""not detected"" and  ""graph needs to be removed"", aneuploidy; ""not detected"" and  ""graph needs to be removed""; also noticed the s/o date was frozen on 12/10 so I updated it, checking on aneuploidy",1,Sarcoma,78.8977375459145,xT.v4,match
+21fsqx,False,af3s5wohlfc3zkgmpqhsnpl2c4,negative,,0,Ovarian Cancer,39.6548876312091,xT.v4,match
+20trzt,False,af2pm6tzzzaz3h7gia6uozxaay,negative,,0,Prostate Cancer,73.8968829695578,xT.v4,match
+21dzth,False,af3s5xi5tre73a3oeaajc4vi2a,negative,,0,Colorectal Cancer,52.7598747550608,xT.v4,match
+21wnhk,True,af4a4xgixnhc7j7fmj4ilhejni,positive,"Benji/Nike confirmed aneuploidy, please check aneuploidy",1,Non-Small Cell Lung Cancer,61.8959861199411,xT.v4,match
+20ojjh,False,af2jgmpbajaedouc2j4kpy2unm,negative,,0,Endometrial Cancer,48.9457503677012,xT.v4,match
+20ncah,False,af27zdwxlrg4dihdonxyvz4lfu,negative,,0,Kidney Cancer,63.0868412544743,xT.v4,match
+20zscx,False,af2shlkmfzdaxgnkctdysxayry,negative,,0,Pancreatic Cancer,19.757628776408,xT.v4,match
+21ugce,False,af3y5dkexrbszpaqt3um2yq3jm,negative,,0,Uveal Melanoma,87.7168626833731,xT.v4,match
+21hzmt,False,af4a4xfh35gnjjozm47sc4dwoi,negative,,0,Pancreatic Cancer,56.9612216271899,xT.v4,match
+20eptt,True,af3oweoqa5hbpnt46mx33bebq4,positive,"Cohort changes (TUO to Ovarian), updated threshold to 25%, Updating cohort to ovarian",0,Tumor of Unknown Origin,38.7306115207148,xT.v4,match
+21acfh,False,af3z5xavifb53lxkzhje7nmthe,negative,,0,Ovarian Cancer,24.8160868827422,xT.v4,match
+20vhad,False,af23wlvadzbjpkabohbkax5jim,positive,,0,Ovarian Cancer,40.3504364493226,xT.v4,match
+20swza,False,af25rhvqhfg2notvulzbkkwnrq,negative,,0,Non-Small Cell Lung Cancer,50.9114407767497,xT.v4,match
+20tfba,False,af2upqfqinbpfodsdsroxny4ty,negative,,0,Pancreatic Cancer,61.2975127611108,xT.v4,match
+21etzl,False,af37istvqvfgplkx4o2kyjgf6u,negative,,0,Uveal Melanoma,69.7120850838611,xT.v4,match
+21fjkx,False,af3uvqpoune7xdblyyyfp57za4,negative,,0,Pancreatic Cancer,49.769676184179,xT.v4,match
+21canv,False,af3vyxhk2fecxgitp7s5sy24wq,negative,,0,Colorectal Cancer,16.6204607575166,xT.v4,match
+21jmkq,False,af3yaileoffrnlzy6kzt4nrt5m,positive,,0,Pancreatic Cancer,50.6911847564599,xT.v4,match
+21tpju,False,af3s5xckgvcgxmsrvvrb3bsexi,negative,,0,Endometrial Cancer,86.207135644878,xT.v4,match
+20pvav,False,af2xlgal6bfkxfbgujvwy2qx4i,negative,,0,Breast Cancer,59.6013688222371,xT.v4,match
+21vqig,False,af3zqqdusvgphh2x4btifvkulq,negative,,0,Tumor of Unknown Origin,82.583602259662,xT.v4,match
+20kirw,False,af3iht463bhe5i2gyvuya3vd4a,negative,,0,Peritoneal Cancer,37.5956347924513,xT.v4,match
+20ibel,False,af3ptghhkrcjlhgthct6zvynfy,positive,,0,Ovarian Cancer,84.0938668288234,xT.v4,match
+21opht,False,af34gvumwzevxneiaowy27vcx4,negative,,0,Ovarian Cancer,68.3147884413736,xT.v4,match
+20erzd,False,af2shljeonchfbj747wzxi3lhm,negative,,0,Glioblastoma,72.2063803159969,xT.v4,match
+20xhym,False,af3n4ehzkfamtiwyyn4iysstnq,negative,,0,Pancreatic Cancer,17.2038638052362,xT.v4,match
+20rekx,False,af3mokoxxjftzjavuukvfghs3u,negative,,0,Prostate Cancer,58.4230514708384,xT.v4,match
+20cefe,False,af2lybtyora6jasqczrla2a6xe,negative,,0,Bladder Cancer,25.9240658410418,xT.v4,match
+20acxq,False,af3s3fpfwvaq3gm7egx7tdxhnm,positive,,0,Ovarian Cancer,38.7554918003636,xT.v4,match
+21zlgn,False,af3yhexwpvep7gaktw4bubennm,negative,,0,Pancreatic Cancer,62.8730613086995,xT.v4,match
+20rprc,False,af2tdy6inber3nv4fsbfeohk7u,negative,,0,Prostate Cancer,70.9079481352637,xT.v4,match
+20jgbp,False,af2zdqdeire5bnwovnleq6gzsi,negative,,0,Pancreatic Cancer,36.372782526792,xT.v4,match
+21qqnl,False,af3zujfwanbzngn2h5eaxtkysa,negative,,0,Biliary Cancer,61.4643060481281,xT.v4,match
+21vvvm,False,af3xwo3ggjg7nkrlkjpmqdcfdq,negative,,0,Sarcoma,92.3115296355533,xT.v4,match
+20kpzg,False,af2zdqdtovh4bd7llchhkn3z2u,negative,,0,Ovarian Cancer,52.6753868152893,xT.v4,match
+20sgpb,False,af3s3gcwc5dv7hll6gihbhxtia,negative,,0,Pancreatic Cancer,32.9304842898747,xT.v4,match
+20mykh,False,af25uzlubjhbdaaupufg6eevpq,positive,,0,Ovarian Cancer,37.9600171651859,xT.v4,match
+20hciz,False,af2shljsjzf6znddin2sbychv4,negative,,0,Peritoneal Cancer,76.9632422792763,xT.v4,match
+20hciz,True,af2shljsjzf6znddin2sbychv4,negative,"Amended - same as before but with TTaxter as signer, Update approval date on report, This report needs to go to a manual amendment flow., Amended HRD report, Amended HRD report (updated s/o date), Make sure TTaxter is assigned as signer",0,Peritoneal Cancer,76.9632422792763,xT.v4,match
+20dsek,False,af3chkubqzgbdaplhe3iu5gdtq,negative,,0,Brain Cancer,33.8481350180127,xT.v4,match
+20vgph,False,af2tx7pfu5d4zppnguyrcxixfy,negative,,0,Ovarian Cancer,53.1075650754117,xT.v4,match
+20lbql,False,af2o2oef7rcmhgse3m5czbb74y,positive,,0,Colorectal Cancer,85.9798868110923,xT.v4,match
+20kgxb,False,af2m7qfznfaf7fighecipd3jpa,positive,,0,Breast Cancer,31.3197781252127,xT.v4,match
+20rtjt,False,af2upqg3pbb4pa4tdoljaqmeaa,negative,,0,Prostate Cancer,48.8710886973818,xT.v4,match
+20dhvm,False,af2jgmmok5ex7iftwh3qgfg5uy,negative,"Report was marked delayed outside of ReportHub, Report was marked in-progress outside of ReportHub, on hold, HRD amendment - needs call-out note",0,Breast Cancer,61.4787907705825,xT.v4,match
+20jvwf,False,af2wl2xed5echehwauxg3wweuu,negative,,0,Non-Small Cell Lung Cancer,20.8921459407889,xT.v4,match
+20eust,False,af22vr2uurb33ayyugutu6bu6a,positive,,0,Ovarian Cancer,56.9356759291851,xT.v4,match
+20xzoi,False,af2xrkw44zhavdpgxggh4dwasy,positive,,0,Breast Cancer,70.2970584506761,xT.v4,match
+20shsz,False,af3rhlefxvf55lwajibu744o4q,negative,,0,Breast Cancer,23.9368893809693,xT.v4,match
+21mllm,False,af333pnir5helmdofv5nn5x7yi,positive,,0,Ovarian Cancer,85.1319756196763,xT.v4,match
+20zlkr,False,af2qn5semrellaijqbb4qxxkdy,positive,"""on hold"" to ensure OP is contacted first",0,Gastric Cancer,55.0793239751117,xT.v4,match
+20toos,False,af2nxw6f7zgptdltha3apgujuu,negative,,0,Ovarian Cancer,26.2659621808974,xT.v4,match
+20ucvn,False,af2k4vmxere7xcw5kef76f3thq,positive,"""on hold"" to ensure OP is contacted first",0,Ovarian Cancer,25.2613134016332,xT.v4,match
+20rmxv,False,af3hj4evqbcznm4ss3b7xwz3mi,positive,,0,Non-Small Cell Lung Cancer,35.5433370308663,xT.v4,match
+21dwwy,False,af3witp3zje5pmin4cmlvks26m,negative,,0,Bladder Cancer,33.3464296768981,xT.v4,match
+21qfxb,False,af32jnryyrddfaqtmyunulw4ty,negative,,0,Tumor of Unknown Origin,40.4859738076287,xT.v4,match
+20cgzd,False,af3bppowujarhiflzwvtb3apne,negative,,0,Breast Cancer,66.3340772974087,xT.v4,match
+20faxp,False,af2yoxwlprcalh2joe3j4uh3du,negative,,0,Tumor of Unknown Origin,38.6787405327027,xT.v4,match
+20twev,False,af3b7mfdcjdidecuqaiqc33sry,negative,,0,Cervical Cancer,60.8712278804164,xT.v4,match
+20xrtl,False,af2w5wyz3jgkxlpmdobzmjgn5y,positive,,0,Breast Cancer,76.019921826361,xT.v4,match
+20mmeo,False,af2rqh4jibhsdoa5snftnbk73a,positive,,0,Colorectal Cancer,65.6853272967348,xT.v4,match
+21hjfq,False,af3s5xtq7ncp5kem6tyy66nxse,positive,,0,Ovarian Cancer,51.3831947520688,xT.v4,match
+20egcp,False,af3jlza4kfgwhao6huol4l6t2m,negative,,0,Endometrial Cancer,46.7176967808407,xT.v4,match
+20wplt,False,af3mgxnlz5c2fm7ofcpfbbgomm,negative,,0,Gastric Cancer,96.3820361860362,xT.v4,match
+20gucc,False,af3fk2mk4fgetphjrvauugdmfa,negative,,0,Pancreatic Cancer,44.3728372196025,xT.v4,match
+20cfyu,False,af25gx4nbrfphlpbwhswlkj4p4,negative,,0,Ovarian Cancer,29.8494951037888,xT.v4,match
+21sxvn,False,af34qdbw7rhndny77axfe3lvuq,positive,,0,Tumor of Unknown Origin,68.4603849385962,xT.v4,match
+20jgxx,False,af2cqn47nraarlmfb2jgjrsfom,negative,HRD amendment - needs note,0,Ovarian Cancer,53.743074133203,xT.v4,match
+20ggub,False,af2u42nrqbhvnjhr5ubbf2ypvi,negative,,0,Bladder Cancer,71.3974590388156,xT.v4,match
+20ffbc,False,af3hsaxyirah7mwwjnwljhx3xy,positive,,0,Pancreatic Cancer,64.6481852630557,xT.v4,match
+20vwiq,False,af2m7qioqbh2rngerujlu5acku,negative,,0,Pancreatic Cancer,41.1455416431762,xT.v4,match
+20xcqm,False,af3bppxw2jghvbec27uentubca,negative,,0,Colorectal Cancer,27.2701438034346,xT.v4,match
+20fnjk,True,af3p6ftxt5exrexuqb7bhwzbpq,positive,"updating s/o date in footer, updating s/o footer, updating the footer s/o date, updating footer s/o, edits for amendment, Report was marked in-progress outside of ReportHub, Report was marked delayed outside of ReportHub, Report was marked in-progress outside of ReportHub, amendment edits
+",0,Pancreatic Cancer,62.1213258759612,xT.v4,match
+20fnjk,False,af3p6ftxt5exrexuqb7bhwzbpq,positive,"Report was marked qc-fail outside of ReportHub, correct the patient's sex",0,Pancreatic Cancer,62.1213258759612,xT.v4,match
+20snoe,False,af2mjuwypbabrc2d7t4sqzlje4,negative,,0,Tumor of Unknown Origin,33.9374914609545,xT.v4,match
+20digv,False,af3qth6x6nhrfac3v7xpqgpaci,positive,,0,Ovarian Cancer,29.6360045654829,xT.v4,match
+21eitv,False,af3xl2dyzvgsxf5v7mecsdcgbi,positive,,0,Ovarian Cancer,59.5983124895867,xT.v4,match
+20lkuo,False,afz66hcivvcntocfx23wo5deke,negative,,0,Melanoma,42.1608302325381,xT.v4,match
+21pycn,False,af3vyxd3gvgmpja25ubnejhqkq,negative,,0,Tumor of Unknown Origin,55.6356828114988,xT.v4,match
+20wwhr,False,af3dc27upfds5coprky744u57i,negative,,0,Esophageal Cancer,47.2947890295012,xT.v4,match
+20joqp,False,af3bppt7xbh65m2fbqhycqe4yi,positive,,0,Ovarian Cancer,74.4473838609817,xT.v4,match
+20ndlc,False,af2ccjruqrdvparrjlqzujqq44,positive,HRD amendment - needs note,0,Ovarian Cancer,77.9099936724991,xT.v4,match
+20hnoi,False,af24krk4jbd47pzx5polhijsne,negative,,0,Prostate Cancer,34.2693071077857,xT.v4,match
+20xrli,False,af2xy6bp75hzjpylyhgiq427gq,negative,,0,Ovarian Cancer,89.0576726161561,xT.v4,match
+20kvdv,False,af2rqhyp45b4hamlysf2qlcx3y,negative,,0,Colorectal Cancer,75.8558397060608,xT.v4,match
+20lxpu,False,af2jnbppwrbvvdnbbwdu6rzvdi,negative,,0,Pancreatic Cancer,11.0314551068174,xT.v4,match
+20xsxm,False,af3ptf5ilvgnvld2ity5lfajum,negative,,0,Sarcoma,57.8969596242956,xT.v4,match
+20dxlz,False,af3kw775bzbm7af4rqdiy5ektu,positive,,0,Endometrial Cancer,81.3719054703491,xT.v4,match
+20btfm,False,af2svnoaung3barw7u6v2i7ks4,positive,,0,Ovarian Cancer,72.3089748667404,xT.v4,match
+20dfaf,False,af265otexfeudibb2agjickjru,negative,,0,Ovarian Cancer,51.4694608809994,xT.v4,match
+20lgyf,False,af3ptgckmrgj5er42wcntratne,negative,,0,Non-Small Cell Lung Cancer,64.8237063381353,xT.v4,match
+20zeom,False,af22lvv5d5f45hwgtmter5kyta,negative,,0,Ovarian Cancer,39.7554292760676,xT.v4,match
+21ufvz,False,af37im4dmff6zoiuonblbwiy24,negative,,0,Prostate Cancer,55.0003963329091,xT.v4,match
+20kjdk,False,af3gswccd5eoznpt7l2yvaw7ju,negative,,0,Breast Cancer,86.6610023194575,xT.v4,match
+20mmqy,False,af2xy6bt4ngtxmjjequatziieq,negative,,0,Melanoma,58.4413830975196,xT.v4,match
+20ymqh,False,af2m3hp4cvc6dh5hf6voxkdr2q,positive,,0,Prostate Cancer,66.0906147986942,xT.v4,tumor_only
+20vana,False,af2xhxkibbbmfb6rcfwy2ytjua,negative,,0,Non-Small Cell Lung Cancer,56.2158629389613,xT.v4,match
+21jyzx,False,af34qdhjhvh6dbf2beezzrxvb4,negative,,0,Pancreatic Cancer,52.2534073198405,xT.v4,match
+20wwja,False,af2y6gplgzadrhc7a2x3ak3fpe,negative,Please check to see if another HRD report already exists for this patient; flag for path,0,Prostate Cancer,93.4129745443761,xT.v4,match
+20ckoe,False,af2wfxjfdnaezkwmpa2fbj2trm,negative,"putting ""on hold"" to ensure OP is contacted first",0,Ovarian Cancer,81.5760269253729,xT.v4,match
+21cmik,False,af3rhk2mi5cflovq4kj47uiyla,negative,,0,Non-Small Cell Lung Cancer,72.9598245620246,xT.v4,match
+20bqoh,True,af26ts62s5hbnpgpfs75qlnndm,positive,"Not positive, deep loss error, Correct pill, deep loss error",0,Non-Small Cell Lung Cancer,34.3318948797876,xT.v4,match
+20vhka,False,af22lvthyncgdjmt4yldwa5sq4,negative,,0,Ovarian Cancer,53.130636382733,xT.v4,match
+21acbh,False,af3uc3ibqna3vlzsuaj6k6hqty,negative,,0,Biliary Cancer,28.3503071253071,xT.v4,match
+20ldwz,False,af3ok4icnrg5jnzhfrzchsj2be,negative,,0,Bladder Cancer,61.9463951054262,xT.v4,match
+20kbxs,False,af3pq5vg2fgdpfd5ecn73nhbdy,positive,,0,Non-Small Cell Lung Cancer,26.4966192201519,xT.v4,match
+21uowz,True,af3xworg5bdxjauwb3oo52rqtu,positive,"incorrectly called brca1 two hit, remove 2-hit note, not-detected pill",0,Prostate Cancer,36.5798200034403,xT.v4,match
+20npwc,False,af2qrkuhwvahtjjtbrnnvrbmoi,positive,,0,Breast Cancer,59.6386407858325,xT.v4,match
+20ihwa,False,af3iyrgsbjbxthx43av3zjozvu,negative,,0,Pancreatic Cancer,28.10032403328,xT.v4,match
+20wsec,False,af3oweotazb4pir2dzccvubusi,positive,,0,Ovarian Cancer,49.2791109494558,xT.v4,match
+20beuk,True,af3ndb4czvf7vb3336acrzkc7y,negative,"retraction amendment, going to try to change report assignment, trying to change assignment for manual amend, needs ADOBE edits",0,Pancreatic Cancer,21.6219485100119,xT.v4,match
+20beuk,False,af3ndb4czvf7vb3336acrzkc7y,negative,"RETRACT THE DUPLICATE AMENDMENT., Report was marked qc-fail outside of ReportHub",0,Pancreatic Cancer,21.6219485100119,xT.v4,match
+20kbnv,False,af2pm6h2mfg5hhuycuagcmlqoe,negative,,0,Colorectal Cancer,66.5195359981856,xT.v4,match
+20owni,False,af3j3zutfbcrlhsxjmv4fvnsty,negative,,0,Breast Cancer,70.5668483666481,xT.v4,match
+20btau,False,af3pyd73kvfzvip2h7tcnmlmsa,positive,,0,Tumor of Unknown Origin,45.8118505025095,xT.v4,match
+21sjan,False,af37vwtdgzhcxh6a4jpjdgz52e,negative,,0,Tumor of Unknown Origin,26.5681610984844,xT.v4,match
+20ulsa,False,af2trdaop5dtbhvlyo6yjrtmwi,negative,,0,Breast Cancer,58.5895486348798,xT.v4,match
+21sakq,False,af4a4xjg4vbxtodgqrkfqhl23q,negative,,0,Pancreatic Cancer,33.597488137648,xT.v4,match
+20ckoe,False,af2b5fk4mjffxd33qatbdk3tla,positive,,0,Ovarian Cancer,52.7795986622075,xT.v4,tumor_only
+20hbji,False,af3mokvhlrcndcsqncul7mo7ym,positive,,0,Breast Cancer,43.0593519667593,xT.v4,match
+20yduy,False,af2xhxlaargotc5ycufcw4wmfi,positive,"""on hold"" to ensure OP is contacted first, ""on hold""",0,Peritoneal Cancer,52.6972653658158,xT.v4,match
+20nuqt,False,af3iht27pbehtkexbtvz35d7du,positive,,0,Ovarian Cancer,65.695991118058,xT.v4,match
+20wqgc,False,af2s7xxrfbdyzmfqkyhpvkvnry,positive,,0,Non-Small Cell Lung Cancer,80.6288720208769,xT.v4,match
+21sybf,False,af3xt5shl5c73fgdzmnhd23h3u,negative,,0,Bladder Cancer,50.1225139820675,xT.v4,match
+20wbrb,False,af3h6bpxqfa67h7nelhugefs2a,positive,,0,Endometrial Cancer,41.3762809107114,xT.v4,match
+21ycvv,False,af4axywgozegzbhjydksdhjwc4,negative,,0,Breast Cancer,47.4420126524879,xT.v4,match
+20euzg,False,af22vsdxorbstapbzh6bro2eeq,positive,,0,Esophageal Cancer,38.5995563216758,xT.v4,match
+20bdhw,False,af27zd5wnfdkxl7defrzp4gosi,positive,,0,Non-Small Cell Lung Cancer,57.0120768836864,xT.v4,match
+20syzf,False,af2wwdbwuzckdfd6ds3hejdwbi,negative,,0,Tumor of Unknown Origin,26.4457712978338,xT.v4,match
+21vpos,False,af4au3jkgzhh3mcbpyi6injjs4,negative,,0,Head and Neck Squamous Cell Carcinoma,82.494461002427,xT.v4,match
+21uxah,False,af32bfiiqnhthjti7j6yqe3bnu,negative,,0,Esophageal Cancer,53.5214595721885,xT.v4,match
+20swcf,False,af3ht2eyyrgu5njgubig2ukwqy,negative,,0,Sarcoma,87.7708707165524,xT.v4,match
+20zqft,False,af2pdwagurdyjgtrwazhia755a,negative,,0,Colorectal Cancer,57.5231648060782,xT.v4,match
+20fppl,False,af3v7eiv6nemhlx7vubpdmrcyy,negative,,0,Pancreatic Cancer,16.7403226267507,xT.v4,match
+21knpx,False,af3yaij675hd5leql5ab47ag5a,negative,,0,Endometrial Cancer,74.0957946972078,xT.v4,match
+20dyar,False,af27zsnqefh2rdubo6qhhh2tmu,negative,,0,Tumor of Unknown Origin,92.5681048484514,xT.v4,match
+21wipq,False,af4bz3o2orh5dlhl5zyzyns76m,negative,,0,Prostate Cancer,54.6191089578713,xT.v4,match
+20yxbp,False,af2jtfs4crgl7kutzb2plkipii,negative,,0,Melanoma,48.0442852572313,xT.v4,match
+20nnwn,False,af2yebdsinha3juvde6ktnfdra,negative,,0,Colorectal Cancer,67.1208942813852,xT.v4,match
+20wdfd,True,af2o2ocvsbddlf4osynqi5tgfe,negative,"retraction report, needs ADOBE edit, retraction needed ADOBE edits",0,Prostate Cancer,52.5887489387001,xT.v4,match
+20wdfd,False,af2o2ocvsbddlf4osynqi5tgfe,negative,"Report was marked qc-fail outside of ReportHub, RETRACT THE DUPLICATE REPORT.",0,Prostate Cancer,52.5887489387001,xT.v4,match
+21culj,False,af4axy53ivckxcddtrdr66kxdi,negative,,0,Ovarian Cancer,29.317880794702,xT.v4,match
+20pwqn,False,af2zdqja7jfv5cg7z72fi7urnu,negative,,0,Endocrine Tumor,43.0488014165526,xT.v4,match
+20xdta,False,af2gdosadrbnvjir5kuhalquqy,negative,"putting on ""hold"" to ensure Kim has given OP headsup, Report was marked in-progress outside of ReportHub, ""on hold"", Report was marked delayed outside of ReportHub",0,Gastric Cancer,54.9232835443792,xT.v4,match
+21xorj,False,af4bz7ylavefhozoscekozc5y4,negative,,0,Colorectal Cancer,75.0713117807818,xT.v4,match
+21ffus,False,af3zs5fhlbaizifd4w6wbzigby,positive,,0,Ovarian Cancer,80.5033659644928,xT.v4,match
+20rhba,False,af3htz2nq5dspnahb2arg3q3l4,positive,,0,Esophageal Cancer,26.3062119793421,xT.v4,match
+20cyxk,False,af2o2oicyrbfrf24672btldype,positive,,0,Pancreatic Cancer,38.8548297168901,xT.v4,match
+20gyep,True,af2yoxytbnhilefbjfyxuop75q,negative,"Wrong cohort is listed, this was updated to peritoneal at signout , updated threshold to 25%, moved dashed line, added pos pill",0,Tumor of Unknown Origin,27.2374826336151,xT.v4,match
+21htgq,False,af4bkehfpnccbh3im7iloslzsi,negative,,0,Pancreatic Cancer,35.6801418241633,xT.v4,match
+20pbhy,False,af2qadv525fhhismzvwy6cynly,negative,,0,Ovarian Cancer,24.3260337314888,xT.v4,match
+20krbk,False,af3nisy7nvce3nek3hltupr5wa,positive,Please check for aneuploidy,1,Endometrial Cancer,83.9433613919462,xT.v4,match
+20nbje,False,af2yoxuxmbeolp43wswjtw62ne,negative,,0,Prostate Cancer,32.027144740796,xT.v4,match
+20qlif,False,af2vscerpvdstbxtz3dtmvvigu,negative,,0,Breast Cancer,88.1843796111549,xT.v4,match
+21wpka,False,af333pkeafev5acdbhqvgvrvhe,negative,,0,Non-Small Cell Lung Cancer,33.393525192509,xT.v4,match
+20skpp,False,af2o2oeqqrhqhoyyg7z6gp5v64,negative,,0,Endocrine Tumor,83.8769981846011,xT.v4,match
+21xwzo,False,af4axywe7feedlywtwormcoluu,negative,,0,Pancreatic Cancer,16.5177880776561,xT.v4,match
+21pbif,False,af3vrfqblnan7lvwlxblluotgi,negative,,0,Bladder Cancer,74.5712873083587,xT.v4,match
+20sqpw,False,af3qtie4gjd7tncgut64unnkem,negative,,0,Colorectal Cancer,62.6595890766467,xT.v4,match
+20aqpk,False,af3owepsynhdvlw3eof664l5xq,negative,,0,Bladder Cancer,30.9045415668713,xT.v4,match
+20mslr,False,af2rcqcs3jgrhhyvtefcz7o57u,negative,,0,Bladder Cancer,19.3421776021945,xT.v4,match
+20bpni,False,af2vsb66vfg6raqonhu6wcca34,negative,,0,Ovarian Cancer,68.7803780547248,xT.v4,match
+20ykqi,False,af24u4jhcza3tcpt5dfmrvywza,negative,,0,Prostate Cancer,57.7782846248723,xT.v4,match
+21ufkz,False,af3yhs3hnzhrxcgbfvgmb57aku,negative,,0,Breast Cancer,47.6772619174018,xT.v4,match
+21gqvl,False,af3scfvr4bd7bohgt4lv7u6ona,negative,,0,Prostate Cancer,50.9608856989568,xT.v4,match
+20ceqd,False,af3ptggqvvgbfchbp5i2x4c5vu,positive,,0,Endocrine Tumor,53.2370531836784,xT.v4,match
+20vsur,False,af2rcja6e5bjxnlvhpbjwvc7xm,negative,,0,Ovarian Cancer,37.0262695324214,xT.v4,match
+20tzkz,False,af2k4vr45ffpnhlu3hfqioficq,negative,,0,Prostate Cancer,59.278305357545,xT.v4,match
+21arah,False,af32zlt245fejdajss5wswttji,negative,,0,Non-Small Cell Lung Cancer,57.1163640247366,xT.v4,match
+20hamc,False,af3ok36gxnd5ndzkuqgb2auhsu,positive,,0,Non-Small Cell Lung Cancer,52.3988717656564,xT.v4,match
+21gpxc,False,af3rz5vstre2nmwx7rjnnx4de4,negative,,0,Prostate Cancer,38.5864963587365,xT.v4,match
+21gwbr,False,af33mwqxtnfgpdmy2xvzorhgda,negative,,0,Ovarian Cancer,26.3852847270655,xT.v4,match
+20ddwu,False,af3ihubap5apvo5ykc6gcw72pe,negative,,0,Ovarian Cancer,85.9361345973888,xT.v4,match
+20dhvm,False,af2gu3jvy5cknj4uqctqindeg4,negative,,0,Breast Cancer,62.3712406015038,xT.v4,tumor_only
+20ozep,False,af3jrktlwnewteevsrdf27ajka,positive,,0,Esophageal Cancer,52.3831315265857,xT.v4,match
+20fsiv,False,af3ok4aazjeaho7sx2mku7wmt4,negative,,0,Ovarian Cancer,83.9688080717055,xT.v4,match
+20ykas,False,af3dc3blknbttovfniwh3nntza,negative,,0,Biliary Cancer,19.8697764185231,xT.v4,match
+20ogoz,False,af3ejfqmw5gurh7cv6rpxhpzde,negative,,0,Sarcoma,28.4282127504964,xT.v4,match
+20gakp,False,af3hj4wwxvdafa2esx5varckui,negative,,0,Esophageal Cancer,51.2119232055649,xT.v4,match
+21aqpv,False,af3w76ouczfhfmivup7ylfxhyq,positive,,0,Ovarian Cancer,68.3433298454597,xT.v4,match
+21nssm,False,af4bz75mszfbfdjamb2ispfkse,negative,,0,Endometrial Cancer,48.6987974136916,xT.v4,match
+20aeqq,False,af2m7qeifzaqfp6q3wyznxokem,negative,,0,Breast Cancer,49.9172143679759,xT.v4,match
+20zzkm,False,af22lv4z65fbxhrttped5t3fce,negative,,0,Pancreatic Cancer,16.0615269697014,xT.v4,match
+20wzzz,False,af3gqvttiveo7ewshemer4yc5a,negative,,0,Ovarian Cancer,81.2660900558022,xT.v4,match
+21twuu,False,af3sa6n77rdgli3qovx2hpfjpi,negative,,0,Ovarian Cancer,44.2556992133265,xT.v4,match
+20hlue,False,af2h67rcdrf5nkuxqksibjokeq,positive,,0,Ovarian Cancer,71.8809115559078,xT.v4,match
+20tfut,False,af3bppuhonarrbplyy3a6pqx5a,negative,,0,Ovarian Cancer,26.5895188393295,xT.v4,match
+20fcry,False,af2vsb57zbftnlskqkh2c4f2xu,negative,,0,Non-Small Cell Lung Cancer,39.6857427395368,xT.v4,match
+20kwoc,False,af23zpgcercrdbp5npecsijtzq,negative,,0,Sarcoma,79.0028636201864,xT.v4,match
+20bcgs,False,af3mc5evgrdovbb6veluxpga6e,negative,,0,Pancreatic Cancer,52.5660462481594,xT.v4,match
+21xaoy,False,af3uc54ckvfuti5efmfftiw4ye,negative,,0,Colorectal Cancer,58.8845388406669,xT.v4,match
+20vzoi,False,af3bw3xgufaxtegmurc2wwx7sm,positive,,0,Ovarian Cancer,49.739440789658,xT.v4,match
+20yude,False,af2svnog4bfpdiuh2slkxnfi5y,positive,"Report was marked delayed outside of ReportHub, Report was marked in-progress outside of ReportHub, HRD amendment - needs call-out note, on hold",0,Ovarian Cancer,85.9410226162626,xT.v4,match
+20oebd,False,af3qc7mvcbcc7blhe6up5mkgty,positive,,0,Pancreatic Cancer,37.7121710742828,xT.v4,match
+21vjxn,False,af4axywd2vdivpaio5pfdrd2we,negative,,0,Non-Small Cell Lung Cancer,75.1547424258749,xT.v4,match
+21ijcu,False,af37jqwczjcxbpxq6v4ucgy2si,negative,,0,Gastric Cancer,87.5995005222587,xT.v4,match
+21wtgc,True,af3yaipbanhsfclmbgg7duecdq,positive,"Please eval for aneuploidy - weird cancer type to have HRD, Nix GWLOH graphic, add not-detected pill",1,Chromophobe Renal Cell Carcinoma,66.0594677855252,xT.v4,match
+20echs,False,af3uvqo7jrgmtgx5ubqjzvrrxm,negative,,0,Prostate Cancer,52.5121539296548,xT.v4,match
+21bekq,False,af3yqulhyzdhlil76sgm2tdyym,positive,,0,Endometrial Cancer,28.7783706346394,xT.v4,match
+21siib,False,af4bkehoczdbdeexzzzbbouwbm,negative,,0,Prostate Cancer,20.81147216219,xT.v4,match
+21ipxf,False,af3vecuw7feyjmaornbhmr2bfy,positive,,0,Ovarian Cancer,80.9812215917191,xT.v4,match
+21bjgi,False,af4bf3oy6zfd7dcvjcaklmussa,positive,,0,Ovarian Cancer,56.5396636481256,xT.v4,match
+20qngl,False,af3s5xaxobb4rabbxhd2smvmsa,negative,"What's going on with this report?, TEST",0,Prostate Cancer,43.1595624939241,xT.v4,match
+20jfpv,False,af2ved5pgbg3nm6rzbvmuaaocm,negative,,0,Non-Small Cell Lung Cancer,66.7026074265346,xT.v4,tumor_only
+21eoxv,False,af36yhg3wra2zkwbikmi45jo44,negative,,0,Prostate Cancer,26.6897904083468,xT.v4,match
+20juyx,False,af2eexp2e5este42evpw3y3pw4,negative,,0,Ovarian Cancer,99.3574416873526,xT.v4,tumor_only
+21yydb,False,af3te5ttxffxtc7oug4mxt7sii,negative,,0,Colorectal Cancer,47.2401664808595,xT.v4,match
+20rcdd,False,af2yoxxyk5c3tgopmhpzh73tbe,positive,,0,Ovarian Cancer,42.9378674365178,xT.v4,match
+20qsti,False,af26446cufgztbvvp5jrrxxb2e,negative,,0,Tumor of Unknown Origin,62.5312085339629,xT.v4,match
+20htzh,False,af2y6qdjcng7djiw3anzimm2ry,positive,,0,Ovarian Cancer,65.962811607748,xT.v4,match
+21tsod,False,af32bfhvuvhf3m6s45jagtntkq,negative,,0,Non-Small Cell Lung Cancer,36.8276658124484,xT.v4,match
+21nmea,False,af3uvqqrjjclpdaxnz6mknv46q,negative,,0,Ovarian Cancer,68.7857908379406,xT.v4,match
+20ahav,False,af2g3l2pirft5cqde3o7jmtbo4,negative,,0,Colorectal Cancer,99.2263376798561,xT.v4,tumor_only
+20wryt,False,af3dbpk27rdcra7dc3b3tl3n6y,positive,,0,Peritoneal Cancer,64.4634793959921,xT.v4,match
+21tylo,False,af3yqu2vtfat5iy6l4heqpf3he,negative,,0,Bladder Cancer,48.3359475390069,xT.v4,match
+21ysoi,False,af3xufzzqvha5ih36hmu7dq5am,negative,,0,Non-Small Cell Lung Cancer,83.2905503696791,xT.v4,match
+20nqfs,False,af2wvzrzfjcjbiddempwbftbeq,negative,,0,Non-Small Cell Lung Cancer,84.6708018642963,xT.v4,match
+20gmdo,False,af2lxzyqrbdilgb5p2z2od6rja,negative,,0,Tumor of Unknown Origin,82.6380532973744,xT.v4,match
+20dbbq,False,af3h6bpj6jberaqta7ep75msny,positive,,0,Ovarian Cancer,87.2415061349151,xT.v4,match
+20tzwq,False,af22lvrzszc6bdkooql4djjxhq,positive,,0,Ovarian Cancer,85.9636338191795,xT.v4,match
+20jvzk,False,af2kj3gznbcuvnrd35373nkkxq,negative,,0,Colorectal Cancer,47.3403845249519,xT.v4,match
+20esen,False,af2tf35lwzbffmu5thvwcq56wi,negative,,0,Endometrial Cancer,78.9331164137301,xT.v4,match
+21gniq,False,af3tqtiki5gw7khrpkxmtzkq5m,negative,,0,Sarcoma,64.5123624712358,xT.v4,match
+20awph,False,af2zdqjywncyrcm4yiyrhivttq,negative,,0,Prostate Cancer,52.4915549299707,xT.v4,match
+20ypgj,False,af3bpppmzzgovpgjqaeae2w4kq,negative,,0,Colorectal Cancer,39.9413811605663,xT.v4,match
+20daww,True,af3fa2yc5rehjpen623yva765u,positive,"Deep loss error, 2 hit logic error; used ""not-detected"" pill and removed deep loss note",0,Prostate Cancer,37.8957892304825,xT.v4,match
+21zsij,False,af3rz6aklfbu5k4zxzdsx26z7i,positive,,0,Breast Cancer,37.4299551557377,xT.v4,match
+20fpmg,False,af3oy77g6rh6npbuwjmigjgxoe,positive,"sarcoma, check aneuploidy",1,Sarcoma,78.4482179105374,xT.v4,match
+20pgjs,False,af23wlvlqvbj7blqlyh2rcwu5e,negative,,0,Colorectal Cancer,69.1742236376464,xT.v4,match
+20dmkb,False,af24u4kqbvewjodfy4z5tlrk2i,positive,Checking aneuploidy,1,Colorectal Cancer,51.5919461937521,xT.v4,match
+21mfxb,False,af34gvrvdbdrfkvdh6kjytj4sy,negative,,0,Tumor of Unknown Origin,60.7330405552642,xT.v4,match
+21ibne,False,af4axyyhcrfufau65jgpzr5ddm,negative,,0,Endometrial Cancer,90.1057198904079,xT.v4,match
+20qyha,True,af3fa2ypbzaejh5yh4dxhatr4m,positive,"2 hit logic error; used ""not-detected"" pill and removed deep loss note, updated s/o date in footer to match today's date (was 12/11/2020), gonna fix the s/o date in footer, 2 hit logic error; used ""not-detected"" pill and removed deep loss note, Two hit logic error",0,Ovarian Cancer,91.3380699937832,xT.v4,match
+20pctu,False,afzvlmmwbjbkhohm5e6ntsq6wu,negative,,0,Pancreatic Cancer,93.7590896570721,xT.v4,tumor_only
+20lnwn,False,af2qadtppnch5brvh23byzuwb4,positive,"""on hold"" to ensure the OP is contacted first",0,Non-Small Cell Lung Cancer,76.0469067464251,xT.v4,match
+20dvye,False,af2v5qkoqzae7kd45ujh5ywnaq,negative,,0,Endometrial Cancer,68.7213549725126,xT.v4,match
+20alsp,False,af3grm6bvfd7lo2djsz63vh2om,negative,,0,Prostate Cancer,47.7233732585825,xT.v4,match
+21rzes,False,af4bf3peffc7djg2pprkglamee,negative,,0,Colorectal Cancer,52.0107143756237,xT.v4,match
+20wkwk,False,af2bkdwzqjffjipqmuqwd2lqia,positive,HRD amendment - needs note,0,Ovarian Cancer,80.9298346945415,xT.v4,match
+20grps,False,af3aouvlmndhbpltbkxjvust6u,positive,,0,Pancreatic Cancer,26.6105326024089,xT.v4,match
+21qheo,False,af3utyfzafbffnjyq5kwc43sfq,negative,,0,Bladder Cancer,40.8769030321259,xT.v4,match
+21qyad,False,af333pua3zbrjfevrn6e3onheu,negative,,0,Ovarian Cancer,48.342959172384,xT.v4,match
+20rjhk,False,af22clmgfzckjmg3srwex6nkga,negative,,0,Ovarian Cancer,73.5431050138361,xT.v4,match
+21dcyq,False,af4coykjmvhy5o5xqjqgwxaos4,negative,,0,Ovarian Cancer,84.680825144686,xT.v4,match
+20qubi,False,af2rci7w4jbftmqbcfgb4c5q7m,negative,"Report was marked delayed outside of ReportHub, Report was marked in-progress outside of ReportHub, on hold, HRD amendment - needs call-out note",0,Head and Neck Cancer,26.3759219872403,xT.v4,match
+20fvoz,False,af2qadvvpba3pcecjybfrbc2se,negative,,0,Prostate Cancer,41.6278394843238,xT.v4,match
+20daqb,False,af2uwpwlorhflpbhxr76nzidue,negative,,0,Pancreatic Cancer,31.8899238247916,xT.v4,match
+20grto,False,af2jnckuevfurj66fptcsinfn4,positive,,0,Breast Cancer,72.5513939583028,xT.v4,match
+21bmif,False,af3utz6535eh5fo3cddwbqpccm,positive,,0,Pancreatic Cancer,61.2111260952957,xT.v4,match
+20xjiw,False,af3ptgcub5bdrevtlgkdejvthq,negative,,0,Endometrial Cancer,52.0365374898209,xT.v4,match
+20sirj,False,af27asso5jgprnmfzyu5gt66ge,negative,,0,Non-Small Cell Lung Cancer,26.2625386581026,xT.v4,match
+20qcga,False,af3eisyq7reqzaw3f5r5etvnna,negative,,0,Colorectal Cancer,73.2204072589418,xT.v4,match
+21nbik,False,af3yqu2jn5hjhc4ffkrrnga25m,negative,,0,Small Cell Lung Cancer,81.1183481550066,xT.v4,match
+20xwaj,False,af2w3dpmmvf2nkgzsmnkigntru,positive,,0,Breast Cancer,81.10709253806,xT.v4,match
+20nhit,False,af23ljvk6zctdhfglqmwquik4y,negative,,0,Prostate Cancer,79.0072350235813,xT.v4,match
+21twjb,False,af34qdbun5cslbehdpjkreblze,negative,,0,Biliary Cancer,35.3774381786005,xT.v4,match
+20lxcu,False,af2upqgbzjejdpj2yezzkylxxi,negative,"on hold, Report was marked delayed outside of ReportHub, HRD amendment - needs call-out note, Report was marked in-progress outside of ReportHub",0,Tumor of Unknown Origin,52.7999801696196,xT.v4,match
+20ayei,False,af2xhxjvojbidkxn7jtgl452bu,negative,,0,Gastric Cancer,39.719834701277,xT.v4,match
+21hgst,False,af36nzt2obe6rczgx46vki2qda,positive,,0,Ovarian Cancer,64.2474279060894,xT.v4,match
+20ggcl,False,af3mokwkdrb7rib54pl432kvva,negative,,0,Prostate Cancer,79.3433502622157,xT.v4,match
+21julr,False,af4bf3o6hvhy7hjtivnoufv7xe,negative,,0,Pancreatic Cancer,19.041411871047,xT.v4,match
+21genm,False,af3witk5anehxgzngyz5qx6wue,negative,,0,Pancreatic Cancer,15.3865774334947,xT.v4,match
+21qfsu,False,af3s5wqkxbdkbasvsoi3fckefe,positive,,0,Breast Cancer,55.9526777765008,xT.v4,match
+20znbl,False,af2jnci4bzcs3d2hq3222eji7e,positive,,0,Melanoma,69.1027997218679,xT.v4,match
+20xgmg,False,af2shljblnaafclvnif3bqoreu,negative,,0,Breast Cancer,86.5334527569128,xT.v4,match
+20oiru,False,af2k4vo6efeclassrk6c5fb4ny,negative,,0,Tumor of Unknown Origin,67.8953400857927,xT.v4,match
+20gtku,False,af3gswczn5hy3mq3asspbc7vre,positive,,0,Non-Small Cell Lung Cancer,58.5614720770318,xT.v4,match
+20fpnx,False,af3nan5cqndddazm2ju7nmqmny,negative,,0,Prostate Cancer,53.3606504264227,xT.v4,match
+20jiut,False,afzsc4utm5bbnerz4fl3nvtr5e,positive,HRD amendment - needs note,0,Ovarian Cancer,80.9479172334926,xT.v4,match
+21itfj,False,af32s6yf25ae3hfubtpq4ptcky,negative,,0,Ovarian Cancer,24.3651702606004,xT.v4,match
+20acay,False,af3f7apklzerphxal74nwpc7dy,positive,,0,Ovarian Cancer,73.4513716577478,xT.v4,match
+21hsux,False,af4bf3oipvexfo5dei67k2ioua,negative,,0,Melanoma,75.3775064442133,xT.v4,match
+21hreg,False,af34qcyfzbbkhprylyuuizv5uu,negative,,0,Ovarian Cancer,88.8920766528848,xT.v4,match
+20qyyk,False,af2wfx42pjbobjoneo6jwjfurq,negative,,0,Non-Small Cell Lung Cancer,72.1422583251707,xT.v4,match
+21lcjn,False,af3s5xli5na4fnj5pl5d57vm5y,positive,,0,Non-Small Cell Lung Cancer,69.7125208448327,xT.v4,match
+20dyub,False,af26ttfcq5d6rj5oqohe2uf6lu,negative,,0,Colorectal Cancer,22.7683736313335,xT.v4,match
+20kste,False,af3ihttdubelnlcepdf6avo6mq,negative,,0,Ovarian Cancer,70.8878307802532,xT.v4,match
+20altx,False,af3www2s2vdfvdpskoetvdtdlm,negative,,0,Sarcoma,71.2600667857022,xT.v4,match
+21futs,False,af3vyw2gmbampp733vsqkopofy,negative,,0,Non-Small Cell Lung Cancer,78.0106403556989,xT.v4,match
+20crgq,False,af27pf44cnc4xkuhavxkl5grue,negative,,0,Clear Cell Renal Cell Carcinoma,50.986394585039,xT.v4,match
+20vigi,False,af3jrktx5renjgkqfeofyxutia,positive,,0,Non-Small Cell Lung Cancer,30.9532149409753,xT.v4,match
+20bqje,False,af3mc5q2czfvvo4etbdrdxxlvi,negative,,0,Pancreatic Cancer,52.3717236904234,xT.v4,match
+20gvgu,False,af3ht2e53veqzomdmtpp56zsj4,negative,,0,Prostate Cancer,44.4651616120574,xT.v4,match
+20grlp,False,af3mc5dh5nhuhmciytuvcitb3a,negative,,0,Colorectal Cancer,44.4201442948526,xT.v4,match
+20vfyv,False,af3ok4ap45bwxizrndlh7einhy,negative,,0,Ovarian Cancer,51.1781465373035,xT.v4,match
+20nskl,False,af2may2fh5arrg2fbw3g2mygni,negative,,0,Breast Cancer,71.3451948924732,xT.v4,tumor_only
+21gwbx,False,af3zujlnhzcadkvotb6qx5b7s4,negative,,0,Pancreatic Cancer,23.8036690085871,xT.v4,match
+20iyuh,False,af2rcp7ax5aslg6ecfttys2bc4,negative,,0,Prostate Cancer,90.8205466205906,xT.v4,match
+20uwim,False,af3chhdgyrdlfjjdh2465rj2di,negative,,0,Sarcoma,13.4689034132171,xT.v4,match
+20wqdv,False,af27zsmxpjgihonifobbo3eotq,positive,,0,Pancreatic Cancer,22.176733486715,xT.v4,match
+21uato,False,af34qdecdrgmviugiwmgpebdkq,negative,,0,Gastric Cancer,41.0336583403211,xT.v4,match
+20hjho,False,af2nngpmofaxzliwr54slpbu54,positive,,0,Non-Small Cell Lung Cancer,70.440959354314,xT.v4,match
+21yqcj,False,af4a4xk3v5hgnelw4lcub3llcu,positive,,0,Breast Cancer,57.0537449971412,xT.v4,match
+20esza,False,af3bpppsm5baldr32l43myrmom,negative,,0,Prostate Cancer,53.2510221109721,xT.v4,match
+20rqsc,False,af3hw7alr5dzfdbnz5ljasdeva,negative,,0,Breast Cancer,48.4089737733052,xT.v4,match
+20gicy,False,af2z4b56dvhupj4c6sa4zvgd4q,positive,,0,Tumor of Unknown Origin,51.0534560715899,xT.v4,match
+21mndm,False,af4axyzezbczhdojlfed6mkez4,negative,,0,Bladder Cancer,48.4601324829637,xT.v4,match
+21wobc,False,af3xwoynibfk7dl7xeomumav24,negative,,0,Bladder Cancer,87.2808582419575,xT.v4,match
+20qonb,False,af27zdwcbrehfgthqg2y3oat7u,positive,,0,Ovarian Cancer,60.6991910358597,xT.v4,match
+20sgvi,False,afz66jiwybbtrcjitty6ogfk4y,positive,,0,Prostate Cancer,39.5979289044488,xT.v4,match
+21wkko,False,af32jnonk5glzh3z4zwkfl6jpm,negative,,0,Breast Cancer,47.6008350503991,xT.v4,match
+20zpqn,False,af25uzn2fbchpd5voz5rhsn6vq,positive,Checking aneuploidy,1,Esophageal Cancer,39.0922048303664,xT.v4,match
+21jnby,False,af33imcoe5f6rhnoqunmnybp6e,positive,,0,Non-Small Cell Lung Cancer,73.8203245290203,xT.v4,match
+20gbwu,False,af24krkjejgcxiymoddiucnziy,positive,,0,Ovarian Cancer,80.8926989005832,xT.v4,match
+20chqg,False,af2k4vn32nccjn5aafegoz7gjm,negative,"Report was marked delayed outside of ReportHub, Report was marked in-progress outside of ReportHub, Hold - notify CS/sales, on hold, HRD amendment - add call-out note",0,Ovarian Cancer,56.4932300266494,xT.v4,match
+21qppw,False,af3q6sayxnhjlhpdqywfqec3qu,negative,,0,Endometrial Cancer,56.4383752796353,xT.v4,match
+20tnph,False,af3grmxqgnaxzft2vivjgsuusa,positive,,0,Tumor of Unknown Origin,38.2815391053585,xT.v4,match
+20scwg,False,af2vbreb3rgdddubedsz2a4qga,negative,"There is no reason for the amendment listed, is it for MRN?",0,Prostate Cancer,56.4175085407485,xT.v4,match
+21tbge,False,af3xb37kpzfsxp2hkvmub4efda,negative,,0,Prostate Cancer,68.652757127392,xT.v4,match
+20qoyo,False,af3fa2ziubf5fejur3nymqdwom,negative,,0,Breast Cancer,50.7085070623994,xT.v4,match
+20cngk,False,af2lpo56cfhmnp6hjgtspbyqu4,negative,,0,Prostate Cancer,60.8622077315085,xT.v4,match
+21qhhw,False,af3tqs72xbep5enluwsf3sqwjy,negative,,0,Breast Cancer,77.7154114990032,xT.v4,match
+20labc,True,af3ok37mxzchjprqq465x6llm4,negative,"Add pos pill, BRCA note, updated footer s/o date, BRCA variants not annotated, needs s/o update in footer",0,Prostate Cancer,69.9952514051304,xT.v4,match
+21cwma,False,af4bf3wljnc7rhjzcfg2iwlgiq,positive,,0,Prostate Cancer,53.6582112742302,xT.v4,match
+20ogvj,False,af2rlyrrq5f4tb7escpzqeluyq,negative,,0,Prostate Cancer,56.7808425420495,xT.v4,match
+20ogvj,True,af2rlyrrq5f4tb7escpzqeluyq,negative,"needs to be put on hold until 20wwja is signed out, HRD amendment, HRD amendment, HRD amendment, HRD amendment report, update s/o date to 11/09 on all 4 new pages",0,Prostate Cancer,56.7808425420495,xT.v4,match
+21tpzq,False,af4bz7r2jfeb3guxqakxfb7mfe,negative,,0,Colorectal Cancer,54.016993752071,xT.v4,match
+20ajjl,False,af2xhxkwu5ef5eleoz3evrdani,positive,,0,Breast Cancer,52.027923814149,xT.v4,match
+20ymtz,False,af22lvugync3xfiik5d3fwknl4,positive,,0,Peritoneal Cancer,41.4561434634462,xT.v4,match
+21aujg,False,af3xpacirrbazi6lrfpnlqufdq,positive,weird BAF,0,Prostate Cancer,44.3030738294297,xT.v4,match
+20juyx,False,af2jgmmt2ngvrguio65ablgtvi,negative,"on hold, Report was marked in-progress outside of ReportHub, Report was marked delayed outside of ReportHub, HRD amendment - needs call-out note",0,Ovarian Cancer,45.5077538239155,xT.v4,match
+21ifur,False,af3vs25pj5dapjimzurzltj43a,negative,,0,Ovarian Cancer,18.037346026067,xT.v4,match
+21vrwv,False,af3uc3hcezbflfx5snv4kttqgi,positive,,0,Breast Cancer,55.373335516185,xT.v4,match
+20qfmp,False,af2wye35ardiplveao2xl2hisy,negative,,0,Ovarian Cancer,34.7048392430449,xT.v4,match
+21sgvo,False,af3zui3i3jbtxmz7tlvgxtqrxu,positive,,0,Ovarian Cancer,37.4589798738981,xT.v4,match
+20leoi,False,af2v2orafbb7rd2axt33n7ngqm,positive,"Report was marked in-progress outside of ReportHub, Report was marked delayed outside of ReportHub",0,Endometrial Cancer,38.4167622860665,xT.v4,match
+20zdfc,False,af25xw2nqngm5f2zqcwmdnkuiu,negative,,0,Colorectal Cancer,39.0337360817817,xT.v4,match
+20uscs,False,af3dmkhednb3bjz4sly5v7zn4i,negative,,0,Melanoma,48.3520482456515,xT.v4,match
+21efgx,False,af4a4xdynneg5o66wppxeoa65e,negative,,0,Sarcoma,18.5636604774536,xT.v4,match
+20axmx,False,af2lybtltnahpm5cbwprdpvgxq,negative,,0,Bladder Cancer,58.0043228987502,xT.v4,tumor_only
+20arwz,False,af3dracqebejpcg3z7me6qufq4,positive,,0,Head and Neck Squamous Cell Carcinoma,57.7883367911611,xT.v4,match
+21tqet,False,af3xwo2qazekxde7d4s2jqg3ve,negative,,0,Sarcoma,50.8810080791371,xT.v4,match
+20vvkw,False,af3grm3kqzeivgkxsls4tijoiu,positive,,0,Ovarian Cancer,75.1938067534007,xT.v4,match
+20sjjm,False,af2ksxd7sbbk3k252xkbi4xzb4,negative,,0,Biliary Cancer,33.3033365035411,xT.v4,match
+21tppc,False,af3v7umxc5btriwjyljvrmagpi,negative,,0,Ovarian Cancer,60.2439692128723,xT.v4,match
+20hlzj,False,af3lfcn5mjhidlaw3nwsdimvlq,negative,,0,Colorectal Cancer,58.9322251689981,xT.v4,match
+20byzn,False,af3nan52ava35e2425w6m2g3iq,negative,,0,Prostate Cancer,53.5564270680985,xT.v4,match
+21ouzp,False,af3vecnonrdtrle7c6iiscyp7u,negative,,0,Non-Small Cell Lung Cancer,25.6266926353408,xT.v4,match
+20ifzp,False,af2tuf35l5erxb7sdftaoo45wu,negative,,0,Breast Cancer,88.1611107317504,xT.v4,match
+20byqt,False,af2rqhznovc5zmrfmshmtaqpo4,negative,,0,Bladder Cancer,68.9900969182784,xT.v4,match
+20niof,False,af264433nfc2zl4akghv4adkpi,negative,,0,Prostate Cancer,21.1141826923077,xT.v4,match
+21gwqo,False,af3yqtgppvfnza4cabo2souxva,negative,,0,Colorectal Cancer,79.0632795406688,xT.v4,match
+20scdc,False,af2nxxcr3rh4tjcwynfm75kxim,negative,,0,Non-Small Cell Lung Cancer,53.0216567233886,xT.v4,match
+20mplv,False,af3mc5qfunb7ljsputttglldmy,negative,,0,Pancreatic Cancer,17.9102687478595,xT.v4,match
+21eibr,False,af34gvgakve5jdxzvazata3elm,negative,,0,Ovarian Cancer,41.6098541560319,xT.v4,match
+20vaps,True,af2qadoowvgkzmdcaimvl7btgi,negative,"Need to remove results for retraction report, fix amendment header, make retraction amendment",0,Prostate Cancer,65.4901889435914,xT.v4,match
+20vaps,False,af2qadoowvgkzmdcaimvl7btgi,negative,"TO RETRACT THE DUPLICATE REPORT., Report was marked qc-fail outside of ReportHub",0,Prostate Cancer,65.4901889435914,xT.v4,match
+20swgq,False,af2nxw4yazeh3lshhmostpdcma,negative,,0,Prostate Cancer,70.5643449405231,xT.v4,match
+20dpvt,False,af3lfcltsjbwxgyre7ygeb6rvi,negative,,0,Ovarian Cancer,85.7880973292006,xT.v4,match
+20kgpm,False,af3kgnfcdfcjpguhxyii2pypx4,negative,,0,Melanoma,64.115264324192,xT.v4,match
+20xqoh,False,af3ndb4f2zbcdjeypgrcyzgyeu,negative,,0,Pancreatic Cancer,27.8842473448607,xT.v4,match
+21zfwe,False,af32bfilnnh7tkf6rq5ixlnjee,positive,possible aneuploidy,1,Breast Cancer,63.6595376045604,xT.v4,match
+20pssa,False,af3g7bk3inho3dqobamefweola,positive,,0,Breast Cancer,72.4738533896384,xT.v4,match
+21egmw,True,af4a4xoarrbn7dfwealjswmyai,positive,"not-detected pill, removed BRCA note, neg per Nike",0,Prostate Cancer,31.0964090684366,xT.v4,match
+21bpil,False,af3vqifzyfanznvqyl3fgajya4,negative,,0,Colorectal Cancer,58.9125635156093,xT.v4,match
+20qpvf,False,af3ihud5wvb6ffcjhaa4qzyd6y,negative,,0,Prostate Cancer,79.1784861376801,xT.v4,match
+21qmya,False,af3rhlh4zzee5n2p5xh6wfs6vi,negative,,0,Small Cell Lung Cancer,93.2016038422334,xT.v4,match
+20gepl,False,af2zmpvtjvf7boploj2yqeigbi,negative,,0,Sarcoma,34.0408535976674,xT.v4,match
+20ehjm,False,af3uvqaqkngxhcoprvhb3jxsum,negative,,0,Colorectal Cancer,30.0576992282171,xT.v4,match
+20munw,False,af3htzsdgjachm24epaqxgfdfm,positive,,0,Breast Cancer,63.9863841173946,xT.v4,match
+21epcp,False,af32s6u4onaiviyb2pa2vtxuru,negative,,0,Ovarian Cancer,26.7192752622373,xT.v4,match
+20rzio,False,af3htzsvibcg3igi7kouynjr4i,negative,,0,Uveal Melanoma,77.5164933196568,xT.v4,match
+20ymjv,False,af3eis5qkfhirpnjwodfzlypli,negative,,0,Sarcoma,65.1659774539968,xT.v4,match
+21lpnm,False,af4bf3sarzbu7gtmyr32rfrl7y,positive,,0,Non-Small Cell Lung Cancer,53.0135727898539,xT.v4,match
+21xxqr,False,af3qtif6p5gdte5ugc327n4flm,positive,,0,Breast Cancer,53.224402416562,xT.v4,match
+20tpyt,False,af27zdxyrngjlirxx6x6fnvtjm,negative,,0,Breast Cancer,75.197177610704,xT.v4,match
+21ftxo,False,af3vyxgpxnbl7h5rofhir3es6e,negative,,0,Ovarian Cancer,84.7429630310752,xT.v4,match
+20kcwc,False,af2svnnwxzcs5lht6abfwnpgjq,negative,,0,Non-Small Cell Lung Cancer,41.8756100731115,xT.v4,match
+20wltg,False,af25rhv56nhp3djbsfafsn3x7m,negative,,0,Sarcoma,58.3293457825464,xT.v4,match
+20xvmw,False,af2m3hm2wzeobncdgbf5bal3dm,negative,,0,Endometrial Cancer,62.49412942573,xT.v4,match
+20fcyi,False,af3kgncs4jb57bnijgq2srt5pq,negative,,0,Prostate Cancer,81.3006782957954,xT.v4,match
+20hdjf,False,af2upqaz7zfhvn4pb43bakrody,negative,,0,Bladder Cancer,44.9358647855691,xT.v4,match
+20eyhj,False,af3moko7jbbdjignkds52wnwty,negative,,0,Pancreatic Cancer,17.5511667357298,xT.v4,match
+20ozct,False,af246l6c4rbh5jeux4k5zdcnaq,negative,,0,Ovarian Cancer,75.3710407637546,xT.v4,match
+20dqwe,False,af2v5qlpj5bgxmmcmlotalnm3a,positive,,0,Breast Cancer,29.3936179788611,xT.v4,match
+21tpan,False,af3yaisg6bbybbl3dpdqllsc7e,negative,,0,Prostate Cancer,39.5698845411489,xT.v4,match
+21qbyn,False,af3vqh5qbvfg3auraieu2g7zba,negative,,0,Pancreatic Cancer,20.7566224227253,xT.v4,match
+21pfni,False,af3qtig57fctvptcv3otlspo74,positive,,0,Ovarian Cancer,35.2083330440696,xT.v4,match
+20rugh,False,af2tugdjlnc7hlvnnclem5x7w4,negative,,0,Prostate Cancer,62.2349482159163,xT.v4,match
+20qrjq,False,af3htz4nxrgklchcqevfbtpzga,positive,,0,Skin Cancer,79.4593417837299,xT.v4,match
+20gqgn,False,af3ehv6hf5eqpgcl6qss2pnafm,negative,,0,Non-Small Cell Lung Cancer,45.4052934491061,xT.v4,match
+20jpzc,False,af3b7l36ifeb7o5vlsi5t4jhvq,positive,,0,Pancreatic Cancer,39.6694956567264,xT.v4,match
+21ozic,False,af3zujh2hvh4dmd3ykwouvfno4,negative,,0,Sarcoma,86.1974394174947,xT.v4,match
+21fwij,False,af36yhtbuvasjkyqcwjgdfro3m,positive,"cohort was changed to panc, change threshold",0,Tumor of Unknown Origin,77.6820969049165,xT.v4,match
+20ynzv,False,af27zdwbsbayrmal7vqdaunzg4,negative,,0,Pancreatic Cancer,47.3585271750402,xT.v4,match
+20izyv,False,af3fa2wijnebpmk2ynv66v5kpm,negative,,0,Gastric Cancer,55.2131251360778,xT.v4,match
+21isrg,False,af33mwrffvb47kc5wssnmsknma,negative,,0,Prostate Cancer,63.0434707989255,xT.v4,match
+21xoet,False,af3yaijx7jgrdcyjxa2tdkaa6e,positive,,0,Ovarian Cancer,60.9737130374998,xT.v4,match
+20ibaa,False,af3htz22wzh5debsxd37icvd6u,positive,,0,Peritoneal Cancer,34.979850016686,xT.v4,match
+20eefm,False,af3fk2mctbe6bdqjgshendbpei,positive,,0,Colorectal Cancer,51.4109547196854,xT.v4,match
+21kkvi,False,af3z5xfjx5dtzo5d4dpvqublwi,negative,,0,Prostate Cancer,48.2716195966501,xT.v4,match
+20zwyk,False,af27zsmrjve5bavtnnl3oiwetq,negative,,0,Prostate Cancer,40.6636787996835,xT.v4,match
+20hxsz,False,af24u4qsebex3mxg3qavipxe4y,negative,,0,Bladder Cancer,64.2022075327527,xT.v4,match
+20iren,False,af246l3qpbegdag2fwxgllrwge,negative,,0,Tumor of Unknown Origin,77.6616890845617,xT.v4,match
+21tmca,False,af33eiu6tfgafaei6erybwirfi,negative,,0,Prostate Cancer,80.4297212847426,xT.v4,match
+20ajaw,False,af3ok36onzeo5io2xmltw6zv2i,negative,,0,Pancreatic Cancer,30.5755592675604,xT.v4,match
+20jhzn,False,af2mcbcjireelpdvboiasib3ja,negative,,0,Kidney Cancer,92.0321711107999,xT.v4,match
+20tjsf,False,af3j3zk3ijah7n6yl7kbpxsoui,negative,,0,Ovarian Cancer,67.0838980178536,xT.v4,match
+21gqtp,False,af3pyd6rgzfxlhptej5unkxgv4,negative,,0,Colorectal Cancer,60.1928059907102,xT.v4,match
+20ixjb,False,af2qn5svgffnnasdw7armrqesa,negative,"on hold, Report was marked in-progress outside of ReportHub, Report was marked delayed outside of ReportHub, HRD amendment - needs call-out note",0,Gastric Cancer,38.2979783816969,xT.v4,match
+21vvgb,False,af3rz5uolbeczcexmv75sagase,negative,,0,Small Cell Lung Cancer,67.5763676396008,xT.v4,match
+20yood,False,af3n4emvdjc5thu3wovutycjzy,positive,,0,Ovarian Cancer,67.535515123863,xT.v4,match
+20ljyc,False,af3owepy7zd6raecjxxivw5gva,negative,,0,Adrenal Cancer,47.6252911529207,xT.v4,match
+21rukt,False,af3yailnhzfa3crd7lh2j2rnie,positive,,0,Prostate Cancer,43.2464130437857,xT.v4,match
+20gvkp,True,af2wl2witjadxi5t6q4dl2mvne,negative,"update s/o date, ""on hold"" per Cenko's request,  Peritoneal is supposed to have same threshold as ovarian, when is this ticket going to be resolved?, add pos pill, update s/o date in footer on all 3 pages, I updated the threshold text to “25%“, then I moved the text + dashed line to graphically depict the update. SH",0,Peritoneal Cancer,57.0650641430742,xT.v4,match
+20dqrv,False,af22vrylsvayzb5hamkmhvte64,positive,,0,Colorectal Cancer,29.1734809250516,xT.v4,match
+20dqph,False,af3ptgfob5hkxkcralaiqio2vu,negative,,0,Colorectal Cancer,37.0644738277052,xT.v4,match
+20uhxo,False,af23zpgmfzg6fhjlo4w65w7vyq,negative,,0,Ovarian Cancer,21.5309406096535,xT.v4,match
+20rxeh,False,af3qtibu6rbyzmww4p4fgnzsz4,negative,,0,Non-Small Cell Lung Cancer,58.6446706318124,xT.v4,match
+21sxsd,False,af3yzeupw5hi7ksxza7h5cb4x4,positive,,0,Pancreatic Cancer,31.6815599841024,xT.v4,match
+21qmgw,False,af3rorsexza23phaq6o2kkat6e,negative,,0,Prostate Cancer,40.6074156587347,xT.v4,match
+20kwyo,False,af2k4vmdgrag5m2jk465ykioca,positive,,0,Melanoma,48.7692756350704,xT.v4,match
+20fnks,False,af3nan4sazb55kxbwklqlgyjom,negative,,0,Colorectal Cancer,85.1092587371175,xT.v4,match
+21awqu,False,af3zkj2tzjevfijkzzk6v7hvbm,negative,,0,Pancreatic Cancer,17.6653487094709,xT.v4,match
+20iiqw,False,af2vsb6njzdfpchkynbstbv57e,positive,,0,Sarcoma,87.4049096676364,xT.v4,match
+20pgcy,False,af27zd5rfnhstnddc5pr4snumm,positive,,0,Ovarian Cancer,33.3435554722638,xT.v4,match
+20gigi,False,af26sgrxo5dh5gevvrnfuuq2pi,positive,,0,Ovarian Cancer,33.2719732499665,xT.v4,match
+20hnbf,False,af3ihua4dfgphnmc3yvwdpyfpu,negative,,0,Prostate Cancer,96.1677405808793,xT.v4,match
+21cuhy,False,af4b7uzs2jdhvo6jbar2opzmpa,positive,,0,Ovarian Cancer,50.3603267141646,xT.v4,match
+20xjbq,False,af2vscel4bgcrhbd7zm7eoejvu,negative,,0,Colorectal Cancer,73.3681870018857,xT.v4,match
+21elcc,False,af37vwobbjgkbe76oifx7bpsvu,positive,,0,Tumor of Unknown Origin,92.2213631608925,xT.v4,match
+21hofx,False,af3te5uaqrbdloagu4n4z23dj4,positive,,0,Ovarian Cancer,87.029412164834,xT.v4,match
+20akrc,False,af25rh2wcvhifg3nctqjqkd5im,positive,,0,Ovarian Cancer,94.0919506315347,xT.v4,match
+20rzqf,False,af3ok4c5ljfjxiq4uq7a7dppn4,positive,,0,Sarcoma,88.1711749149156,xT.v4,match
+21obda,False,af3vecgisfbv7hlvmubqjuzk3q,positive,,0,Pancreatic Cancer,52.982641268817,xT.v4,match
+20hait,False,af23lju6yrb7db2cytrg6z6dom,negative,Should we round up to the thousands place into the hundreths ,0,Ovarian Cancer,81.3273696620093,xT.v4,match
+20xlke,False,af22l6wmgrg4xom4irgf236tpq,negative,,0,Glioblastoma,70.4993063901018,xT.v4,match
+21gyhu,False,af34gvyi75bufduheqpe5n2vea,negative,,0,Ovarian Cancer,91.3264013834529,xT.v4,match
+21asns,False,af3x4itvzbfknoo2sklnaqvkhm,negative,,0,Prostate Cancer,27.759139123002,xT.v4,match
+21jlsp,False,af3uvqkfazhgvnxzddvbj5nnly,negative,,0,Peritoneal Cancer,46.0581584903505,xT.v4,match
+21byon,False,af3yz5rsonhw3expjva6qbftum,negative,,0,Gastric Cancer,37.6249193431372,xT.v4,match
+20cyct,False,af2nngpg6vcxdg3gej7raokyve,negative,,0,Endometrial Cancer,59.2104340095602,xT.v4,match
+20rqvh,True,af2xhxi6bvaz3pd7nb5uioemmi,positive,"added ""not-detected"" pill, removed deep loss note, update s/o footer date (12/21), Deep loss error, please change to not detected and remove note",0,Endocrine Tumor,49.8901241472979,xT.v4,match
+20jbkk,False,af2obymqcngthb5wqpjlzlfunm,negative,,0,Biliary Cancer,61.1372721340892,xT.v4,tumor_only
+20ljss,False,af2z4b3zgfeabgr6r22q32lvby,positive,"Discussing with Benji, concerned about aneuploidy",1,Esophageal Cancer,49.9440496762537,xT.v4,match
+21tpgg,False,af37imms65hpjeqtqju74z755i,negative,,0,Breast Cancer,59.3123226778602,xT.v4,match
+20bghx,False,af3draegkvgjfknyf7jbmvdk4i,negative,,0,Prostate Cancer,90.515446992937,xT.v4,match
+20aiqn,False,af22lvsre5dfhk7entqram7uju,negative,,0,Breast Cancer,62.4039102283633,xT.v4,match
+20vfgu,False,af3pyeayoramzmzgfkte2rk5uy,positive,,0,Tumor of Unknown Origin,75.3848589145954,xT.v4,match
+20pyra,False,af37isvhwfgefof2hnsgh6osna,negative,,0,Prostate Cancer,59.6903455271635,xT.v4,match
+21jrux,False,af3uvqksbzewrmpfueesp7tq7q,positive,,0,Ovarian Cancer,57.350904075294,xT.v4,match
+20gyms,False,af3hj43szje2tjr56ubhe55fsi,positive,,0,Peritoneal Cancer,68.2618446916484,xT.v4,match
+20aqwl,False,af3dmkjsljhalldte6wvbcwcme,positive,need to check LoH vs. aneuploidy,1,Prostate Cancer,36.0165866261398,xT.v4,match
+20qejq,False,af3pls2at5hgzdnzwnbfba6nvi,negative,,0,Colorectal Cancer,25.7067222459014,xT.v4,match
+20tmhl,False,af2xhximqfemdalbbx5kmgzs5y,negative,,0,Glioblastoma,73.3610666734916,xT.v4,match
+20zxcd,False,af2prwva25holelyu6ry7yza3q,negative,,0,Pancreatic Cancer,43.2021102362205,xT.v4,tumor_only
+20stjx,False,af2xoamhtrge7jynhyqf5qkxs4,positive,,0,Ovarian Cancer,62.8111772571476,xT.v4,match
+20uzlt,False,af2pu7mgnjgdjevmy6d44tlnqu,positive,,0,Ovarian Cancer,47.7842853190168,xT.v4,match
+21pcoj,False,af3yaipvm5gg5jg5rv3qctyiky,negative,,0,Colorectal Cancer,28.918721755033,xT.v4,match
+20mpzd,False,af2jnbsskrgbrjk2wrjzrkgcii,negative,,0,Melanoma,74.6963888627097,xT.v4,match
+20vsvo,False,af2vbreivndd7eylrq53ioxpty,negative,,0,Tumor of Unknown Origin,43.9707033731589,xT.v4,match
+20zqkz,False,af26447ayvc4vhagcl5ldokmxi,negative,,0,Breast Cancer,29.171101391167,xT.v4,match
+20oopb,False,af3lfcpaknh7nftsqna6wt72be,positive,,0,Breast Cancer,73.3394310350363,xT.v4,match
+20oion,False,af3hj4fabvevnld2kakt566lom,negative,,0,Head and Neck Squamous Cell Carcinoma,53.2679269151361,xT.v4,match
+20nxvv,False,af265oridrewxfjm43ecgekaha,positive,,0,Ovarian Cancer,37.2922132304604,xT.v4,match
+20izkx,False,af3nkskiu5hadhi37ftj4qbzoa,negative,,0,Tumor of Unknown Origin,31.0679509487562,xT.v4,match
+20hzvk,True,af3dmyjrfnhgxmzabe2z23ejgy,negative,"updated s/o date to 12/21/2020, Report error when signing out, ""pos"" pill added, BRCA note added, S/O footer date ""12/18/2020"", Another discordant logic error ",0,Breast Cancer,51.3230541680776,xT.v4,match
+21uniy,False,af3yzevn5jap7ilfcadf5moa6u,negative,,0,Bladder Cancer,35.0070547586946,xT.v4,match
+20xeqe,False,af3j3zko7vg6hndi3rf42rxsl4,negative,,0,Prostate Cancer,20.2704253975993,xT.v4,match
+21gnbv,False,af4a4xj2sngdtag2bf52swjuwq,negative,,0,Biliary Cancer,63.1321775054018,xT.v4,match
+20hvph,False,af3lfcj4rvhvhmvp6wkw3p6q74,positive,,0,Non-Small Cell Lung Cancer,34.1447142999456,xT.v4,match
+21vegm,False,af3z5w7etvdgdf7zxxbyla6pxa,negative,,0,Colorectal Cancer,54.7349454051105,xT.v4,match
+21vwfz,False,af4a47mijbeldnrho2slqfkg5a,negative,,0,Glioblastoma,76.7627688955136,xT.v4,match
+20xlho,False,af2nxwxh65gpxcur4mtmnlyifu,negative,,0,Endometrial Cancer,61.419434024994,xT.v4,match
+20pusl,False,af2jdqxkhbbs3g3ppkkdeb5wkq,negative,,0,Ovarian Cancer,75.9344227504245,xT.v4,tumor_only
+20apeb,False,af2m7p6gkvf6bkwg4du4stsvmq,negative,,0,Liver Cancer,93.0517980057053,xT.v4,match
+20yomv,False,af2qrkrrkjgzzop5pdrjkhh66q,negative,,0,Colorectal Cancer,82.3365296754106,xT.v4,match
+20ghnk,False,af3ou3dt2rcnnaeyemml6ryg6i,negative,,0,Pancreatic Cancer,38.5062968573785,xT.v4,match
+21ojzx,False,af4a4xmizzgnbh5rhyiline4i4,negative,,0,Prostate Cancer,42.479896457155,xT.v4,match
+20caqz,False,af3lfcjwxjbkxcnpboptqdjopq,negative,,0,Bladder Cancer,99.3614176586607,xT.v4,match
+20ttzc,False,af3ok3syuzbmpi6lmqt2soxk2m,negative,,0,Biliary Cancer,44.0951257413272,xT.v4,match
+21cofg,False,af3xb4kgffdlnni6i477owzzqu,negative,,0,Non-Small Cell Lung Cancer,37.1415193113076,xT.v4,match
+20jcft,False,af2szzk53ffinauk4coxxxmy5m,positive,,0,Ovarian Cancer,71.8074104148806,xT.v4,match
+20giih,False,af3ok4hfrbfr3anqeg3sizk4li,negative,,0,Prostate Cancer,37.7443091088604,xT.v4,match
+20ectl,False,af2inh5nabajtnyzeqlxo3gave,negative,,0,Pancreatic Cancer,17.5209767234659,xT.v4,match
+20doqw,False,af3owewtbrgmxigodebfujhbni,negative,,0,Ovarian Cancer,28.9170405570459,xT.v4,match
+21zgxr,False,af3zkkfttjefhexjsqxb5lfisu,negative,,0,Gastric Cancer,26.6983184557989,xT.v4,match
+21rqnv,False,af3w7qtlt5ebfaqqsorxot5t74,negative,,0,Prostate Cancer,57.8507928760043,xT.v4,match
+20fswu,False,af2jnckyzbaspg2n75sy6jfu5u,positive,,0,Ovarian Cancer,83.2501018510035,xT.v4,match
+20jmtq,False,af2o2oifqjfn7ihnwdjd6naltu,positive,,0,Non-Small Cell Lung Cancer,51.4971169733308,xT.v4,match
+20eaxk,False,af2qaduc7jaejjc6p45uloegwi,negative,,0,Prostate Cancer,95.405721245231,xT.v4,match
+20axfm,False,af3ewtojyrhtvgh25qz5srfflm,negative,,0,Prostate Cancer,48.4841246470381,xT.v4,match
+20plws,False,af2pm56jsjhndch52vajp4xhla,negative,,0,Pancreatic Cancer,39.6049402737618,xT.v4,match
+21slcl,False,af3yquaatbc6jd34cfo3o5bgu4,positive,,0,Breast Cancer,75.2270664901094,xT.v4,match
+20kdcp,False,af24u4fltfgctj7dxsx42npwtu,negative,,0,Colorectal Cancer,89.1746254739767,xT.v4,match
+20psfa,False,af265ozj3rhj5fesymx3cuyjvi,positive,,0,Pancreatic Cancer,40.5670254309639,xT.v4,match
+20dhni,False,af3qtiltvbgspbcwiirsvp7r6y,negative,,0,Biliary Cancer,28.1703912795491,xT.v4,match
+21gxim,False,af3vecqix5frvaysc3lhmsbkji,negative,,0,Non-Small Cell Lung Cancer,33.413083878802,xT.v4,match
+21krmk,False,af3sa6obj5azblv4uo6syrxety,positive,,0,Prostate Cancer,60.0993328769809,xT.v4,match
+21cycu,False,af4bz7w6a5b5xlncvakcksaj4u,positive,,0,Bladder Cancer,59.1364624120563,xT.v4,match
+21dgrc,False,af4bf4co6nfdzovtwrxvt3bjme,negative,,0,Tumor of Unknown Origin,62.4627800366035,xT.v4,match
+21jhwv,False,af32jnrtvrecreyha4bzjuv24q,negative,,0,Cervical Cancer,78.2433444742684,xT.v4,match
+20ouww,False,af3liutkxrfz5jrcu5xkkrcwju,positive,,0,Breast Cancer,72.8874149922448,xT.v4,match
+20tdef,False,af2rcp3wovddjkaqn25lzgyvn4,negative,,0,Pancreatic Cancer,32.349456071014,xT.v4,match
+20ewty,False,af2jgh7bwja7ncew53u4j7oamy,positive,,0,Ovarian Cancer,41.6220619523543,xT.v4,match
+21aeyx,False,af3s5xrwrnf2fhamsm4hzwxbk4,positive,,0,Ovarian Cancer,81.295172726361,xT.v4,match
+21asrf,False,af3q6r7rjncrdht532tlpnyfbm,negative,,0,Breast Cancer,61.5208559198644,xT.v4,match
+20odez,False,af2ww42cafgt5iqvb3dtflacl4,negative,,0,Colorectal Cancer,26.1913465052746,xT.v4,match
+21tvzx,False,af3s5wyln5asvnna422ryvxwla,positive,,0,Non-Small Cell Lung Cancer,50.3004606040795,xT.v4,match
+20lifc,False,af2shls4w5gh7o6obdecipix2i,positive,,0,Ovarian Cancer,48.6759223402623,xT.v4,match
+21qgut,False,af3vyxe2dva33ost5jxorqda54,negative,,0,Ovarian Cancer,38.3007652170815,xT.v4,match
+20ljyd,False,af3hj4plprdmvkkcnnqy7jq5ey,negative,,0,Bladder Cancer,42.96174119179,xT.v4,match
+20uztd,False,af2qrktejfcejnyiigyjf7japq,negative,,0,Thyroid Cancer,38.4057473987047,xT.v4,match
+20gbkv,False,af3nksjqcbdwxm6cyzki3fgnzi,negative,,0,Prostate Cancer,39.720453852631,xT.v4,match
+21otxz,True,af34gvf3g5c7jn7vvr3mqxs6se,positive,"germline BRCA2, no LOH called on report. LOH for the gene, LOH is selecting against this allele, germline VAF-42.74 somatic VAF- 23.61, bad s/o, s/o date error, Report was marked delayed outside of ReportHub, Report was marked in-progress outside of ReportHub, not-detected, remove LOH note",0,Non-Small Cell Lung Cancer,60.4906439853478,xT.v4,match
+20kjfl,False,af2zdqbfivexlhd2xjjm5jgfzm,negative,,0,Tumor of Unknown Origin,43.5942391820109,xT.v4,match
+20bkda,False,af2ksw3vofh2dpbnwioojwsmey,negative,,0,Non-Small Cell Lung Cancer,36.8735218450984,xT.v4,match
+20egne,False,af26sgrsd5h5rmiof7ilaymiba,positive,,0,Ovarian Cancer,78.8451751672224,xT.v4,match
+20vdpu,False,af2m7qfoujapxmv2jpmnbbk5zm,negative,,0,Breast Cancer,38.6750134344182,xT.v4,match
+21cqlc,False,af37vwqobrh6dl2femmpxdwm5q,negative,,0,Colorectal Cancer,22.3822843822844,xT.v4,match
+21futl,False,af3ywsjanzgizkg5mdajcivroe,positive,,0,Breast Cancer,92.6141493153206,xT.v4,match
+20movh,False,af25ftdpsnhovjmtvmgbbnrseq,negative,,0,Prostate Cancer,64.3104583939908,xT.v4,match
+20qtjw,False,af3ptf4luffdjna7suz56vcan4,negative,,0,Endometrial Cancer,82.9862580908255,xT.v4,match
+20lyin,False,af3elahapfdlnkdnhbhn7w2ege,positive,checking on aneuploidy,1,Chromophobe Renal Cell Carcinoma,37.1870167911553,xT.v4,match
+20rdaj,False,af2ww4zp5favjhl66bwoy22scy,negative,,0,Pancreatic Cancer,34.148152812489,xT.v4,match
+21bfbj,False,af3rhkzzxbbv5jtqmtb3u3apfm,negative,,0,Tumor of Unknown Origin,29.3802652240122,xT.v4,match
+20ydvx,False,af24lrmlbbhvto5xympitrs6re,negative,,0,Pancreatic Cancer,20.6647349748441,xT.v4,match
+21bktx,False,af3yaijt35gxrkilwyua73kuvq,positive,,0,Colorectal Cancer,32.3952064213935,xT.v4,match
+20nuan,False,af3owekgtvh3lcb3xyz3jv6vlm,negative,,0,Melanoma,60.9027003027762,xT.v4,match
+20ohtt,False,af3aew5p2vhzzh5l5dxr3odfjq,negative,,0,Pancreatic Cancer,27.3085016014474,xT.v4,match
+20lkkk,False,af3ok3xxbbfh5c4as7d4awf3py,negative,,0,Non-Small Cell Lung Cancer,52.3854620939783,xT.v4,match
+20puee,True,af2zdqbfuredpi7oz7niebxsei,positive,"Needs customization, Correcting result pill and removed BRCA text for amendment",0,Endometrial Cancer,34.6795545519417,xT.v4,match
+20puee,False,af2zdqbfuredpi7oz7niebxsei,positive,,0,Endometrial Cancer,34.6795545519417,xT.v4,match
+21gsgl,False,af3uvqtfljbslizndwzvygkx7a,positive,,0,Ovarian Cancer,54.405427970621,xT.v4,match
+20towb,False,af2rwykr3vecxch53q7uf3wi4y,positive,,0,Liver Cancer,38.7857921880572,xT.v4,match
+21azgo,False,af3yquhhzff3bcvnstzh4443zm,negative,,0,Prostate Cancer,49.1871018830563,xT.v4,match
+20sbuh,False,af234zyqf5bvfhw44rdzmtwpoq,negative,,0,Bladder Cancer,58.5055580338116,xT.v4,match
+20xutm,False,af2tf5jicfbuxblswf3purrxqq,negative,,0,Brain Cancer,63.7754361068726,xT.v4,match
+20ymqh,False,af2tuf5sjjbydasg7cgxkuphci,negative,"putting ""on hold"" to ensure OP is notified first",0,Prostate Cancer,87.5017501774317,xT.v4,match
+21fqpi,False,af32s6ygu5anxdd6wxltmam7sy,negative,,0,Biliary Cancer,24.3539306988596,xT.v4,match
+21tbzk,False,af4bf4bfozhrvjsmlelb2e7ixe,negative,,0,Prostate Cancer,78.6254201629893,xT.v4,match
+20sorx,False,af3elvgziverjmxbkscgaeh2fq,negative,,0,Prostate Cancer,27.9871936697076,xT.v4,match
+20jqzh,False,af3n4emf6vgzxhurfk2wr7x6na,negative,,0,Ovarian Cancer,69.7698726540193,xT.v4,match
+21nwnt,False,af333pwcefemhjf6whthrelyam,negative,,0,Sarcoma,96.0853912325441,xT.v4,match
+21oabk,False,af3uc3imurhezk3er2nd5wepx4,negative,,0,Biliary Cancer,37.0327940696358,xT.v4,match
+20qryg,False,af3ajoezxfcmzlchr3n3p7r4ee,negative,,0,Prostate Cancer,47.1649349107309,xT.v4,match
+20skzg,False,af3r5q6mdnb65elndmcyxyzop4,positive,,0,Ovarian Cancer,41.9073405825886,xT.v4,match
+20uzfu,False,af3q6sg46rbqpnhav3t4h47nhy,negative,,0,Non-Small Cell Lung Cancer,36.5011643548135,xT.v4,match
+21ylcw,False,af3qc7l3jne25fwagdqplcvhau,negative,,0,Colorectal Cancer,41.1159741884807,xT.v4,match
+20yngm,False,af26ts6vbzf4fo2jactmduqncu,negative,,0,Pancreatic Cancer,64.4098066601537,xT.v4,match
+20yehd,False,af3nksjwinhxvmhgmq5xfixqta,negative,,0,Ovarian Cancer,51.3147709718999,xT.v4,match
+20fjzc,False,af3qtih5pfaq5illtoxes73tpm,positive,,0,Prostate Cancer,42.6034036034885,xT.v4,match
+20emls,False,af2o2olfa5gq5kln23okxisvta,positive,,0,Ovarian Cancer,83.4662503935765,xT.v4,match
+20zikj,False,af2xoal6s5dq5ozcoqwot7oxqu,positive,,0,Ovarian Cancer,69.4438336023731,xT.v4,match
+21hwgt,False,af4a4xhgjndfzalgjho53g6kfm,positive,,0,Endometrial Cancer,88.9145342636054,xT.v4,match
+21ouze,False,af3s73q2xzejfc72tvjs4c47fy,negative,,0,Non-Small Cell Lung Cancer,38.401211360125,xT.v4,match
+20lxtf,False,af3mc5mzjzg4blc3pacvtd6jem,positive,,0,Esophageal Cancer,33.2956663577409,xT.v4,match
+21ziwv,False,af3tqtgrlvh4rehpb4hmk6t6bu,negative,,0,Sarcoma,62.1960350535335,xT.v4,match
+21qrgt,False,af4au3kmbvgefnm3eceyvzfhge,negative,,0,Non-Small Cell Lung Cancer,32.7597093180557,xT.v4,match
+20udrk,False,af2xy6cajfbxzn5ywxbnuqnwoq,negative,,0,Gastric Cancer,22.6761294792233,xT.v4,match
+20tiyr,False,af2ksxayxbbt5jmkuqdobnosiu,positive,,0,Non-Small Cell Lung Cancer,49.4176054165697,xT.v4,match
+21xogd,False,af373och2zd3rgsiiezx6vmifi,negative,,0,Pancreatic Cancer,47.0144320959614,xT.v4,match
+20oxof,False,af24u4furrbr5hz54fmej24bbm,negative,,0,Esophageal Cancer,55.2000062375088,xT.v4,match
+21mgoc,False,af37vwoin5bzlicplr4du7gsdu,negative,,0,Sarcoma,38.1907832592813,xT.v4,match
+20itiw,True,af2m3hmxuna3pmq6ffhlsa25cy,positive,"Updated threshold to 25%, Needs to be photoshopped with correct threshold.",0,Peritoneal Cancer,72.6377707172598,xT.v4,match
+20itiw,False,af2m3hmxuna3pmq6ffhlsa25cy,positive,,0,Peritoneal Cancer,72.6377707172598,xT.v4,match
+21theb,False,af3zkj3tjrcbnpyq7ibevov6wi,negative,,0,Non-Small Cell Lung Cancer,25.4405638780892,xT.v4,match
+21skzd,False,af3tqtjf5fcbrgdtuc33yru3yq,negative,,0,Pancreatic Cancer,42.9822489216715,xT.v4,match
+21jhej,False,af3uvqlckfbidbtfvfptbcbsl4,negative,,0,Breast Cancer,48.526475049,xT.v4,match
+21wicw,False,af3uvqdfjnd43figbbaosvkqle,positive,,0,Non-Small Cell Lung Cancer,43.246153454407,xT.v4,match
+20cyia,False,af2tx7nvbzgztb5w4qh4htshfm,positive,,0,Ovarian Cancer,43.3227280773739,xT.v4,match
+20aifg,False,af2wfxdirrd2jbcfmbvfpy5zja,negative,,0,Prostate Cancer,22.7232914734781,xT.v4,match
+21ukfc,False,af35zgj6wvb77lfymb6bs6os44,positive,,0,Colorectal Cancer,62.5777345733355,xT.v4,match
+21neuf,False,af3yqtmdzvfhjpbcrdjc54nn64,negative,,0,Ovarian Cancer,50.8698982352287,xT.v4,match
+20efkl,False,af2jgmnucjgbpkmxo65nnw556e,negative,"HRD amendment - needs call-out note, on hold, Report was marked in-progress outside of ReportHub, Report was marked delayed outside of ReportHub",0,Prostate Cancer,65.252994358509,xT.v4,match
+21aump,False,af4bz73txjcmjf26nyrtzdjfbq,negative,,0,Clear Cell Renal Cell Carcinoma,51.1006516441182,xT.v4,match
+20bjuf,False,af2ww4sqvrda3ky42jw3ia3yhm,negative,,0,Colorectal Cancer,65.4890733694861,xT.v4,match
+21qyjn,False,af3xt5lg6fcw7ddjthmcgxd3x4,positive,,0,Prostate Cancer,76.3053510388726,xT.v4,match
+21fdeg,False,af3vjdzsdrckbk26s4kssvib7a,positive,,0,Ovarian Cancer,51.9180338605817,xT.v4,match
+20jvsa,False,af23wpxwrzflpdshfejeaeuyci,positive,,0,Pancreatic Cancer,33.4363177698361,xT.v4,match
+21ltdj,False,af3uc55fsrhufhtols5avfmjqe,negative,,0,Pancreatic Cancer,21.4994313074067,xT.v4,match
+21hevp,False,af4ckha6u5aebaawuviahlbjqu,negative,,0,Prostate Cancer,80.9742769545034,xT.v4,match
+20tcfs,False,af26sgrwdnd2vaeb775w4acubm,negative,,0,Endometrial Cancer,69.4723731625037,xT.v4,match
+21sqvb,False,af4bz7nifnaj3ppuzmfmqa32x4,negative,,0,Colorectal Cancer,33.6192416395082,xT.v4,match
+21qjjx,False,af3yqtkmgvemxpsfcygqhj4cme,positive,,0,Breast Cancer,46.0395766995767,xT.v4,match
+21tjje,False,af3vectg6nej3mrdgdubpl4fia,positive,,0,Non-Small Cell Lung Cancer,83.0344783783807,xT.v4,match
+20cmmf,False,af2l3eo3wbgl5csykunqamb34m,positive,,0,Clear Cell Renal Cell Carcinoma,44.4180312529246,xT.v4,match
+20qrya,False,af2k4vqxivbn7ea4fpzdcfbi2i,negative,,0,Colorectal Cancer,12.8358193871776,xT.v4,match
+20vxqn,False,af22clnslbbtthm3kwiqrjvzzy,positive,,0,Breast Cancer,39.105069934723,xT.v4,match
+20tpej,False,af3qc7mxvzfzva7orexqfpmbxm,negative,,0,Ovarian Cancer,87.6136044246731,xT.v4,match
+20nfsr,False,af2vsceoebe7xl6k62jx4euyye,positive,,0,Pancreatic Cancer,57.7546700312973,xT.v4,match
+21mwhi,False,af35f4hhfngy7ifbpaz7xrvuqq,negative,,0,Colorectal Cancer,66.5585047591583,xT.v4,match
+20nskl,False,af2o2ojmorar7fznafx3xuc2me,negative,"Report was marked in-progress outside of ReportHub, Report was marked delayed outside of ReportHub, HRD amendment - needs call-out note, on hold",0,Breast Cancer,27.2784215413067,xT.v4,match
+20zwqn,False,afz67jbs4vhavgntdwdbnzi27i,negative,,0,Ovarian Cancer,88.7697885539821,xT.v4,tumor_only
+20tjuk,False,af2zmp4li5dczaowaqshldqbmm,negative,,0,Ovarian Cancer,15.7106572194853,xT.v4,match
+20thbk,False,af3f7avql5c2pbxu2dmkcxvxoy,negative,,0,Sarcoma,90.2033841707232,xT.v4,match
+20bzso,False,af2qadtpk5afrhurbnot44irga,negative,,0,Ovarian Cancer,87.2324419896419,xT.v4,match
+21sbeu,False,af3z5xem2fawhfkakcmznktrde,negative,,0,Ovarian Cancer,27.0569532418757,xT.v4,match
+20gbwb,False,af2tuf3fzff2nciwgyojihrlqq,negative,,0,Non-Small Cell Lung Cancer,45.1305297553071,xT.v4,match
+21jnjj,False,af32bfjoe5fnxjfvcmeq2glvxq,positive,evaluating aneuploidy,1,Pancreatic Cancer,52.523441446256,xT.v4,match
+20xyit,False,af2y6thpsverjcwnwii32w45be,negative,,0,Biliary Cancer,20.0572982531347,xT.v4,match
+20xgms,False,af27zeda3fcgrju3mugpehlzhy,positive,,0,Endocrine Tumor,67.2324218534518,xT.v4,match
+21ezyh,True,af343etvxva4nhh62xfcozm4yi,positive,"hold for RNA, negative for HRD",0,Prostate Cancer,31.8688681284821,xT.v4,match
+21rxar,False,af33yzhw6nfynb55go5yunlcay,negative,,0,Breast Cancer,45.3399912107594,xT.v4,match
+20jqfc,False,af2rlyqtlnhvzciftr635w55uy,positive,,0,Gastric Cancer,55.8696320861743,xT.v4,match
+20yzdb,False,af246l5i2neqrjumjcelkqwcqi,positive,,0,Breast Cancer,45.9514081647179,xT.v4,match
+20qbrd,False,af2inh2lezfzbekrncbwt7mq2m,positive,"sending back to rejection, getting an internal server error at signout",0,Ovarian Cancer,42.3626667284179,xT.v4,match
+20zybc,False,af2shljwsrd7vj5mc6h42dw2va,negative,,0,Bladder Cancer,58.7183539204833,xT.v4,match
+21jodi,False,af343er75vdu5dgufarehfhnqi,positive,,0,Ovarian Cancer,61.338090776001,xT.v4,match
+20tsid,False,af2vsb6awrchfbwty3rjc2bavm,negative,,0,Non-Small Cell Lung Cancer,85.1143074946465,xT.v4,match
+20ldxc,False,af25uzo4yjhw3elwl7sm6sf72u,negative,,0,Colorectal Cancer,56.3495668369276,xT.v4,match
+20rfvr,False,af2zmur4mfh4dceirsfsfgoiiq,negative,,0,Colorectal Cancer,34.9006905624045,xT.v4,match
+20nyvr,False,af3jrkqzdbb27obcjpbdlgs5ry,negative,,0,Colorectal Cancer,29.7123105678866,xT.v4,match
+21cagn,False,af35eo22bbem3p6xiwkphmmyru,negative,,0,Breast Cancer,69.2513412723189,xT.v4,match
+20cbqj,False,af2ksw4pg5gxbi2535xhmsdedm,negative,,0,Prostate Cancer,79.3928682177014,xT.v4,match
+21hzgq,False,af3vyxdqa5evznzmzexl45bglu,negative,,0,Pancreatic Cancer,29.1278148665476,xT.v4,match
+21zktv,False,af37vwqiirev5msaziii2kuhiy,positive,,0,Breast Cancer,80.0061013379674,xT.v4,match
+20ahav,False,af2nngptibb6hcacgj76g77igi,negative,"HRD amendment; updated GWLOH, Hold - notify CS/sales, on hold",0,Colorectal Cancer,63.8875112994166,xT.v4,match
+21bynt,False,af3yhaqtg5gq3mee6ycgn4je4u,negative,,0,Glioblastoma,51.015205741462,xT.v4,match
+21mccs,False,af4bf4dccfhcdmynvobc7gacpy,negative,,0,Non-Small Cell Lung Cancer,77.7320997841765,xT.v4,match
+21gedk,False,af3xb4bhjrhnnb4xciwntvopbi,negative,,0,Prostate Cancer,22.581984535507,xT.v4,match
+20mxrb,False,af2ww4uyubc25ctwe5zw5b2myi,negative,,0,Tumor of Unknown Origin,62.6138142270824,xT.v4,match
+20onxm,False,af2znhpanbff3j34sittygxcsq,positive,"Discussing with Benji, concerned about aneuploidy",1,Endocrine Tumor,77.9305269769629,xT.v4,match
+20vugl,False,af2upqfcfbdkdpe52ycvilpide,negative,,0,Pancreatic Cancer,30.4598707288769,xT.v4,match
+20hdps,False,af3mokua3vg4lhfgeilwzmv2z4,negative,,0,Pancreatic Cancer,54.2713063738508,xT.v4,match
+20zkjw,False,af2xlf6s7vae3kopjq47kenr7y,positive,,0,Prostate Cancer,44.8384958127871,xT.v4,match
+20ywaw,False,af265oy2qnefxhtrtrgvc2uipy,negative,,0,Bladder Cancer,44.2055314985566,xT.v4,match
+21jwpr,False,af37vwtb2bfq3n7sh3ey6yml64,positive,,0,Breast Cancer,61.1963015701042,xT.v4,match
+20hafx,False,af3g6r43nfgkrolyyix7pcsjai,negative,,0,Gastric Cancer,48.5132813402504,xT.v4,match
+21kxpb,False,af3qtikvlrcsfbgzfj6taxyor4,negative,,0,Small Cell Lung Cancer,89.0145744366855,xT.v4,match
+20kmkg,False,af2tx7ojcvbj7d3rinykgttwou,positive,,0,Colorectal Cancer,45.6208062623392,xT.v4,match
+20pfxp,False,af2bij34vrdvpd5xjb76mrnzgi,negative,,0,Glioblastoma,82.857807422615,xT.v4,match
+20rmqi,False,af2shlnz25hzjavvl76x6m4lge,negative,,0,Glioblastoma,27.0303982405755,xT.v4,match
+20lasw,False,af26444yand2rodpe6uzlvnclq,negative,,0,Breast Cancer,50.7105335698342,xT.v4,match
+21pmbj,False,af3uvqb2tjgavfl7zkzpckwuvq,negative,,0,Bladder Cancer,59.7568906739207,xT.v4,match
+20uzss,False,af2tugav2fh4hbdg4tifcahuaa,negative,,0,Prostate Cancer,84.6144814939489,xT.v4,match
+21txjy,False,af3rzjg4qzctbm7jvmtpzz7eya,positive,"questionable case, reject 21txjy, Report was marked delayed outside of ReportHub, Report was marked in-progress outside of ReportHub",0,Gastric Cancer,51.7057763389457,xT.v4,match
+20tqaw,False,af246lwiineupid5l2mjamcaea,negative,,0,Tumor of Unknown Origin,69.6547140035413,xT.v4,match
+20soto,False,af22lvzwgfa43fo4wovxdn7ose,negative,,0,Pancreatic Cancer,55.24719556578,xT.v4,match
+20jynx,False,af3nan6hjffovplux3dw6xsfma,negative,,0,Biliary Cancer,42.2583225994189,xT.v4,match
+21wrmg,False,af3z5xai7bgk5hafmae3obhnwa,negative,,0,Cervical Cancer,35.9662050903881,xT.v4,match
+20qnpl,False,af3hj4ovrjew3nl7hud7ffvtre,negative,,0,Head and Neck Cancer,58.1003456722339,xT.v4,match
+20llpl,True,af2jgmm3szgjxg32jgnitqt7f4,negative,"cohort, This was already finalized in the HRD tool., report was signed out in the hrd tool, please change to the ovarian cutoff",0,Endometrial Cancer,45.0305526826144,xT.v4,match
+20kgdl,False,af3mgxofvzfvdeyt5eqxbaemx4,negative,,0,Esophageal Cancer,43.1351706306909,xT.v4,match
+21bpoc,False,af3yzew6lzenbl6u46uljz32gy,negative,,0,Breast Cancer,63.261512824475,xT.v4,match
+21sxex,False,af3www3vhvej7nwtpxy64uhuyy,negative,,0,Colorectal Cancer,38.9140842177358,xT.v4,match
+20dulx,False,af3nnjyk2rhtlgaqgkgfjiiaua,negative,,0,Melanoma,60.8859279717962,xT.v4,match
+20addv,False,afzo3ztbazch3eewllnbfh66pa,negative,,0,Pancreatic Cancer,40.9835660866911,xT.v4,tumor_only
+20rhhc,False,af3vjearx5hqpcspwxdyczfovi,negative,,0,Prostate Cancer,30.3229830602823,xT.v4,match
+20neae,False,af3iyq65gbhhladb4nsumhay4u,positive,,0,Esophageal Cancer,63.3241964485989,xT.v4,match
+21lpmb,False,af32r3mlmvdgngqebse6w4ykfu,positive,,0,Ovarian Cancer,70.5637896036474,xT.v4,match
+20nxxj,False,af2m7qiuybboxmf3b7jlczp234,positive,,0,Esophageal Cancer,68.1532790322204,xT.v4,match
+20hgxr,False,af27zdykirh4hjmzzssa6g3aeu,negative,,0,Tumor of Unknown Origin,40.9150771376275,xT.v4,match
+20zsbl,False,af2neyqddbhb7mid3zwayesjpu,negative,,0,Pancreatic Cancer,61.2808072654552,xT.v4,match
+20sspd,False,af22clsgrvcttoohj3kqsdcd3y,negative,,0,Ovarian Cancer,59.999537037037,xT.v4,match
+20mlts,False,af2qaeg33japfb6sgt53w72kpq,positive,,0,Tumor of Unknown Origin,51.3643081655818,xT.v4,match
+20yppa,False,af3mc5odx5fyxl4353vos5zkoy,positive,Checking aneuploid,1,Esophageal Cancer,24.9823823477035,xT.v4,match
+20auow,False,af3ndcamvnbvvodxf2lnfdpcyi,negative,,0,Prostate Cancer,26.5751450571105,xT.v4,match
+21gjmm,False,af3q6r33izgdpf2ladw2eefaou,positive,,0,Prostate Cancer,36.8696492447604,xT.v4,match
+20bvhz,False,af2zmpx7wnhjzeiwajcngunihm,negative,,0,Melanoma,78.3826607112602,xT.v4,match
+20klyf,False,af2wfxdvqba7bofwip23pudmmq,negative,,0,Sarcoma,68.7620602278135,xT.v4,match
+20pbml,False,af3ht2gd2vg4hpfqrbrnkiswp4,positive,,0,Ovarian Cancer,34.7451855696314,xT.v4,match
+20gcgp,False,af3mc5ccwbhptiqrifdzc7ryae,positive,,0,Pancreatic Cancer,40.3575197598053,xT.v4,match
+20ctlp,False,af3ok4bjsbcs5mfivspld6bjjq,positive,,0,Ovarian Cancer,64.6573075934506,xT.v4,match
+20rhtn,False,af3s5xkk25erpg7ciqmt75k5iq,negative,,0,Prostate Cancer,58.0172434334271,xT.v4,match
+20woej,False,af22lvvyavcprh4njqutsbzumi,positive,,0,Sarcoma,39.242755903953,xT.v4,match
+21xufl,False,af37k7bubbgwtay33fpg5ta6wq,negative,,0,Non-Small Cell Lung Cancer,22.6305845077314,xT.v4,match
+21kfpa,False,af32jnuwkvegpcnxtezeukqif4,negative,,0,Sarcoma,64.8212070074553,xT.v4,match
+21cdlg,False,af3qc7mph5eoxnmkbuesfpaszm,negative,,0,Prostate Cancer,55.3640099376224,xT.v4,match
+20btei,False,af2zdqdabfbqldmr7hbudsquhe,negative,,0,Pancreatic Cancer,79.5124918778551,xT.v4,match
+21niua,False,af3rz55oj5gmfbzlr7gkxsfhca,positive,,0,Sarcoma,89.0517880100547,xT.v4,match
+20geki,False,af2qn5r5sffa3irzfjqcp2m2ay,negative,,0,Glioblastoma,62.6062840120257,xT.v4,match
+21ijhd,False,af372zzvcncill54e6o5ii6ydy,negative,,0,Colorectal Cancer,17.8075516295179,xT.v4,match
+20gpkv,False,af2lp2ft5ncirpmrrhblz3stdm,negative,,0,Breast Cancer,76.3953090359334,xT.v4,match
+20wlsa,False,af3chkrs6re5vawppmuptxmnni,positive,,0,Colorectal Cancer,49.1078728594982,xT.v4,match
+20josk,False,af3ok3txpjfbrfvqhqaguviaja,negative,,0,Prostate Cancer,90.0367582614647,xT.v4,match
+20sadi,False,af4bf3rbyvcuhiileclcmvkt5u,negative,,0,Sarcoma,26.8409586056645,xT.v4,match
+20tiow,True,af3eis5muzf2jaqtpu6zotjf3a,positive,"originally edited PDF on 12/11; updated s/o footer to 12/18, Report error when signing out, updated s/o date again, Report error when signing out
+, Still confirming logic error, Two hit logic error, 2 hit logic error; needed ""not-detected pill and deep loss note was deleted",0,Gastric Cancer,30.6392420618764,xT.v4,match
+20wqex,False,af24u4f5dbgqxfvzmxgnle2yga,negative,,0,Sarcoma,37.4519411946729,xT.v4,match
+21dvel,False,af3uc3iofzfbpkeoytotmlwsei,negative,,0,Endocrine Tumor,14.2988504985927,xT.v4,match
+21hcgw,False,af3uvqwocvchpjcvlu2ymq75wq,negative,,0,Bladder Cancer,63.4362458390036,xT.v4,match
+20gvhi,False,af265btiybgvneqdlca2ws46q4,negative,,0,Colorectal Cancer,58.3398371195246,xT.v4,match
+20pcxj,False,af2xhxkawzd3dpuchzdmj2na54,negative,,0,Biliary Cancer,50.0458546068692,xT.v4,match
+20gyfc,False,af2skjrx5fgqpasjogtagpcrpa,negative,,0,Prostate Cancer,30.7116339869281,xT.v4,match
+20hxch,False,af2yoxxggbfurbjuohienpd2iy,positive,,0,Ovarian Cancer,72.7050911314576,xT.v4,match
+21drey,False,af3rorscbvg7hpwxu6oluqoymi,positive,,0,Breast Cancer,76.2229496206458,xT.v4,match
+20xxwz,False,af3qc7ic4bbtli5t2adnizksle,negative,,0,Endometrial Cancer,77.281945514407,xT.v4,match
+20rxhi,False,af3jjeivbjhivnqbfbhv5efj4u,positive,,0,Prostate Cancer,60.7027742571783,xT.v4,match
+21autu,False,af3xwo3ycrde3eae3tonprbteu,negative,,0,Prostate Cancer,65.4733150024246,xT.v4,match
+20fiem,False,af2yoxwy7vfunbefw3bccibppy,negative,,0,Prostate Cancer,55.7672190687349,xT.v4,match
+20ctsw,False,af3skzdsvjcttjfcwijvbku2hq,negative,,0,Breast Cancer,96.506139347395,xT.v4,match
+20msip,False,af3b7maa2nfplgknlypwxnk5vi,negative,,0,Ovarian Cancer,50.5483700087311,xT.v4,match
+21zgai,False,af32r3nijvhnlgknhdwi2nanf4,negative,,0,Biliary Cancer,53.5459311850523,xT.v4,match
+21wjlc,False,af34qdg3hbhzjhctluq4p3odge,positive,,0,Non-Small Cell Lung Cancer,38.3647150021954,xT.v4,match
+20fisq,False,af2rcp2yhfewfifv57zc7ub3aa,positive,,0,Ovarian Cancer,72.4470251969815,xT.v4,match
+20ahps,False,af22l6uqnbdqdeqjbi44bvsnxu,negative,,0,Ovarian Cancer,86.9443456871289,xT.v4,match
+21zkna,False,af3yaikrlzektp3aomefigfnfy,negative,,0,Prostate Cancer,16.1820895522388,xT.v4,match
+21plep,False,af3yzevfqfd27bdss3pwrnvhqa,negative,,0,Esophageal Cancer,56.5756741729219,xT.v4,match
+20zruf,False,af2zdqlhfjcxpc6ith6w4uhxc4,negative,,0,Melanoma,34.3800488766477,xT.v4,match
+20xgxi,False,af3f7afhxbc3pl7lppi4pk27eq,positive,,0,Breast Cancer,71.4002311575108,xT.v4,match
+21rcjb,False,af3w76nynnbzxasdd4onaod354,positive,,0,Breast Cancer,79.9173410757929,xT.v4,match
+21etsq,False,af3rz5x275agzeyyq3cclcws44,negative,,0,Liver Cancer,31.3384321079419,xT.v4,match
+21oqpt,False,af33il5x6jd7ddiz45swvyrsfe,negative,,0,Pancreatic Cancer,29.4988227970298,xT.v4,match
+21kpbw,False,af3zujdc6ffzvdrlfuteiroqca,negative,,0,Glioblastoma,77.2330492528518,xT.v4,match
+21yuic,False,af3uvqmuynhh7e3klpz6bcithi,negative,,0,Sarcoma,60.2437495280347,xT.v4,match
+21stam,False,af3vecolfnaoxa3kf4vogz25se,negative,,0,Melanoma,57.7126392246912,xT.v4,match
+21ygrn,False,af3xwo6sn5eyhn2f6tbs5g2oqq,negative,,0,Non-Small Cell Lung Cancer,38.3969667811155,xT.v4,match
+20nkyw,False,af3dc23fnnbh3fvsvcffhp7s3m,negative,,0,Sarcoma,60.4534049075449,xT.v4,match
+20tkjy,False,af3s5w3qlrcwxjqb4md3fivvoe,negative,,0,Melanoma,30.1481365337986,xT.v4,match
+20vjqj,False,af24krktyzagpgbjt2heafcvui,negative,,0,Breast Cancer,81.4213124834236,xT.v4,match
+20ojst,False,af2xg3hexjdezjfnghuse45v6m,negative,,0,Tumor of Unknown Origin,64.768550207529,xT.v4,match
+20kbfu,False,af3ggcusl5fvbgpb62ntyqccgq,positive,,0,Breast Cancer,91.8055558411167,xT.v4,match
+20flae,False,af2peflyxrhnllxh7w3swpfjxe,negative,,0,Non-Small Cell Lung Cancer,42.6114068348689,xT.v4,match
+20aocm,False,af3eis4whjgybeugnt3y3p2l64,negative,,0,Pancreatic Cancer,30.3957056823734,xT.v4,match
+20geie,False,af2rqfljmjfdtoaeftmbdvaave,positive,,0,Biliary Cancer,33.1998164552663,xT.v4,match
+20mqcb,False,af3i3nzb2bcaddokvx2jkyzetu,negative,,0,Bladder Cancer,30.9322241852789,xT.v4,match
+21ygmz,False,af3yquncjzccli2tb6esm7mnce,negative,,0,Breast Cancer,77.6391016535048,xT.v4,match
+21zdur,False,af4au3ixp5f6xk6535mpv44nuy,negative,,0,Glioblastoma,40.7577513038143,xT.v4,match
+20dzjk,False,af27zdwwofaljbapi55ts6ao4u,negative,,0,Gastric Cancer,80.8041933778367,xT.v4,match
+20cwmb,False,af2zdqhs6nbinark4nybaibpgq,positive,,0,Ovarian Cancer,38.3157718508557,xT.v4,match
+20aunp,False,af27zsog2vgvfbnvpxcgjnttwq,negative,,0,Skin Cancer,53.880206848061,xT.v4,match
+20qqzf,False,af3b7l65hzc4jixqj4l5ntbjve,negative,,0,Non-Small Cell Lung Cancer,79.491066430742,xT.v4,match
+20dupt,False,af2qadyzwnfirghefyxja3q4vy,negative,,0,Endometrial Cancer,91.4974289543424,xT.v4,match
+20byqq,False,af2yebbf7jgoncrqf6jqzsxvgi,positive,,0,Non-Small Cell Lung Cancer,35.5497069311599,xT.v4,match
+21takb,False,af3vyxgv3bdkrh455ftuda7use,negative,,0,Breast Cancer,81.0470713373175,xT.v4,match
+20imyg,False,af2qrkr6dfan3nfiyoqstxdl6u,negative,,0,Colorectal Cancer,79.151056021167,xT.v4,match
+20ypca,False,af24u4qezrbu7gid6ntnmqmzqi,negative,,0,Prostate Cancer,59.4519237822102,xT.v4,match
+20nfik,False,af2neypmkrfndhf5fvrvyb2gzi,negative,,0,Ovarian Cancer,88.708026099927,xT.v4,match
+21unoa,False,af34gvsnovbpfjqf377o6sn4ei,positive,,0,Ovarian Cancer,73.8581962126244,xT.v4,match
+21wdcx,False,af4bz72jsbbwnloj6nsobvmkce,positive,,0,Ovarian Cancer,73.9695600598534,xT.v4,match
+20ugct,False,af2xy6b7bncwplldm6chowbr6m,negative,Amendment report,0,Prostate Cancer,46.4484430595039,xT.v4,match
+21ssnl,False,af333pl5hjc4poprfmguhmfyp4,negative,,0,Breast Cancer,31.0550014588153,xT.v4,match
+21ifpu,False,af35t6i3lbf4dghce2nmjliwii,positive,,0,Breast Cancer,53.5238551693773,xT.v4,match
+20gldk,False,afz5anix3bhhrh55t7huyn6y7m,negative,,0,Prostate Cancer,35.2258545053574,xT.v4,match
+21xupp,False,af37iss4crbbpnod65fdrg2jzq,negative,,0,Tumor of Unknown Origin,62.3455037864827,xT.v4,match
+20kmgq,False,af24krscpbc2nd256g2xgvwjdu,negative,,0,Endometrial Cancer,32.187294190305,xT.v4,match
+20ceyi,False,af3j2ypsknge7pmo2sirneqs54,positive,,0,Ovarian Cancer,76.028499689336,xT.v4,match
+20fsgr,False,af2pefm5gfcrfjrsujnyw6jhsu,positive,,0,Pancreatic Cancer,37.0198884510893,xT.v4,match
+20wubq,False,af3np2kykbhtzpjttmhyxikfbq,negative,,0,Glioblastoma,49.6565633785368,xT.v4,match
+21gflo,False,af373obf2bdt7ka3zdoyuwvo3y,positive,,0,Non-Small Cell Lung Cancer,78.1876987344173,xT.v4,match
+21bhmy,False,af35zgjm4fh3fnp2ii7cxhjrpm,negative,,0,Bladder Cancer,30.7891111925774,xT.v4,match
+20hhcx,False,af3ptgew7zhqhjtamdsponi22i,negative,,0,Endometrial Cancer,31.9099070647423,xT.v4,match
+20ywwq,False,af3oweypazgiljdwg43p7kw3j4,negative,,0,Breast Cancer,27.8018711968514,xT.v4,match
+20ucvn,False,afznkfk36zdgzk7qcmkcxcknba,negative,,0,Ovarian Cancer,61.6057142857143,xT.v4,tumor_only
+20syrp,False,af2k4vm62jbqxcqmp3lkucesay,positive,,0,Ovarian Cancer,61.097600446174,xT.v4,match
+21asea,False,af4bf3omgbftfcti457hh2ls24,negative,,0,Endometrial Cancer,25.689508682821,xT.v4,match
+20rfvc,False,afzsc5xssjg5dniegh5reb2j2y,positive,Amended report - Needs notes,0,Ovarian Cancer,,xT.v4,match
+20zxcd,False,af2u42mpzbahtmxy5zdng75w3e,negative,"HRD amendment - no amendment actually needed, Report was marked canceled outside of ReportHub",0,Pancreatic Cancer,21.1243216493055,xT.v4,match
+20zlkr,False,af2m3htxwbh3dchildc5oh2kx4,negative,,0,Gastric Cancer,93.0387288135594,xT.v4,tumor_only
+21dwma,False,af3yesjesrblndk2akag6oazka,positive,,0,Melanoma,31.3988432038918,xT.v4,match
+21khif,False,af373ocddjgulmoo75pszfwphi,negative,,0,Sarcoma,80.7325658504666,xT.v4,match
+20kucw,False,af2y7ge7dvb7jmvrzk2iqzcedq,negative,,0,Prostate Cancer,91.9192736533014,xT.v4,match
+20mset,False,af3liuot6jakfokmqymofwi7ay,negative,,0,Non-Small Cell Lung Cancer,38.7947444401533,xT.v4,match
+20bnax,False,af2qn5sr35hrffueuud37ac7ye,negative,,0,Colorectal Cancer,58.097549761992,xT.v4,match
+21wnyd,False,af3zujmpwfed3a6vfw5x2jpl3q,negative,,0,Prostate Cancer,52.3822021838061,xT.v4,match
+21flyi,False,af3sa6iopve5hehmso5dxxyy7a,positive,please check for aneuploidy,1,Gastric Cancer,41.4123159070469,xT.v4,match
+20cugb,False,af3ok4bqwfbq5jlgnd4d2jmate,positive,,0,Prostate Cancer,34.9704964241511,xT.v4,match
+20pell,False,af3dobt2bvh45mkxamfwvug64u,positive,,0,Tumor of Unknown Origin,50.1181693448991,xT.v4,match
+20gehg,False,af3laa2rijf2vjujz5mva2nbka,positive,,0,Breast Cancer,44.8537202411214,xT.v4,match
+20xdta,False,af2b5fvpwfhllk6xt5d4gcqd5y,positive,,0,Gastric Cancer,36.7731407749734,xT.v4,tumor_only
+21jlxx,False,af34gvyoofcc3aom55m3q7so3y,negative,,0,Small Cell Lung Cancer,94.6314169383968,xT.v4,match
+21dqqm,False,af3s5xcnmra3ln4z2cuoakl3n4,positive,,0,Tumor of Unknown Origin,45.8965296615667,xT.v4,match
+21bfwy,False,af34gvgiazdf7mxeozjobi2txu,positive,,0,Ovarian Cancer,35.0743157264569,xT.v4,match
+21qpbb,False,af3uvqipvngl3bpjl5bze5gemy,positive,,0,Tumor of Unknown Origin,46.9024519071701,xT.v4,match
+20tbpc,False,af3bppncjbdfnifpmz2mbtzvgq,positive,,0,Ovarian Cancer,43.0196167048572,xT.v4,match
+21twlq,False,af35t6h77vdzzmkktcefaqlmky,negative,,0,Non-Small Cell Lung Cancer,42.0937858167235,xT.v4,match
+20dmvj,False,af27nuv5hrb2tac6iqm6cv7qzu,positive,,0,Esophageal Cancer,62.3635894918507,xT.v4,match
+21eosr,False,af4bf37sovba5mn74lr5igsweq,negative,,0,Pancreatic Cancer,25.9049899599227,xT.v4,match
+20ehxc,False,af2jtfrvlbbhxicydkfp2v7quq,negative,,0,Endometrial Cancer,32.6311406359637,xT.v4,match
+20miiw,False,af3kve2unjdyla3gg5iprtiuhi,negative,,0,Ovarian Cancer,23.7581962809763,xT.v4,match
+20ftqv,False,af2nxwymc5bprojcrcayi3urqa,positive,,0,Ovarian Cancer,94.4566919335261,xT.v4,match
+21zdhu,False,af3yail6tbfjvlnyvssmvhkfqq,negative,,0,Ovarian Cancer,45.5094751496463,xT.v4,match
+20lgja,False,af26445qfzhx5hpauybospamlu,negative,,0,Ovarian Cancer,29.2040087091058,xT.v4,match
+20bttr,False,af24lroh5rfnjaddgaqvp6ln24,negative,,0,Glioblastoma,75.8479921250145,xT.v4,match
+20pwnt,False,af2rwyneznglnphy664737dfc4,negative,,0,Ovarian Cancer,21.1829768352539,xT.v4,match
+21fhte,False,af4badirqrchxfxkdgkdiyz4wi,negative,,0,Prostate Cancer,44.786053589362,xT.v4,match
+21kgos,True,af34gvp5x5hejewfphbrumqrf4,positive,"aneuploidy; not-detected pill, remove GWLOH graphic/note, Evaluate for aneuploidy",1,Sarcoma,79.194829423165,xT.v4,match
+21zhfm,False,af3vyw25x5emjcpy6ghhkijsiq,negative,,0,Prostate Cancer,49.5894188301165,xT.v4,match
+20rchd,False,af3qth7zd5b37br6n4wwnnb4qq,negative,,0,Small Cell Lung Cancer,89.4950668992189,xT.v4,match
+20pjwj,False,af2ww4y2q5fp7iinkekzydotqi,positive,,0,Ovarian Cancer,83.2567329367712,xT.v4,match
+20pnxz,False,af2xlgakczftdduopvg3oo6y6m,positive,,0,Pancreatic Cancer,52.1029087682503,xT.v4,match
+20xnbr,False,af2tuga27fe3lkkmdzjdg6mmvq,positive,,0,Ovarian Cancer,54.5639392149026,xT.v4,match
+21wofv,False,af3vyxcr3rfmdlllqkmub2cw7a,positive,,0,Gastric Cancer,37.6076120463433,xT.v4,match
+20cbkx,True,afz6pa4vgrhp5ot2hi23ykh6vq,negative,"move to ovarian, cohort",0,Peritoneal Cancer,50.815751500447,xT.v4,tumor_only
+21nlfs,False,af373ocvkngkpiusfr5r2uxeey,negative,,0,Endometrial Cancer,57.8526785822043,xT.v4,match
+20kgex,False,af25uznpmncf5ljurj7ymoa6ke,positive,,0,Non-Small Cell Lung Cancer,31.4823919486497,xT.v4,match
+20duah,False,af22lvsh2ra7xgp6unrejmnc7e,positive,,0,Tumor of Unknown Origin,35.7276014349978,xT.v4,match
+21paqc,False,af3uvqng7rcxxjn4ylphelnpma,negative,,0,Breast Cancer,68.3542285688629,xT.v4,match
+21jeht,False,af34qdcepbhg5h7nxjyx2o5f2y,negative,,0,Pancreatic Cancer,29.9230221786932,xT.v4,match
+20vapg,False,af272bqlxnb2rdnp2busgwo3ay,negative,,0,Thyroid Cancer,77.4339957734615,xT.v4,match
+21vbgz,False,af4a4xpug5hbzibdc3vism6j54,negative,,0,Endocrine Tumor,30.2282241015216,xT.v4,match
+20ebfw,False,af22vr55nvbyxnh63ep4b5cesi,negative,,0,Colorectal Cancer,34.0300743552327,xT.v4,match
+20lynv,False,af2gmkmeovdxxnhmwnhwfkkmyu,positive,,0,Endometrial Cancer,70.1860783958396,xT.v4,match
+20uqcc,False,af3ok4ekwbftpdhu3m4iszxb5m,positive,,0,Prostate Cancer,90.5618505192732,xT.v4,match
+21rsxg,False,af3vywyq5fcyhivdmrvmyamsxa,positive,,0,Ovarian Cancer,60.6791749239206,xT.v4,match
+20kuou,False,afzvjrsjqzcaxb35g4fnic4n2q,negative,,0,Prostate Cancer,47.8048968236002,xT.v4,match
+20curf,False,af24u4o2bjb7fmmdeor2tfe3ci,negative,,0,Colorectal Cancer,68.5229883711132,xT.v4,match
+20cmbm,False,afzwi47befhipef2efhpyusy7y,positive,,0,Ovarian Cancer,80.2264853139894,xT.v4,match
+20pctu,False,af2fmq7ea5arzcdyn4q3kze4zq,positive,"""on hold"" to ensure OP is contacted first",0,Pancreatic Cancer,53.1247486447869,xT.v4,match
+20jvmr,False,af3dobttuvgfnhoud5dsnvuwdu,positive,,0,Pancreatic Cancer,65.4549614041411,xT.v4,match
+20amyx,False,af2u42mts5hejog5ejneraqqfe,negative,,0,Ovarian Cancer,32.7355319433307,xT.v4,match
+20ljgx,False,af2vbrgt5zgydp5vnwdefaa2w4,negative,,0,Pancreatic Cancer,24.5471698381091,xT.v4,match
+20tkqz,False,af2l7rajxzg5rfhco6u2node24,positive,,0,Colorectal Cancer,27.2913516618324,xT.v4,match
+21apbe,False,af32bfhojral7jvdr3cathjvy4,negative,,0,Colorectal Cancer,52.6059488968927,xT.v4,match
+20ibga,False,af3mc5pwl5gi5nqlwpo7lxtnaq,positive,,0,Ovarian Cancer,39.3288067124412,xT.v4,match
+20wgwl,False,af3etbac2nek7nlohcl5nz62ou,positive,,0,Ovarian Cancer,39.9198410408512,xT.v4,match
+21qglm,False,af3r5q75lzh5ngc4xzgnqqssim,positive,,0,Pancreatic Cancer,75.1905855597288,xT.v4,match
+21xvwu,False,af3zujcix5ayjhgzb2ywruagbm,negative,,0,Endometrial Cancer,74.0652713858956,xT.v4,match
+20zrmt,False,af265bsy3zeufmfrtybdagcffq,positive,,0,Bladder Cancer,84.4290801983724,xT.v4,match
+21xnnn,False,af4bz7jxqrbvbkef7pntcpb4sm,positive,There is no evidence that this case has two BRCA mutations. Please change to negative and also figure out what went wrong in the call.,0,Sarcoma,79.2401139225581,xT.v4,match
+20seyx,False,af23ljwelnbj7gp6tckmvxn2cy,negative,,0,Prostate Cancer,96.9867634841276,xT.v4,match
+21rtlu,False,af3vyxflqzchdiz3jv4ibnrkxa,positive,,0,Breast Cancer,62.415957297808,xT.v4,match
+20jhqv,False,af2jgmp42ngy3jhucymij373a4,negative,,0,Pancreatic Cancer,50.616326312772,xT.v4,match
+21uyko,False,af3yaik5prghvjw5v2f46atpz4,positive,,0,Ovarian Cancer,58.1170893293205,xT.v4,match
+20chqg,False,afzo4epdsvdbzierp6hp3i2oe4,negative,,0,Ovarian Cancer,49.5398847347421,xT.v4,tumor_only
+21oibq,False,af3vecja3nebhl37fvqk2pliuy,negative,,0,Colorectal Cancer,22.6794542901287,xT.v4,match
+21fqpj,False,af4bf3rkyfdedeqrzr6kwc4n2u,negative,,0,Colorectal Cancer,27.608985181507,xT.v4,match
+20lwsw,False,af3ok3yervb7bch7qh4timbnbi,positive,Flag for aneuploidy,1,Breast Cancer,88.4198917888001,xT.v4,match
+20lezr,False,af3dc27brfgvdmgdbz2m4pifti,positive,,0,Tumor of Unknown Origin,31.5607676381561,xT.v4,match
+20qbvm,False,af24u4iu7rfipkq4d6feahro3i,negative,,0,Bladder Cancer,67.3497140128279,xT.v4,match
+21hlit,False,af3sky7dgbh4vpl2lquytfd2k4,negative,,0,Pancreatic Cancer,44.1510859388221,xT.v4,match
+21mvmz,False,af3ywsj43fdgboezsr4l7b7ipe,positive,,0,Ovarian Cancer,81.3150194317177,xT.v4,match
+20abyg,False,af24u4f7jrfrve3csjpnh4n26y,negative,,0,Prostate Cancer,36.9329101216681,xT.v4,match
+20mjao,False,af2m7p6xcndmbmjvo3y4sgvhhy,negative,,0,Bladder Cancer,86.9725042570704,xT.v4,match
+21lyhg,False,af3uvqwj65cufg66vtnw4todnm,negative,,0,Prostate Cancer,71.5532087504009,xT.v4,match
+20wtxb,False,af2fdpormncsfhraotk32d3qzi,negative,,0,Colorectal Cancer,80.8136392894289,xT.v4,match
+21bwbg,False,af3ptf6rb5gptpxnp3r67b24uy,negative,,0,Breast Cancer,49.6028013619355,xT.v4,match
+20qrwd,False,af22clm7fvgkfgjtpcbhqackfi,negative,,0,Colorectal Cancer,54.6806133622072,xT.v4,match
+20hrnc,False,af3hj4d7s5c47iha3zwmzwxaam,positive,,0,Pancreatic Cancer,22.4258038815118,xT.v4,match
+20dxqj,False,afzvktiw6bcszeye27cgftfaay,positive,,0,Pancreatic Cancer,42.7412256458227,xT.v4,tumor_only
+21wqls,False,af4axy7ljfa7vigvqv5tik7tn4,negative,,0,Sarcoma,79.164521838063,xT.v4,match
+20yeqf,False,af3hj4dscjg3dci7rna2apmooy,negative,,0,Pancreatic Cancer,16.5632924789525,xT.v4,match
+21rbfl,False,af3xb4iqbzh7femom6ga3vdjiy,negative,,0,Ovarian Cancer,22.5404613143591,xT.v4,match
+20zkvi,True,af2cvfwff5f7vpnycw4dq7bdlm,positive,"change from positive to negative, please change to 'not detected'",0,Endometrial Cancer,27.9255144255755,xT.v4,match
+20pswx,False,af25xw2a3jhgjmzqaixq6mbm3u,negative,,0,Prostate Cancer,73.5649088858049,xT.v4,match
+21ulhq,False,af3uvqd7mnazzes6jjtexcnuia,negative,,0,Ovarian Cancer,68.649142362957,xT.v4,match
+21flbt,False,af3vjeb54bebzci6fgojmx2hni,positive,Aneuploidy?  Its a colorectal case,1,Colorectal Cancer,31.604093605683,xT.v4,match
+20luoj,False,af3ihttvcvdnpeotchji6fmrhm,negative,,0,Esophageal Cancer,46.7781432650093,xT.v4,match
+21onxp,False,af3plszqfvdtzchgzcqoxjfmyq,negative,,0,Ovarian Cancer,80.0410261259163,xT.v4,match
+20jgir,False,af2s7xzmqjadpemg4tutxttxxm,positive,"""on hold"" to ensure OP is contacted first",0,Breast Cancer,27.8190048179414,xT.v4,match
+20ejru,False,af3fvmjgufhltb7ye5po4w2jxq,negative,,0,Bladder Cancer,25.6835452256023,xT.v4,match
+20hlkg,False,af2m7qithbd7tfadljmru3k3ty,negative,,0,Breast Cancer,20.1297096790382,xT.v4,match
+21cxwc,False,af3rhlevqfayvnfhdzjryfa2rm,positive,,0,Ovarian Cancer,26.8118978936867,xT.v4,match
+20qbav,False,af3mokvdofb4rca57wxxlgmqhm,negative,,0,Prostate Cancer,37.6057483511423,xT.v4,match
+20ajup,False,af3bppnfrncsfde4i4n4hmuj6e,negative,,0,Pancreatic Cancer,42.4252112334468,xT.v4,match
+21hkex,False,af37vwru6rb3pacaqnf5bw5bmq,negative,,0,Low Grade Glioma,67.2592816728491,xT.v4,match
+21ddzy,False,af37vwoqqbf6lh7yuspyxyi7vq,negative,,0,Pancreatic Cancer,36.0357581109438,xT.v4,match
+20avie,False,af3hj4rxbvetzp7bogid5bvnhq,negative,,0,Skin Cancer,71.4966421497082,xT.v4,match
+20tkln,False,afznx6upm5dxnikas6nsr5qusy,negative,"HRD amendment - needs call-out note, on hold",0,Pancreatic Cancer,56.6765060631395,xT.v4,match
+20wlwx,False,af3dc22kgra2jp7qwromuqojei,positive,,0,Ovarian Cancer,73.7183165382565,xT.v4,match
+21eduj,False,af333pjfyrgqzinjxbc5pdhfye,positive,,0,Ovarian Cancer,61.1765035750513,xT.v4,match
+21drtb,False,af33majq5jckxibh6os27pgovi,negative,,0,Testicular cancer,83.0053996584837,xT.v4,match
+20jzzl,False,af2l3env4ndqpmwabobnmjsl5q,positive,,0,Ovarian Cancer,85.4651507087582,xT.v4,match
+20aisf,False,af3jjecy3jgabkgxnyvsxqugky,negative,,0,Breast Cancer,64.8106314643915,xT.v4,match
+20shxe,False,af2xg3eprbb45afjmwcjjt4wvm,negative,,0,Ovarian Cancer,29.3430217224399,xT.v4,match
+20zoji,False,af2dppqhyzazfpwjaacq7jvvjm,negative,,0,Prostate Cancer,61.4109811197877,xT.v4,match
+20gmyo,False,af24u4gq65aellopurocg6jg7u,negative,,0,Breast Cancer,45.7362536811596,xT.v4,match
+20wadq,False,af3nksjwtneele5blblugi4oca,negative,,0,Sarcoma,84.5557670071488,xT.v4,match
+20pilz,False,af3ndb4stbfrroyngtwhqn3bsa,negative,,0,Endometrial Cancer,64.2528796128568,xT.v4,match
+21gmmb,False,af36yhswk5as7pxbh6xzyqpod4,negative,,0,Bladder Cancer,70.6333449851901,xT.v4,match
+21epai,False,af3zkkdxgrbx5jbwyq3dlwr53u,positive,,0,Non-Small Cell Lung Cancer,61.0355046022254,xT.v4,match
+20zxzw,False,af3htz22mjerzdrqxb53hnk4qu,negative,,0,Colorectal Cancer,39.2776882802699,xT.v4,match
+20llgq,False,af2rqfm54fdibbrv2un6h6t4im,negative,,0,Melanoma,33.916489142604,xT.v4,match
+21bvzp,False,af3yesiqhngadctg6qwbnoanmm,negative,,0,Pancreatic Cancer,34.3876548489292,xT.v4,match
+20dxdh,False,afz5l5iyfjc4rc7vsdpgv2q5me,negative,"on hold, Report was marked delayed outside of ReportHub, Report was marked in-progress outside of ReportHub, HRD amendment - needs note",0,Prostate Cancer,33.3947498102584,xT.v4,match
+21tnwe,False,af35zgjx7jhsja3ok7txkdbomy,negative,,0,Prostate Cancer,68.7837453739674,xT.v4,match
+21xtib,False,af34gv2xvjg5xljiig7ukeosbq,negative,,0,Colorectal Cancer,59.47982971256,xT.v4,match
+20cmbg,False,af3nan4mzjdyjhfphczjlltmdy,negative,,0,Melanoma,85.9471167638337,xT.v4,match
+20ypjg,False,af2yeteyffb25edbfazlyn5e7m,negative,,0,Colorectal Cancer,56.4025139703954,xT.v4,match
+20vqrm,False,af2spcid4jdh5oe4b2zwryhujm,positive,,0,Ovarian Cancer,73.8110982942187,xT.v4,match
+20obmg,False,af3grmy77nb7pl4bua2otzziai,positive,,0,Pancreatic Cancer,49.5265507820052,xT.v4,match
+21esgz,False,af3uvqlmbbewdmgmnwvycq2kn4,negative,,0,Clear Cell Renal Cell Carcinoma,35.576635169211,xT.v4,match
+21lktm,False,af3xt3bhrnejrjmnz467m3kdtq,positive,,0,Ovarian Cancer,50.6516341856195,xT.v4,match
+20jsmp,False,af2vsb5qfvchla2g36x7jjp3vi,negative,,0,Breast Cancer,88.4545585551605,xT.v4,match
+20ojgb,False,af22cloo3ngqfgm6tsoqaycskq,negative,,0,Prostate Cancer,40.7807406405897,xT.v4,match
+21dyuk,False,af4a4xojozcgjaiqyzhy6ojjr4,positive,check aneuploidy,1,Esophageal Cancer,83.1797838862973,xT.v4,match
+21xghm,False,af33imbfqfekvjdbrsckaxg5ai,negative,,0,Colorectal Cancer,36.1627799067154,xT.v4,match
+20lnwn,False,af2olw333zhe5eoai2gnj7ic6q,negative,,0,Non-Small Cell Lung Cancer,97.0596946172434,xT.v4,tumor_only
+20ezwb,False,af2v2oqlufdppnc44mysxrmyji,positive,,0,Pancreatic Cancer,59.1643375265225,xT.v4,match
+21ystr,False,af3xb37zybehbcu2mmnoilepoe,positive,,0,Breast Cancer,90.7553657289142,xT.v4,match
+20ogvl,False,af2yoxzryzhlrhni37cekn5mda,negative,,0,Prostate Cancer,40.8357129281951,xT.v4,match
+20ptdf,False,af2v5qonfffcxj7blpc4akqoqy,negative,,0,Endocrine Tumor,76.12249571174,xT.v4,match
+20ieiu,False,af3jrkqrkzhznc2t7wkdykfo7m,negative,,0,Non-Small Cell Lung Cancer,48.9778591855474,xT.v4,match
+20rwlz,False,af2rwym2ljgpzbeo4rqju55tku,negative,,0,Colorectal Cancer,92.6340305696436,xT.v4,match
+20wcet,False,af2jgmuayjdifg6nbqpmxfftyu,positive,,0,Ovarian Cancer,80.9251263301837,xT.v4,match
+20gjmv,False,af3h6bpgtjbmtpf5hklawegwga,positive,,0,Mesothelioma,42.317892098188,xT.v4,match
+20fwzr,False,af3hj4nvobab3ltcpxy7yolbfy,negative,,0,Endometrial Cancer,70.3515969498865,xT.v4,match
+20cpoh,False,afzobwzn6bc4vobijfz3lyeuve,negative,"on hold, Needs amendment notes
+Manually fixed workflow because we accidentally signed out an amendment for this report, Report was marked canceled outside of ReportHub, HRD amendment - needs note, Report was marked in-progress outside of ReportHub, Report was marked delayed outside of ReportHub, HRD amendment - needs note",0,Tumor of Unknown Origin,95.0975242965316,xT.v4,match
+21ezmf,False,af3yquakujflxjwctu7o3azy3m,positive,,0,Ovarian Cancer,55.6151240393798,xT.v4,match
+20slrz,False,af3sf5robjfaxa76peettgxsae,positive,,0,Pancreatic Cancer,66.7136129257303,xT.v4,match
+21mtub,False,af3s5xkhnngide4xthfynvcqba,negative,,0,Ovarian Cancer,63.1300120609469,xT.v4,match
+21mxhs,False,af3qtibjszfxxpa7s6jpx22paa,negative,,0,Prostate Cancer,88.1553481438864,xT.v4,match
+20kzzd,False,af26442wjza6dcpryorllo5lu4,positive,,0,Ovarian Cancer,74.0026911586389,xT.v4,match
+21bqfx,False,af4bz7hxu5gkdgr4olbmb4ywau,positive,,0,Breast Cancer,42.6923563768646,xT.v4,match
+21glwy,False,af3rzqsrubftfhrlr5522eh2oy,negative,,0,Non-Small Cell Lung Cancer,82.8808944971452,xT.v4,match
+20oalg,False,af2kj3etdnanbl4c4zbtrdhwxy,positive,,0,Small Cell Lung Cancer,87.8281653695527,xT.v4,match
+20gdhy,False,af2neysepngpdc2pi5vnvymhfm,negative,,0,Non-Small Cell Lung Cancer,38.15,xT.v4,match
+20stie,False,af3jrkuff5htzfd6xytjbzmy7u,positive,,0,Breast Cancer,47.0718936823035,xT.v4,match
+20fefc,False,af3i3n2vi5gqvibdphpcw6jfda,negative,,0,Sarcoma,20.2281108453891,xT.v4,match
+21cqas,False,af4bjfug2bge5mn3jbusrc22om,negative,,0,Tumor of Unknown Origin,35.8886126470429,xT.v4,match
+21zrvm,False,af35zgkncfadfpwpay272amroa,negative,,0,Endometrial Cancer,14.3087795547871,xT.v4,match
+20vmou,False,af2k4vqkkjgybmesagi7w73ooq,positive,,0,Non-Small Cell Lung Cancer,63.9153204926727,xT.v4,match
+20obzb,False,af3nksknpzhkrkyqj3xzqpy2e4,negative,,0,Prostate Cancer,64.1360447714855,xT.v4,match
+20zdim,False,af2neylv35eifd5ssvvqebeksq,positive,,0,Endometrial Cancer,66.5509409020202,xT.v4,match
+20zltn,False,af25xwwfhfgtxgb26gdae4dmui,negative,,0,Cervical Cancer,67.1662585894836,xT.v4,match
+20ukik,False,af3nan4m7faipigjhgwpuxh3mm,negative,,0,Pancreatic Cancer,18.1032292129169,xT.v4,match
+20hedi,False,af3plsz2p5hblhg4o7ubncyqta,negative,,0,Gastrointestinal Stromal Tumor,67.9327925072121,xT.v4,match
+20crjp,False,af2qaehb65gzpc3v4d7hxdycrm,negative,,0,Colorectal Cancer,69.3333185814479,xT.v4,match
+20asiu,False,af3bwx5sqzcdvf2vhi3crm55ba,positive,,0,Prostate Cancer,83.0931945392057,xT.v4,match
+20ncos,True,af2ksxbmbna5dppnj6a4724cbq,positive,"cohort, please change to the ovarian cutoff, cohort",0,Tumor of Unknown Origin,57.4798740831783,xT.v4,match
+21zroh,False,af34gvz3s5dpnmwgsxjwgctz64,negative,,0,Colorectal Cancer,40.3308324372333,xT.v4,match
+20hsdi,False,af3dbpkntjfjvdch2jduxhthsy,positive,,0,Pancreatic Cancer,29.2597254952706,xT.v4,match
+20rxyd,False,af2vsb7k7bb5lbjm6pn262lyb4,negative,,0,Breast Cancer,76.3518215929288,xT.v4,match
+20dqwu,False,af3gswcen5dsfgkltgtrzklnre,positive,,0,Ovarian Cancer,80.6155749122464,xT.v4,match
+20wyfw,False,af3hj4dvnva3pcyxuqamj3szw4,positive,,0,Non-Small Cell Lung Cancer,68.3595786814971,xT.v4,match
+21nhmn,False,af3witg2xfaqvp323xzqes6n5i,negative,,0,Colorectal Cancer,51.1339458805098,xT.v4,match
+20svdx,False,af2trda2a5dyljge6a7mvai47i,negative,,0,Endometrial Cancer,22.3319588673924,xT.v4,match
+20kzod,False,af24krm7efct5ggr7yndxliitm,negative,,0,Pancreatic Cancer,22.933967254408,xT.v4,match
+20yztk,False,af24kroawbhffgk5gx35c7npdq,negative,,0,Sarcoma,57.9504176278385,xT.v4,match
+21ggni,False,af3owercb5etjmsywlqr4myyrm,positive,aneuploidy,1,Colorectal Cancer,81.675237774932,xT.v4,match
+21wcxp,False,af3veckc6zfg3mjrwbagjwhl2y,negative,,0,Esophageal Cancer,42.2881588095328,xT.v4,match
+21rnyr,False,af3rz6fxrvbddmdzufnifjozey,positive,,0,Ovarian Cancer,82.1834648410356,xT.v4,match
+20qkie,False,af2m7p6nhjfyhakmflovwsocn4,positive,,0,Ovarian Cancer,53.901098289435,xT.v4,match
+21wvko,False,af4ckgfevzd6xktlppjfdohrzm,negative,,0,Sarcoma,91.761762415134,xT.v4,match
+20gsvg,False,af2uwpyem5dbvaluhhrzoasvia,positive,,0,Ovarian Cancer,88.7040380919859,xT.v4,match
+20edvd,False,af3dbpkpmjg63adubkt23q7nlu,negative,,0,Bladder Cancer,79.7792413017674,xT.v4,match
+21ltrs,False,af3vyxfaszdhfojcihot36de6e,negative,,0,Breast Cancer,38.9577860187163,xT.v4,match
+21pymm,False,af35eozso5g37fk7ymjxtuoepu,negative,,0,Prostate Cancer,51.1844237122959,xT.v4,match
+20llzp,False,af3aouvbvfarbnuvqnyst4w7pq,positive,,0,Colorectal Cancer,77.7251508748953,xT.v4,match
+20avli,False,af2vscautbe3xfayi3ygtidrpy,negative,,0,Kidney Cancer,55.5750435974176,xT.v4,match
+21hkoj,False,af3q6sid3nf35fc5l2b3dog6we,negative,,0,Breast Cancer,36.8823060472204,xT.v4,match
+21exox,False,af3uvqlhujaxxmhziq5slje3nm,negative,,0,Ovarian Cancer,29.3902313407633,xT.v4,match
+20jytp,False,af22vrynhngk7kt5xwoer62d5q,negative,,0,Pancreatic Cancer,38.32470541785,xT.v4,match
+20smsh,False,af2rqhzccvc5zngzlhasd7jbce,positive,,0,Breast Cancer,56.8801811265676,xT.v4,match
+20ymst,False,af2qad25jjb77mrdczipxuo7my,positive,hold for investigation of BRCA2 LoH,0,Breast Cancer,75.4169511738372,xT.v4,match
+20pzad,False,af3ok3ubvvglbc553cqs2l5gje,negative,,0,Tumor of Unknown Origin,61.3014515174807,xT.v4,match
+21pjvk,False,af3vqidutrg4jfzrthbvhlmqmu,negative,,0,Pancreatic Cancer,22.1734805376876,xT.v4,match
+20pebd,False,af3dbpk2argxpoaoqv4sdjubgi,negative,,0,Non-Small Cell Lung Cancer,51.739998015608,xT.v4,match
+21cybw,False,af34qdhuwndztj2aeqoxtdpyse,negative,,0,Gastric Cancer,40.727617451848,xT.v4,match
+20xmfm,False,af3chktkcvaffe6mmcgozajcyq,positive,,0,Esophageal Cancer,33.5010079264556,xT.v4,match
+21qwsa,False,af36yhicobd33cfxs2n4tcw5q4,positive,,0,Endometrial Cancer,90.6967376576638,xT.v4,match
+21bufh,False,af37gszaybab5nmwseowcr6aoa,negative,,0,Endometrial Cancer,38.9765506193084,xT.v4,match
+20wolz,False,af3ptf4pebbrffybkhb3bzrkpi,negative,,0,Sarcoma,76.09873489354,xT.v4,match
+21kkxk,False,af3xkgxvgffybgygcfpmdfg3me,negative,,0,Bladder Cancer,21.6715148351781,xT.v4,match
+21gwio,False,af3zkj2y3na2viitzfmtnizaw4,negative,,0,Sarcoma,92.2824503196851,xT.v4,match
+21zzor,False,af3uvp7vjffg5cuszeosf4ghsq,positive,,0,Ovarian Cancer,53.3601733496855,xT.v4,match
+20xlcc,False,af3mgxnmx5earj2dct4dhlqqni,positive,,0,Breast Cancer,63.9065252343762,xT.v4,match
+21pguh,False,af3witql4ngcplebrn7vnpkanm,negative,,0,Liver Cancer,54.9955402225785,xT.v4,match
+20mkna,False,af2lp2mcvverxmlgiqaaq7ue2e,negative,,0,Glioblastoma,29.0001482950383,xT.v4,match
+21awgz,False,af3withatfcqledknorxixz5ga,negative,,0,Prostate Cancer,50.4876061249017,xT.v4,match
+21adlo,False,af3p6ftamrb4tjaem3z2bfa65u,negative,,0,Ovarian Cancer,46.3299457274423,xT.v4,match
+20okzf,False,af3ihueanrh43bicu4ylumitzm,negative,,0,Breast Cancer,43.6983943508186,xT.v4,match
+20glxc,False,af2m3hoyzjhmpppp44omnbe464,positive,,0,Breast Cancer,71.1036215971571,xT.v4,match
+20gnfm,False,af3hj4n35zfdzdokjclvwzwggy,negative,,0,Prostate Cancer,53.714184914531,xT.v4,match
+21qcpp,False,af34qdidjjcf3pyemsujo7hz4m,negative,,0,Ovarian Cancer,60.1696846767974,xT.v4,match
+21qwzn,True,af3xb4fqlbcdfkh2caq3yavnv4,positive,"adde not-detected pill, remove 2-hit text, not a deep loss case",0,Breast Cancer,31.7839536928231,xT.v4,match
+21eyyg,False,af34qc7olvdqlkktea4jdlitrq,positive,,0,Sarcoma,73.8536849373873,xT.v4,match
+21tjts,False,af3ptgiiczgdbdidwkharuuf3a,negative,,0,Biliary Cancer,33.0054532365183,xT.v4,match
+21maxw,False,af37isynnnhw7abxlhubz2h3oq,negative,,0,Endometrial Cancer,78.2296694651213,xT.v4,match
+21owch,False,af3uc544y5ctvbodfsnereclv4,negative,,0,Pancreatic Cancer,23.2960800264723,xT.v4,match
+21fewo,False,af3v6pz2qbewdf6dnhpcxxmjyi,negative,,0,Pancreatic Cancer,19.8552559106544,xT.v4,match
+21ilev,False,af33imb4qrbx3kyyqm6mwlytju,negative,,0,Pancreatic Cancer,27.610635593231,xT.v4,match
+21gehs,False,af37isuvmrenrhsjis4qp65ani,negative,,0,Colorectal Cancer,38.9330712231264,xT.v4,match
+20xwyo,False,af2s7xx45jbk5cz75h3rthefq4,negative,,0,Ovarian Cancer,18.2927448419651,xT.v4,match
+20fsew,False,af3q6sepcraqlnknos756pk5ka,negative,,0,Prostate Cancer,59.7935610626104,xT.v4,match
+20fkwu,False,af2qaeg22fcc7bsc6j45nhqela,negative,,0,Endometrial Cancer,99.9770818505338,xT.v4,tumor_only
+20ujca,False,af3hj4xn2rbzhlzjkkmnuce5yy,positive,,0,Ovarian Cancer,69.006006863659,xT.v4,match
+20dsxh,False,af2inhwzrfg5rgc3iowiyx6at4,negative,,0,Prostate Cancer,75.2338126968344,xT.v4,match
+20msnz,False,af2v2oqikfaanivwapluiyar54,negative,,0,Colorectal Cancer,48.1971417536568,xT.v4,match
+20gotp,False,af2l7rb4obgmjjtcdkeljq342u,negative,,0,Prostate Cancer,52.9742218566096,xT.v4,match
+21jmbb,False,af3xmkanbvcvzkajakozuijrgu,positive,aneuploidy,1,Pancreatic Cancer,58.6884673980536,xT.v4,match
+21dflh,False,af3uvqnqpjckrafxwkq5yqmd6y,negative,,0,Breast Cancer,45.2768664998552,xT.v4,match
+20sbqs,False,af3rhlbde5caxoqfbl7g3trf7m,positive,,0,Ovarian Cancer,75.0956555447085,xT.v4,match
+20efkl,False,af2ewq2gu5dhzc7kmd2a6dkdsy,negative,tried to s/o with chrome and safari. getting internal server error.,0,Prostate Cancer,66.8110908756439,xT.v4,tumor_only
+20zmhu,False,af3ozad2i5bt7pjqompzczky4q,positive,,0,Pancreatic Cancer,27.4619378973393,xT.v4,match
+20ytvp,False,af2xlf7vc5aq5j6wmmr27ug2gy,negative,,0,Melanoma,77.0762773152051,xT.v4,match
+20umup,False,af2v5qg2anbtnfggt26thyofw4,positive,,0,Ovarian Cancer,24.5647477206194,xT.v4,match
+20azif,True,af2upqh4xzdr3n6q5uh4pjfhu4,negative,"HRD amendment, HRD amendment - update algo run date, rejecting so we can add manual ADOBE amendment if needed, HRD amendment",0,Ovarian Cancer,99.5708606310862,xT.v4,tumor_only
+20azif,False,af2upqh4xzdr3n6q5uh4pjfhu4,negative,,0,Ovarian Cancer,99.5708606310862,xT.v4,tumor_only
+21cjdc,False,af3sf5r2wrgq3oxbplbwdjywc4,negative,,0,Melanoma,37.791441181567,xT.v4,match
+20rles,False,af3uvqddpjh5fc4rju3jj33ehy,positive,,0,Non-Small Cell Lung Cancer,41.4241212693965,xT.v4,match
+20vntk,False,af3rorrwqnghxjmmet6ykscgs4,negative,,0,Sarcoma,84.7535652856604,xT.v4,match
+21xocj,False,af3sa6nhirh47nv5tdyvfbxby4,negative,,0,Prostate Cancer,60.8566833293254,xT.v4,match
+20mmwe,False,af2yebchgrgaxjqyntjqfbp4pa,positive,"Deep loss note is incorrect,  This tumor has two loss of function alterations in [BRCA1 or BRCA2], therefore it is considered positive for HRD regardless of genome-wide LOH score.",0,Prostate Cancer,61.3577492120351,xT.v4,match
+20jhrt,False,af2zdqh73fb5teg3biktfbq63q,negative,,0,Esophageal Cancer,92.1941200652041,xT.v4,match
+20wpst,False,af22lvsrfvbubdvankm6akkebu,positive,,0,Ovarian Cancer,51.1803561611385,xT.v4,match
+20ngqs,False,af2v5qotzvfihd7mp3oqi5j4ey,positive,,0,Breast Cancer,80.0688635643747,xT.v4,match
+20rmbc,False,af3jrkvh4zhidm5homxim2dexa,negative,,0,Pancreatic Cancer,91.4577987785599,xT.v4,match
+20fcfs,False,af3ok3th5bhsfaebf4mznjzsqa,negative,,0,Pancreatic Cancer,48.2981834769009,xT.v4,match
+20cdbt,True,af2r3iwnhfd7xattgl5uea2jji,negative,"updated threshold text to 25% and moved dashed line, Change the threshold to 25% since this is perotneal and should be group with ovarian",0,Peritoneal Cancer,47.4925863678805,xT.v4,tumor_only
+20prqm,False,af2zdqjv5vdvxhn2xrfze4xkpa,negative,"Report was marked canceled outside of ReportHub, reject to add amendment note",0,Endometrial Cancer,69.1185149258292,xT.v4,match
+20swxo,False,af2unwvfdne3dkmqr2qkxjngme,positive,,0,Breast Cancer,69.2546270736745,xT.v4,match
+20ekvt,False,af265bte3vgxbg6eiczsyejfay,negative,,0,Skin Cancer,17.6558761117883,xT.v4,match
+20mcwz,False,af3yqtpivbe2rhrz6lnn3mwm4i,positive,"high GWLOH, rainbowplot",0,Ovarian Cancer,74.1192346617003,xT.v4,match
+21beso,False,af4bjg3cmfhctae7gc7j4wxn7e,negative,,0,Tumor of Unknown Origin,44.3803576741509,xT.v4,match
+21maax,False,af32bfg77fem7f5b3w4tdb3qmy,negative,,0,Endometrial Cancer,93.1724112335025,xT.v4,match
+20xvja,False,af3ndccnzvf4llbntpun4mz2sy,negative,,0,Colorectal Cancer,55.7342595295851,xT.v4,match
+21vasu,False,af3yzeqidrcn3jbdit6k6ui5mu,negative,,0,Sarcoma,35.8033817339986,xT.v4,match
+20qbfv,False,af2zdqawovcavhxgjc7uljmcwe,positive,,0,Ovarian Cancer,84.861137286563,xT.v4,match
+20gyqx,False,af3j3ztj5vbopccnmzlfn4wyjq,negative,,0,Testicular cancer,85.888756390529,xT.v4,match
+20yjkk,False,af2u42mkw5hufojz2td57ltkyq,positive,,0,Tumor of Unknown Origin,36.7723185837274,xT.v4,match
+20pawd,False,af2neyryprbbpd653ko2jp26vq,positive,,0,Non-Small Cell Lung Cancer,54.5764741501574,xT.v4,match
+20cfpk,False,af3q6sgugja7dlh6em27ccvtiu,negative,,0,Sarcoma,10.4882975792691,xT.v4,match
+20ncug,False,af3chhdevzdb7omtrd7zzpadqy,negative,,0,Sarcoma,84.2164002739692,xT.v4,match
+20gksm,False,af3nan6nsbcvtngzc43tkzwixu,negative,,0,Prostate Cancer,73.3880722685117,xT.v4,match
+21ymap,False,af3veco4ezh4feetpvm5rwkf6y,negative,,0,Non-Small Cell Lung Cancer,55.150046110192,xT.v4,match
+20cutv,False,af26ttgipjarpfnfk26vlv7ruy,positive,,0,Breast Cancer,72.2904738447531,xT.v4,match
+20nttk,False,af2nxwyyergxvbjsgi7cnyl5ne,negative,,0,Kidney Cancer,77.2851267357024,xT.v4,match
+20cuvv,False,af3witwxsfdkrnmg7t53gt6ksu,negative,,0,Melanoma,57.591821071399,xT.v4,match
+21stke,False,af32bfgx35h2zeelagxwz65kti,negative,,0,Ovarian Cancer,81.2004850634664,xT.v4,match
+20qoyy,False,af2vsb6njfcfjbdyt44mvnxrpu,negative,,0,Endometrial Cancer,28.3056972849316,xT.v4,match
+20mecl,False,af2hwg5nlbcqjgpjcnwdszsb6u,positive,,0,Breast Cancer,76.3758160122254,xT.v4,match
+20rmky,False,af3labaldrgmfayahhr6a3r5yi,negative,,0,Prostate Cancer,69.1487560321683,xT.v4,match
+20hkvl,False,af2xlf6spvhwfewwqz3owokdz4,positive,,0,Non-Small Cell Lung Cancer,75.3832158851309,xT.v4,match
+20sthp,False,af3az2arlzholcaahcsypzeg5m,positive,,0,Tumor of Unknown Origin,78.5581196505262,xT.v4,match
+20eqdq,False,af2inhz335fenf7h7slswp4jdm,negative,,0,Pancreatic Cancer,70.5539762049706,xT.v4,match
+21mnew,False,af3uvqkkbjhclfedatpzicyprm,negative,,0,Head and Neck Cancer,38.5994019030026,xT.v4,match
+21ztnk,False,af3r5rauazcubao6mnz7b6esou,negative,,0,Mesothelioma,31.5560155241791,xT.v4,match
+21tlmw,False,af4bf3ngqfb3loptpkqk2mxlnm,negative,,0,Kidney Cancer,70.1336838380768,xT.v4,match
+21unql,False,af34gvflmbhu3enx2e3ollhd6y,negative,,0,Thyroid Cancer,42.7152094468244,xT.v4,match
+20cakj,False,af2v5qn4djckhi6mkgatqhpkfq,negative,,0,Esophageal Cancer,56.1494784044699,xT.v4,match
+20tyof,False,af3ihttdandzjhebkwhyktjec4,positive,,0,Tumor of Unknown Origin,37.4920130172328,xT.v4,match
+21zpal,True,af34gvfqkfezdaoqnxmtl6rll4,positive,"Determining if we should call this , fixing illegible s/o date in footer, fixed s/o date, also fixed font on the note, Report was marked delayed outside of ReportHub, Report was marked in-progress outside of ReportHub, have to fix the s/o date, add Tim's custom somatic alteration w/ LOH parenthetical",0,Prostate Cancer,62.979054095953,xT.v4,match
+20mfht,False,af3kkho3xrgvrem4spj36sbuxy,negative,,0,Uveal Melanoma,37.2315618870067,xT.v4,match
+20tdaw,False,af3q6r7uvrcazhczis247vpbba,negative,,0,Non-Small Cell Lung Cancer,62.5337510099802,xT.v4,match
+20jtxw,False,af3jag4j4nht7envlsuzkhtop4,negative,,0,Breast Cancer,72.7109772844343,xT.v4,match
+20lxue,False,afzsukt45jgspohs6lce4r545i,positive,HRD amendment - needs note,0,Pancreatic Cancer,68.0314123546889,xT.v4,match
+20rixe,True,af2l3enopnb5nmxkrpgz4rbham,negative,"BRCA2 is copy loss, should be postive, two copy loss error",0,Prostate Cancer,58.476706088567,xT.v4,match
+20kiow,False,af2xoamderd5heigftv2m3v7ru,negative,,0,Colorectal Cancer,69.2083062361368,xT.v4,match
+20ngje,False,af3ihufaovfu3ir7xujarxno3q,positive,,0,Ovarian Cancer,52.7268740254468,xT.v4,match
+20tltw,False,af3htzsfengybnj44ym5x6jpw4,positive,,0,Ovarian Cancer,78.6930089421988,xT.v4,match
+20hisj,False,afz5uldcjjfzvh27qb7ivlwdby,negative,"putting ""on hold"" to ensure OP is contacted first, HRD amendment - needs double check",0,Pancreatic Cancer,43.7749356947599,xT.v4,match
+21ubof,False,af3yqucbvrddhmdnw3vy23ycj4,negative,,0,Sarcoma,20.6410249281894,xT.v4,match
+20sxnl,False,af3kw6hbdne7bfkq27folkl2zy,negative,,0,Clear Cell Renal Cell Carcinoma,34.053762952676,xT.v4,match
+20krqq,False,af23zpg6zfg4pp6zjq452ydtcu,negative,,0,Colorectal Cancer,47.5787682517286,xT.v4,match
+21qotp,False,af33mafzbjgbxm47t56isxa62y,positive,,0,Pancreatic Cancer,36.0721366947553,xT.v4,match
+20qdne,False,af3j3zsuifgyhf7tktrvaz2bzu,negative,,0,Endometrial Cancer,57.1575033092886,xT.v4,match
+20lvhp,False,af3nan447bgjjfsbidec76hvca,negative,,0,Endometrial Cancer,91.1085794404701,xT.v4,match
+20csez,False,af3hj4xe3feara5qa3in44t3ua,negative,,0,Prostate Cancer,90.6193830869831,xT.v4,match
+20ejrj,True,af22vr2a5zey3dyktqalspi2bi,positive,"No deep loss: Used ""not-detected"" pill and removed deep loss note, This report does not have BRCA2 loss",0,Colorectal Cancer,41.0926218805875,xT.v4,match
+21ukux,False,af37imm7ffb23cagtnqmoywuwu,negative,,0,Prostate Cancer,23.5246694197384,xT.v4,match
+21yknf,False,af373ocdong2xpss7rschvduqm,negative,,0,Ovarian Cancer,30.8754241614659,xT.v4,match
+21aorw,False,af3uvqd45je7hnuptz657qze64,negative,,0,Ovarian Cancer,85.5733610228857,xT.v4,match
+20dkft,False,af2wfxickra7ncrtmdfcxsjkbe,negative,,0,Colorectal Cancer,60.2306733465964,xT.v4,match
+21cend,False,af333pxeejbsbbkzkdvf6foow4,negative,,0,Prostate Cancer,23.2494325760965,xT.v4,match
+20hoyg,False,af2w5wymjrhhnfaj3nzkda2u34,negative,,0,Ovarian Cancer,40.594495475628,xT.v4,match
+21wzdj,False,af35f4f2s5adhhsgqbr6m47gem,positive,,0,Breast Cancer,30.4159168200044,xT.v4,match
+21icuf,False,af3vywz3obho7dwnmgsliurr4a,negative,,0,Cervical Cancer,64.3977382175724,xT.v4,match
+20lvil,False,af2xucbbg5dgtptdjnvrpuvrdy,negative,,0,Ovarian Cancer,80.1045743102648,xT.v4,match
+20dtsv,False,af2o2oniare3dkiga5hnq7f2me,positive,,0,Ovarian Cancer,81.200178655245,xT.v4,match
+20avhf,False,af3v7p54v5f55lbw7sbmnibkby,negative,,0,Bladder Cancer,55.1476414442479,xT.v4,match
+20jeio,False,af3s5xo225hhxdsgxykswp5cxi,negative,,0,Bladder Cancer,87.6757666747268,xT.v4,match
+20zmfj,False,af3ndcaxnbamjdchc75pdt64oa,negative,,0,Colorectal Cancer,30.9931210207635,xT.v4,match
+20bazo,False,af2xg3fzjfafxkayxm5zzwgtr4,positive,,0,Ovarian Cancer,55.797125551789,xT.v4,match
+20nccu,False,af3jjekenjacpp5dgok6jndezm,negative,,0,Breast Cancer,37.5451696571357,xT.v4,match
+20ewti,False,af27zeafbfayjjmkc5r3rwjkii,negative,,0,Ovarian Cancer,32.6811371856907,xT.v4,match
+21coef,False,af3rhla57fdwrhca6k2kzoglr4,negative,,0,Melanoma,94.9928416500389,xT.v4,match
+20ogxm,False,af2neyq2gncljcika4stbhw6nq,positive,,0,Non-Small Cell Lung Cancer,45.0973208989858,xT.v4,match
+20pusl,False,af2o2octc5gvdkhkkhh4abxew4,negative,"Report was marked canceled outside of ReportHub, HRD amendment - low tumor purity so amend is likely not needed",0,Ovarian Cancer,36.7781860507217,xT.v4,match
+20vknk,False,af3eis6rgvbvbcsjbukcsxgrzm,negative,,0,Ovarian Cancer,31.6812436803647,xT.v4,match
+20xlih,False,af2rqhvwgrhdxdft7f4skxnlgy,positive,,0,Ovarian Cancer,18.3287601621043,xT.v4,match
+20dcco,False,af2wfxi3pbd3zljlgbjyfwjy7i,negative,,0,Sarcoma,78.0169736239108,xT.v4,match
+21vqdu,False,af35eo2oobandaupauqewl3oii,negative,,0,Sarcoma,57.5056924329281,xT.v4,match
+20wdbm,False,af2szznpbzfp7dbhznoihxp7gm,negative,,0,Prostate Cancer,31.3542005471662,xT.v4,match
+20xszl,False,af3jrktho5a6lmn2ymchatqcae,negative,,0,Liver Cancer,46.2855621189381,xT.v4,match
+20svod,False,af2yoxy6znfnjlwmmz5movxfoy,negative,,0,Breast Cancer,79.2886796273135,xT.v4,match
+21ffgq,False,af4bf4berrgjhfajljkxpw234a,negative,,0,Colorectal Cancer,52.6959323607593,xT.v4,match
+21swmu,False,af35o34te5btvngpjeyxqhnmua,negative,,0,Cervical Cancer,58.7490389113408,xT.v4,match
+21orxw,False,af4bjfivi5g67fsxtp456zzpea,negative,,0,Colorectal Cancer,55.3005586065735,xT.v4,match
+20kirj,False,af3oweypfnff5axfndcrygfg2i,negative,,0,Colorectal Cancer,20.5856465489579,xT.v4,match
+20yiwx,False,af3owevknnbchn6uddhveao7t4,positive,,0,Ovarian Cancer,42.2558720758851,xT.v4,match
+20hjzl,False,af2lybuhkvd2jkhfp5n57ri5te,negative,,0,Melanoma,75.0982062794238,xT.v4,match
+20gyuf,False,af2tx7n3cbg73cslvp22dage6y,negative,,0,Breast Cancer,48.9591547743862,xT.v4,match
+20iqrn,False,af3az2chjbg3zfz7dk5v5sbnnm,negative,,0,Ovarian Cancer,58.1751880924368,xT.v4,match
+21zhyd,False,af4bz3j3aba4xkvajf5yry3iyi,negative,,0,Breast Cancer,40.3086109365179,xT.v4,match
+20kzrz,False,af3b7lzqqzcmjavqsnznwf2u7m,negative,,0,Tumor of Unknown Origin,40.1334727847299,xT.v4,match
+21elxu,False,af3vqihstfafdibegkxtmwsnym,positive,,0,Ovarian Cancer,70.7060199287797,xT.v4,match
+20hreb,False,af3hw7bczrbztfeqp5luoikpx4,negative,,0,Skin Cancer,31.3561020455188,xT.v4,match
+20vwkv,False,af3b7l4ksfhotbpppt7r2rpsuq,negative,,0,Prostate Cancer,69.286942837023,xT.v4,match
+20tkjv,False,af3ok3xaingarfwlrj6lov2gpu,negative,,0,Non-Small Cell Lung Cancer,20.5867816091954,xT.v4,match
+21qapk,False,af3zkkfizvbetc73ufg7rxgfsq,negative,,0,Non-Small Cell Lung Cancer,52.7065695466499,xT.v4,match
+21adsv,False,af4au3i2wfgcdgmbp2yt6uvtja,positive,,0,Ovarian Cancer,55.0138765695478,xT.v4,match
+20atru,False,af2lxzzpcvfszganu6fgmwezca,negative,,0,Melanoma,33.279494949495,xT.v4,match
+21stry,False,af3uvqltqzh7rkfsabybijfr44,negative,,0,Non-Small Cell Lung Cancer,36.5284078835745,xT.v4,match
+20uehh,False,af2tf3cxszbc3mpaqig5zjmjsm,positive,,0,Breast Cancer,65.4733216595655,xT.v4,match
+21vhnv,False,af3tqs7thjbtdph26kt5334bxi,negative,,0,Prostate Cancer,81.6723648088412,xT.v4,match
+20rqvx,False,af24krkx3fhnhkyhr5su4qhjvq,positive,,0,Ovarian Cancer,70.8656263083498,xT.v4,match
+20mrww,False,af2lxzyps5afnhulwobiahuisa,positive,,0,Breast Cancer,71.6180252432382,xT.v4,match
+20juhi,False,af2hwgxcsrbtldwefwtzobawei,positive,,0,Ovarian Cancer,25.9385467579016,xT.v4,match
+21ohjf,False,af4bz7xh5ze7zibxsaieypacfa,negative,,0,Clear Cell Renal Cell Carcinoma,63.6555577571096,xT.v4,match
+20eutz,False,af2vbre2drcghnglhy7utwc74u,negative,"Report was marked delayed outside of ReportHub, Report was marked in-progress outside of ReportHub",0,Prostate Cancer,39.1812822252908,xT.v4,match
+20cagn,True,af3labcifzfdjkesdxetvyzfjm,negative,"fix diagnosis typo, Diagnosis is being updated on the xT report
+",0,Prostate Cancer,30.8554447921902,xT.v4,match
+20vgmg,False,af3bppppj5e6ffuimf4fuhbc3i,negative,,0,Prostate Cancer,50.9646601923685,xT.v4,match
+20mtuw,False,af3lfckx45hcret6cfqvxkijje,negative,,0,Pancreatic Cancer,59.3641377933177,xT.v4,match
+20ndpp,False,af3dmkivprc2vecgqwc2bqbscu,negative,,0,Prostate Cancer,70.8252831931559,xT.v4,match
+21cqek,False,af3uvql5srdwdjeiuindd2lldm,negative,,0,Ovarian Cancer,66.3291839961964,xT.v4,match
+21qhxu,False,af3rz57f7vasrec64jgj5ts4dm,negative,,0,Biliary Cancer,31.6805295478205,xT.v4,match
+20okif,False,af3g7bknqnecdohpxb5qivro4m,negative,,0,Breast Cancer,71.384440303543,xT.v4,match
+20syeu,False,af3cr6uquvfpzc4ceot5oasjja,positive,,0,Breast Cancer,42.4282473211465,xT.v4,match
+21xpgz,False,af3s5wxx4rckzf4qtxaon3ds6m,negative,,0,Biliary Cancer,74.7011739164973,xT.v4,match
+21hsuy,False,af3sawzx2vf3be6a7mmcatylzi,negative,,0,Ovarian Cancer,44.8532260768561,xT.v4,match
+20fkwu,False,af2rcjbc4bgsbfoyb6de4es5my,negative,"on hold, Report was marked delayed outside of ReportHub, Report was marked in-progress outside of ReportHub, HRD amendment - needs call-out note",0,Endometrial Cancer,53.6350658946121,xT.v4,match
+20clqo,False,af2qn5uc4rhnllflfxxuvm5uoe,negative,,0,Colorectal Cancer,64.0393206461465,xT.v4,match
+20zikj,False,af2ttoqydjfz5e756a672kcpie,negative,Resolving BRCA1 status with Nirali and Jordan,0,Ovarian Cancer,96.8999428028056,xT.v4,tumor_only
+20ectg,False,af3lfcmb3ncgzkmqt6kao4qdim,negative,,0,Colorectal Cancer,62.406863295212,xT.v4,match
+20zyxe,False,af3owevjlnfnzbx3f45up743ue,negative,,0,Colorectal Cancer,35.1630895872735,xT.v4,match
+20beiv,False,af3b7ma5ezcqbiua7gyzkz44ia,positive,,0,Pancreatic Cancer,51.5115488449925,xT.v4,match
+21xkfy,False,af3vechdx5aahkx7xazolrjrxe,positive,,0,Breast Cancer,55.5206658951622,xT.v4,match
+20ibob,False,af2ksw7bebbtjf5rmhm73yzbve,negative,,0,Non-Small Cell Lung Cancer,58.4667531806616,xT.v4,match
+21vfio,False,af3xb4nmy5f6nl5w3zske4kmdi,negative,,0,Biliary Cancer,43.7221187188781,xT.v4,match
+21zvmg,False,af33tbx5vzblnf3isszrep3dlu,negative,,0,Colorectal Cancer,57.1543020320533,xT.v4,match
+20oqbt,False,af3eis224raeresj2msejp3ej4,negative,,0,Endometrial Cancer,21.3465972194075,xT.v4,match
+20ulld,False,af26442xhresrlnlzys6yg2kpe,negative,,0,Prostate Cancer,36.6734051284813,xT.v4,match
+21uqwd,False,af3witpzljdafcj42yjza522we,negative,,0,Biliary Cancer,17.8204364989849,xT.v4,match
+20cbkx,True,af2k4vmb2fc5liipjr5dodnguy,negative,"HRD amendment - orig is photo shopped; may require change of result; flag for path review, edited threshold/dashed line, added header, sig, and s/o date ",0,Peritoneal Cancer,62.481937008414,xT.v4,match
+20llvz,False,af23wp2csbap5poe5hazwd7irm,negative,,0,Colorectal Cancer,68.5970066796398,xT.v4,match
+20dfai,False,afz4xj23ezg4jpaujgk5y2j7wu,negative,"on hold, HRD amendment - needs call-out note, Hold - notify CS/sales",0,Liver Cancer,29.2320440602191,xT.v4,match
+20vyww,False,af3hj4fjirhn5e4g44crfh5huy,positive,,0,Non-Small Cell Lung Cancer,67.5835457074836,xT.v4,match
+20hjtr,False,af2l7rafqjdxpmsjhfz3bc3ot4,negative,,0,Pancreatic Cancer,71.0489138522702,xT.v4,match
+20gjgr,False,af2wl2z53bbt3ct6cqjwb2koca,negative,,0,Biliary Cancer,62.987626096993,xT.v4,match
+20cjoz,False,af2dpqjdarb6dddi5fgbt7zrum,negative,"HRD amendment - needs call-out note, Hold - notify CS/sales, on hold",0,Prostate Cancer,16.6706314424126,xT.v4,match
+20bucg,False,af23wpzjdjatzdtibqlgk6e3cu,positive,,0,Non-Small Cell Lung Cancer,25.3331064294942,xT.v4,match
+20eofs,False,af2rcp3ntraejazktjbftiz354,positive,,0,Tumor of Unknown Origin,38.0554280309878,xT.v4,match
+21slgc,False,af4a4xsbqbdjxh72dj4vd24pye,negative,,0,Ovarian Cancer,63.0943784038101,xT.v4,match
+20dcnt,False,af2ww42f6ne3ta25ghe5joleay,negative,,0,Pancreatic Cancer,39.2137574953752,xT.v4,match
+20nggn,False,af2ww5a3e5fstnnkkaisbul7pm,positive,,0,Colorectal Cancer,52.4777425099639,xT.v4,match
+20cybf,False,af2siaqe3zfhlextfap272icaa,negative,,0,Gastric Cancer,38.3602561783599,xT.v4,match
+20dtmh,False,af27zsnpfjgufjipug3v2n5frq,negative,Debating rounding up on this one,0,Breast Cancer,76.0297952365815,xT.v4,match
+20jgir,False,af2qadxy35gybdkownuftwbnim,negative,,0,Breast Cancer,76.0810159834246,xT.v4,tumor_only
+20jfpv,False,af2wfxka3nejhlvio4tsom5zva,negative,"HRD amendment - needs note, Report was marked delayed outside of ReportHub, on hold, Report was marked in-progress outside of ReportHub",0,Non-Small Cell Lung Cancer,74.2104702775762,xT.v4,match
+20zmat,False,af24krmdtfgz3gcmndext3eniu,positive,,0,Ovarian Cancer,66.1340836157945,xT.v4,match
+21dqgg,False,af3r5q6ohbg6zddjwq4itmy4vu,positive,,0,Ovarian Cancer,47.3891430923356,xT.v4,match
+21iymp,False,af3vech76vfbrnobrmr3o4u3ea,negative,,0,Endometrial Cancer,39.5454768657066,xT.v4,match
+20jgve,False,af2tugln3nc2fjh7mwujscm5hi,negative,,0,Melanoma,53.3532358555892,xT.v4,match
+21xaty,False,af3uvqblkzfdhfjjpqflex67uq,positive,,0,Ovarian Cancer,39.7509216111657,xT.v4,match
+21wsvm,False,af3s5w74lfe5xht2xl3rrhbxem,positive,,0,Ovarian Cancer,66.9771109052328,xT.v4,match
+21qzzi,False,af33l7ra25cbrb4zpyn5kfgd2y,negative,,0,Colorectal Cancer,86.2651633116371,xT.v4,match
+20kkhu,False,af2v2orbrjhgnp6rbrb45nupqq,negative,,0,Biliary Cancer,27.7024185923382,xT.v4,match
+20dlhe,False,af3fvmhgzvhxxgcxpsw6qbr7ym,positive,,0,Ovarian Cancer,64.8423144839534,xT.v4,match
+21ugxl,False,af3veciez5c3zpdc7aispq4prm,negative,,0,Ovarian Cancer,20.7678049419022,xT.v4,match
+20pzns,False,af3owexfljbehieqar22bkhfxi,positive,,0,Ovarian Cancer,86.2410376487607,xT.v4,match
+20rnag,False,af246lwi35be7cdyp2rlzd22tu,negative,,0,Pancreatic Cancer,29.6546734659978,xT.v4,match
+20lepy,False,af2shllnmjb5hib7ozocnup4iy,negative,,0,Glioblastoma,65.813992106898,xT.v4,match
+21mpkz,False,af3xwo6hgjcmjascbi33ocstyu,negative,,0,Endometrial Cancer,50.6319986718267,xT.v4,match
+20yvns,False,af2vbrdwtjdhrnbyagmivl3bq4,negative,,0,Melanoma,91.2942894047829,xT.v4,match
+20fskb,False,af3ewtpogjcx7kw7c2d53kxuoq,positive,,0,Tumor of Unknown Origin,25.9275009735165,xT.v4,match
+20zmoy,False,af246lu5erdwvapxq7y535bgwm,positive,,0,Ovarian Cancer,36.9952390530138,xT.v4,match
+20ouyl,False,af2m3hqdpbcjhgekbdo64lo2dq,positive,,0,Breast Cancer,31.7052339060233,xT.v4,match
+20krhk,False,af265ov4yvd2tiolyq57p4mt3a,negative,,0,Ovarian Cancer,87.0220802678338,xT.v4,match
+21uhxi,False,af3uc3h5y5c4jffalbriuiqdtq,negative,,0,Ovarian Cancer,78.2882135513934,xT.v4,match
+21duil,False,af3s5xaczvdgpaqjcpeljcm4km,negative,,0,Non-Small Cell Lung Cancer,46.187068878133,xT.v4,match
+20prvy,False,af3cr6ugorbjrpivbrf4oregki,negative,,0,Colorectal Cancer,61.8572289301049,xT.v4,match
+21tapy,False,af3sa6npfrakvjkukoc2wixyve,negative,,0,Bladder Cancer,62.5144036212505,xT.v4,match
+20zioc,False,af2yebavw5hc5jbu4eztkjnrbu,positive,,0,Colorectal Cancer,44.5278231685679,xT.v4,match
+21rlch,False,af4axyvusffhjfojy2inup2wve,positive,,0,Pancreatic Cancer,33.2882841497547,xT.v4,match
+20tzxi,False,af3b7mei6ba6hauleeatkqjdfy,negative,,0,Ovarian Cancer,28.2925667458967,xT.v4,match
+20mvjf,False,af3ajog43jbn3blfy63bmyrhdy,negative,,0,Prostate Cancer,32.879323283701,xT.v4,match
+21grnp,False,af3uvqksjngpng7y7q6wabxxfm,negative,,0,Non-Small Cell Lung Cancer,60.9539071231856,xT.v4,match
+21nhgx,False,af373n75mjhylgslwbb5j656vy,positive,,0,Tumor of Unknown Origin,51.04885084692,xT.v4,match
+21vwha,False,af4a4xf4tzccnmxdtnb3wjfyfe,positive,,0,Pancreatic Cancer,46.42769308833,xT.v4,match
+20upbv,False,af2m7qncazaclpzjhucsmpz4bu,negative,,0,Skin Cancer,27.7154929416336,xT.v4,match
+21npng,False,af3utyf6bzb3di5ei4mxstkl64,negative,,0,Prostate Cancer,31.5989403778533,xT.v4,match
+20fhph,False,af2lybubwbeshdgfzcf7qnz6ba,negative,,0,Prostate Cancer,27.7514411181408,xT.v4,match
+20eccu,False,af3mc5edebdkpliabl4hvnpiuq,negative,,0,Breast Cancer,46.8327998560283,xT.v4,match
+21wjub,False,af3xb37dcnfhredp4pljkzfhcm,negative,,0,Bladder Cancer,42.6114042170856,xT.v4,match
+21mavv,False,af3yexkjrjcobg6ebo44rgwj5q,negative,,0,Sarcoma,79.3608789374646,xT.v4,match
+20owzc,False,af2nngocsrbergxk4sflkzla6a,negative,"HRD amendment - needs call-out note, on hold, Report was marked in-progress outside of ReportHub, Report was marked delayed outside of ReportHub",0,Pancreatic Cancer,28.4555214823469,xT.v4,match
+20ilec,False,af3eisyt3vhz3opxooj4wmlfoe,negative,,0,Esophageal Cancer,66.6892037736509,xT.v4,match
+20fgpk,False,af3iyrfa6zgqridy7h2wzmmksy,negative,,0,Pancreatic Cancer,22.1188558734237,xT.v4,match
+21wsqt,False,af343ewpyfhnlhvdtiwi2pacuq,negative,,0,Non-Small Cell Lung Cancer,41.0256784500372,xT.v4,match
+21vwvu,False,af35eozqabbnfahr7kvval52oe,negative,,0,Bladder Cancer,72.3126507589167,xT.v4,match
+20dphr,False,af2skkp6iresbnz5lb6yt6ooda,negative,,0,Prostate Cancer,80.2671660816599,xT.v4,match
+20mzdb,False,af2lmixi4nfqte6sfe2uoyccxy,negative,,0,Liver Cancer,61.0106813037595,xT.v4,match
+20iyzz,False,af3dc22lc5bzxcr5x5oufcywii,negative,,0,Biliary Cancer,55.3748877909585,xT.v4,match
+20uvpk,False,af3mc5q3u5e5niui3c6stspz4q,negative,,0,Biliary Cancer,54.6953695051701,xT.v4,match
+20apmw,False,af3hj4sohjerzk3x2qukeql5yy,negative,,0,Ovarian Cancer,54.8299626523788,xT.v4,match
+20tbzs,False,af2m7qmqyrcbnjqrqwdeekzw6u,negative,"HRD amendment -needs call-out note, Report was marked delayed outside of ReportHub, on hold, Report was marked in-progress outside of ReportHub",0,Endometrial Cancer,39.396298106292,xT.v4,match
+20fxeq,False,af22lvys5jdaxkargtfdkujf4m,negative,,0,Endometrial Cancer,14.1014829262252,xT.v4,match
+21rtra,False,af3yzevsszetxfjpehiltak7ri,positive,,0,Pancreatic Cancer,44.4444563346873,xT.v4,match
+21kifo,False,af3zkj3fabgitdpwglgviv73di,negative,,0,Endometrial Cancer,58.6736178550524,xT.v4,match
+20comv,False,af2rqhuxgbenlllirsimypyxzu,negative,,0,Endometrial Cancer,53.6722920955102,xT.v4,match
+21qwjy,False,af3uvqjhz5bwxedhe4nfceud5i,negative,,0,Breast Cancer,27.8671652950472,xT.v4,match
+20iejw,False,af246l2zxrbvda3ikxonuq6lai,negative,,0,Prostate Cancer,45.7565047044393,xT.v4,match
+21wbxr,False,af34qdca7ba7bdkpx46zhpjplq,positive,,0,Esophageal Cancer,66.0067840681201,xT.v4,match
+20gkhc,False,af26e5d3e5aitbu75exakfa6li,negative,,0,Esophageal Cancer,44.4087950390895,xT.v4,match
+21umoj,False,af3vywycuzaxdgznhrjhw2vx4e,negative,,0,Bladder Cancer,45.9563425307573,xT.v4,match
+20xpmn,False,af2ipda7hjhovpwtxhvsrfj5re,positive,,0,Breast Cancer,57.6286826110189,xT.v4,match
+20dhsf,False,af276f6bqbaabm4m63gzlws2hi,negative,,0,Esophageal Cancer,62.0781106119979,xT.v4,match
+20vomp,False,af25ftdujnaozciex5aoeuqhva,positive,,0,Breast Cancer,76.5154496372787,xT.v4,match
+20mgex,False,af3dmydrd5dh7majcvgsfak6i4,negative,,0,Esophageal Cancer,24.3524157460006,xT.v4,match
+21ngcf,False,af3uvqsjhra53ehjpzus7b7fj4,negative,,0,Bladder Cancer,27.9383636363636,xT.v4,match
+21pnxj,False,af4bz74wtfhltc4ekowmwz2bpa,negative,,0,Colorectal Cancer,27.8831838605474,xT.v4,match
+20qubi,False,af2p4ilburav5akepbyjly62pa,negative,,0,Head and Neck Cancer,41.125078859378,xT.v4,tumor_only
+21hgmx,False,af3veckq2bcnviq3r5v4lx6hte,negative,,0,Prostate Cancer,50.9999878700157,xT.v4,match
+20dxqj,False,afzz2m3gn5ggllb6oxailcijxy,positive,"HRD amendment - needs call-out note, Report was marked delayed outside of ReportHub, on hold, Report was marked in-progress outside of ReportHub",0,Pancreatic Cancer,40.0309182272612,xT.v4,match
+21pfbe,False,af3yairlpvd4xeoewbzdcpiham,positive,,0,Gastric Cancer,40.4208174722943,xT.v4,match
+20xsew,False,af2o2oht3zesdi5zeh5tcdvecq,negative,,0,Endometrial Cancer,27.283394745477,xT.v4,match
+21bpmi,False,af4bf4arc5h6zbdyox34xtrp6q,negative,,0,Low Grade Glioma,34.0091572209433,xT.v4,match
+20pvta,False,af3bppvn2be6zfsyj3b7vibacm,negative,,0,Melanoma,21.8335864792327,xT.v4,match
+21gvpy,False,af3yain4yredtl7r4uoyg46xsq,negative,,0,Breast Cancer,74.0744556797771,xT.v4,match
+21bofa,False,af34qdcrrbgdted25xczzk53be,negative,,0,Endometrial Cancer,39.6184135005126,xT.v4,match
+20lcsp,False,af26443xo5fnxn7lqfuukis3g4,positive,,0,Non-Small Cell Lung Cancer,35.6789023323304,xT.v4,match
+20noyx,False,af2lx2nlknec7gxs4o6sc7wmd4,negative,,0,Esophageal Cancer,89.2831017788022,xT.v4,match
+21dphn,False,af4a4xfqwvgwrotepdfyg3hu5e,negative,,0,Endometrial Cancer,24.9692708333334,xT.v4,match
+20zwqn,False,af2ksxbmg5dmrngp4keelloej4,positive,"""on hold"" to ensure OP is contacted first",0,Ovarian Cancer,55.9714972823272,xT.v4,match
+20goap,True,af23h3m22vbp3ccr5nbdfc523a,negative,"ADOBE edit for TUO --> ovarian cohort; update s/o footer, changing to ov threshold 25% (SH 01/20/20); update s/o date footer (SH 01/21/21), update s/o footer, waiting to confirm cohort change, change cohort to ovarian, ADOBE edit for TUO --> ovarian cohort",0,Tumor of Unknown Origin,33.942510751638,xT.v4,match
+20nyhc,False,af26e6v5hjgqfjdcol46xzrvt4,negative,,0,Non-Small Cell Lung Cancer,77.6978478049121,xT.v4,match
+21tpqb,False,af4a4xezgvhaxmqbvafu5tko2y,positive,,0,Ovarian Cancer,67.6285725878254,xT.v4,match
+21awdc,False,af3uvqq7ira7vdglxj7wn75myu,negative,,0,Gastrointestinal Stromal Tumor,80.7440093232805,xT.v4,match
+20tvwh,False,af3jjejaijfnjebcmdnahtuqb4,negative,,0,Breast Cancer,35.2810352444602,xT.v4,match
+20spgs,False,af3gsv7ni5dlrlduhdf2fc5nfe,negative,,0,Ovarian Cancer,58.4153231807526,xT.v4,match
+20kneo,False,af3dmyjqkfcgpbuquex6o6fw2q,negative,,0,Melanoma,56.6656537016791,xT.v4,match
+20turu,False,af265oqn7rguxpe3fbyy7zf6im,positive,,0,Ovarian Cancer,47.7051957464276,xT.v4,match
+20jaln,False,af2dppy7wjbfnogrgnwswz6xia,negative,,0,Ovarian Cancer,25.5880744918725,xT.v4,match
+20phcx,False,af246l452zgplpp3qpcshcdxoi,negative,,0,Pancreatic Cancer,28.8873466133047,xT.v4,match
+20bref,False,af3plsz6azdg7npyljg4zaxzty,negative,,0,Tumor of Unknown Origin,31.9381020107657,xT.v4,match
+21mlie,False,af3sa6mmt5aatp5pz3n4jyjlw4,negative,,0,Prostate Cancer,59.6096596323108,xT.v4,match
+20gkne,False,af3elah7tbgnffw7qrznwpfgpe,positive,,0,Breast Cancer,66.4918248768449,xT.v4,match
+20hqaf,False,af3mc5pteff7th2qcmtopjc2oe,negative,,0,Colorectal Cancer,63.2545274340974,xT.v4,match
+20exjm,False,afz66koelbclrdwcyfstlhwrbu,negative,,0,Prostate Cancer,69.0402520223156,xT.v4,match
+20fbpy,False,af2qrktbnjgwpg2wwmfc23hkiy,negative,,0,Colorectal Cancer,63.875966241959,xT.v4,match
+21cjyl,False,af3rz5uy6rd2pbxerczkdijbay,negative,,0,Non-Small Cell Lung Cancer,70.562630492669,xT.v4,match
+20lgjr,False,af26ttanzbb2pp4xwtorxfu5yi,positive,,0,Tumor of Unknown Origin,82.6820499963778,xT.v4,match
+20bovg,False,af3htzzcnreurbqanp2jvdpwxy,positive,,0,Colorectal Cancer,33.6060262746934,xT.v4,match
+21icyu,False,af3yqtu32famnb55r46rhs7yhm,negative,,0,Prostate Cancer,34.6306789737172,xT.v4,match
+20hlnn,False,af3n4elfwnbarmxsvj2oxvjsjm,negative,,0,Esophageal Cancer,51.5638616989011,xT.v4,match
+21jlqg,False,af3uc3i45jbwbilkmwj7f267xy,positive,,0,Pancreatic Cancer,67.9610806959691,xT.v4,match
+21dqee,False,af3vecpbdjglppeygb26lrcfaa,positive,,0,Peritoneal Cancer,29.7892599800982,xT.v4,match
+21advt,False,af3tqs62kng55jkovniuwze2mm,positive,,0,Peritoneal Cancer,81.9670413585987,xT.v4,match
+20rwpw,False,af3cr6upuzadvbq42r6t7jqc3i,negative,,0,Pancreatic Cancer,56.6863804059319,xT.v4,match
+21meax,False,af4b7uw5lracxc3qnhq6w3nsoq,negative,,0,Colorectal Cancer,77.5935632485467,xT.v4,match
+20hlxd,False,af2lx2ajo5bm3lqqfytvwipggq,negative,"on hold, HRD amendment - needs call-out note, Report was marked in-progress outside of ReportHub, Report was marked delayed outside of ReportHub",0,Small Cell Lung Cancer,84.6859246360518,xT.v4,match
+20trip,False,af2xucfjtjdkbes67qkdgkncse,positive,,0,Ovarian Cancer,41.7793148194696,xT.v4,match
+20jeyf,False,af24u4l63jfljc4ieusgo6la4e,negative,,0,Colorectal Cancer,50.4041559317932,xT.v4,match
+20faub,False,af2ww4znrzgbtmq4iu7uowhmdu,negative,,0,Small Cell Lung Cancer,88.7102616398401,xT.v4,match
+21qylk,False,af3xl2dojbe5lizxwoyp7giejy,positive,,0,Pancreatic Cancer,48.7323766211227,xT.v4,match
+21kfll,False,af37jqx2qffupiifne7ymolg5a,negative,,0,Biliary Cancer,77.7472786976627,xT.v4,match
+20yjtf,False,af2inhvt7zdkzplgxtgazsgfpu,negative,,0,Brain Cancer,23.6900330851944,xT.v4,match
+20dwtn,True,af3n6kyu5rbpfbcy32trzj65vq,positive,"please have the RNA team look at this. can't figure out why it's positive, ""not-detected"" pill added; GWLOH graphic removed per Tim, Likely going to switch from positive to negative",0,Colorectal Cancer,37.8573897592973,xT.v4,match
+20fwow,False,af3dmyaxojaxtandlc3gjqyoza,negative,,0,Clear Cell Renal Cell Carcinoma,37.5358059077906,xT.v4,match
+20mzjr,False,af2qadxwufbafajzhzyh2sd4tu,negative,,0,Clear Cell Renal Cell Carcinoma,23.1802550461776,xT.v4,match
+21tpdu,False,af3vqh6y4jbmvdvbj4zzxvlfyq,negative,,0,Gastric Cancer,42.2500203136227,xT.v4,match
+21epyr,True,af343ew4obblfllrzbogvtpyaa,negative,"pos pill, 2-hit note, This has two hits, should be postive",0,Pancreatic Cancer,74.6489218301939,xT.v4,match
+21qcqn,False,af3ut2abuvbqngnza636symy34,negative,,0,Colorectal Cancer,26.9127664854486,xT.v4,match
+20hqzd,False,af2o2ojw55hq7gorzfejzzaesm,negative,,0,Pancreatic Cancer,73.5528304322121,xT.v4,match
+21yzzt,False,af4cjcdi5fhp3n5tlmk5rhnffu,negative,,0,Pancreatic Cancer,32.5546548029472,xT.v4,match
+21wric,False,af3rhldzsvbfrafpybwovo26fa,positive,,0,Gastric Cancer,77.3487051063288,xT.v4,match
+21rvgh,False,af32s6tjxrhopnlrnohzvcf4im,positive,,0,Head and Neck Cancer,55.2901186222292,xT.v4,match
+20swsh,False,af25xwzq6fdjll7b3zdd3lscza,negative,,0,Breast Cancer,67.967929538387,xT.v4,match
+20dcfk,False,af2wl2x3nbdb5h7z5ku5tb3xei,negative,,0,Endocrine Tumor,67.6825523102764,xT.v4,match
+20mikt,True,af2mmkqsijcrnmc36bpt3vng64,positive,"aneuploidy: ""not-detected"" pill, removed graphic, updated s/o date in footer, This might be all aneuploidy, get rid of the HRD assay text too
+, get rid of HRD assay text too",1,Thyroid Cancer,33.1433326138309,xT.v4,match
+20oqyp,False,af3i3nzbanaf3nbqdmczsvdaai,negative,,0,Colorectal Cancer,77.2315902043894,xT.v4,match
+20grpi,False,af3hj4tfnbgqzlwhq3euimd4zy,positive,,0,Tumor of Unknown Origin,82.6465250096594,xT.v4,match
+20oemt,False,af3draepxvhbda2r5rcd7ah6yi,negative,,0,Gastrointestinal Stromal Tumor,92.3557287477923,xT.v4,match
+20nust,False,af2i44kqgfflzfzldd32g7yhpa,negative,,0,Ovarian Cancer,58.7737258016512,xT.v4,match
+20rlcb,False,af3uvqedhba6tgqsw6ijudchbe,positive,,0,Esophageal Cancer,41.8292419225713,xT.v4,match
+20hmow,False,af3aew6cd5gixjbw2wgrivkkbm,negative,,0,Breast Cancer,67.0886494025091,xT.v4,match
+21tadb,False,af3xb4mojrckdifployapdzvxu,positive,,0,Ovarian Cancer,88.4568603865082,xT.v4,match
+21amjy,False,af3yhsrvoneb3madmsbvboc3wq,positive,,0,Non-Small Cell Lung Cancer,81.801315682584,xT.v4,match
+20jmrt,False,afz3uvst6rfsll3jiqk7kexx5y,negative,HRD amendment - needs note,0,Ovarian Cancer,82.9601990534371,xT.v4,match
+20cezz,False,af26446lqjfv3p3menqjgkcivi,negative,,0,Sarcoma,95.3479062526986,xT.v4,match
+20xkpr,False,af25xwzem5bupgvcvd3n456fwq,negative,,0,Pancreatic Cancer,35.7570195789759,xT.v4,match
+20xezq,False,af2ksw54fjan5athdyz4ow3cma,negative,,0,Sarcoma,80.7935381024367,xT.v4,match
+20virf,False,af2lppalpndwlejxqftlpgmtja,positive,,0,Ovarian Cancer,82.5704432725575,xT.v4,match
+20slwx,False,af2rwyoxtvas3hw37qdg2f7qj4,negative,,0,Esophageal Cancer,46.197853027981,xT.v4,match
+20zess,False,af2vsb6myfgihaasvukdsntsda,positive,,0,Ovarian Cancer,57.8756911705643,xT.v4,match
+20utap,False,af3mc5ne4jcwhl2fz7af4sfkqe,positive,,0,Ovarian Cancer,45.5452216907439,xT.v4,match
+20mknz,False,af27zd7vpzgprmjsdra2mhzopm,negative,,0,Pancreatic Cancer,35.8152090976939,xT.v4,match
+20zmip,False,af24u4ipnff3vpew5dt6fv436e,negative,,0,Gastric Cancer,34.6086734796909,xT.v4,match
+20wzta,False,af2pm6kdzzeolkfrryzoardfaa,positive,,0,Pancreatic Cancer,66.1502317859937,xT.v4,match
+21ofzv,False,af3yqtvf7vaf7ohyclejcmodm4,positive,,0,Ovarian Cancer,74.6745502415137,xT.v4,match
+20wrdx,False,af2zdqlmyfbqzndm7aew7wwbg4,positive,,0,Ovarian Cancer,81.2046292994255,xT.v4,match
+20wlwt,False,af3hj4nobngexlfz2u4u7t36da,negative,,0,Prostate Cancer,58.2913036872382,xT.v4,match
+20qkdi,False,af2rcp5omzg6nmol77adse6sey,negative,,0,Head and Neck Cancer,23.7318381393004,xT.v4,match
+20kzem,False,af3np2juwvboznob7gpnnkykqm,positive,,0,Non-Small Cell Lung Cancer,34.2925343569585,xT.v4,match
+21vebh,False,af34lbe2gfh2zc75ihkhwnzx6q,positive,,0,Ovarian Cancer,55.6397801366707,xT.v4,match
+21slbm,False,af3xuewu4fc4vjl4fi2oiyqxwq,positive,,0,Bladder Cancer,47.3372326433873,xT.v4,match
+21ulhb,False,af3yqueajvax7inz4vuks6mbvy,negative,,0,Skin Cancer,87.3591077575361,xT.v4,match
+20ajgg,False,af2upqkucbcn5ecvitzatub574,negative,,0,Bladder Cancer,80.0988826461305,xT.v4,match
+21sflw,False,af4au3liwncdzjorh4i7xvwshe,negative,,0,Prostate Cancer,20.7470988365888,xT.v4,match
+20zfph,False,af25ftejjfhyndpetr76zfidb4,positive,,0,Ovarian Cancer,80.0354161862335,xT.v4,match
+20gcsw,False,af3oweusrjfy7bvjnnkbik3gtq,negative,,0,Prostate Cancer,40.9975600404419,xT.v4,match
+21zyvq,False,af3uvqbz2jaa5lg36wxpzaa2lq,positive,,0,Clear Cell Renal Cell Carcinoma,30.3785545751626,xT.v4,match
+21qszz,False,af34qdimqndmdpwkajug7rmrru,negative,,0,Skin Cancer,27.029792020385,xT.v4,match
+20tfha,False,af3ggcutifhprkog64fikjnr44,positive,,0,Pancreatic Cancer,51.6684643467794,xT.v4,match
+20sdad,False,af3hj4v7sbg45a5wkczwnpmds4,positive,,0,Breast Cancer,73.3828543451944,xT.v4,match
+20nbdt,False,af2wl2vszfg7xiapfby6zokkta,negative,,0,Pancreatic Cancer,67.33462407398,xT.v4,match
+21ockt,False,af373ob7f5fb5hbliukevecygu,negative,,0,Clear Cell Renal Cell Carcinoma,45.1189980462195,xT.v4,match
+20pyjw,True,af2lxzy6urctjm434qo6qq7fym,positive,"this should have the ovarian cutoff, cohort",0,Peritoneal Cancer,54.9262191478419,xT.v4,match
+21aier,False,af3veckt6navppynqzahhbz7ju,negative,,0,Ovarian Cancer,72.5911455039129,xT.v4,match
+21bynl,False,af34qcys7zaslbzyygmnjjliyq,negative,,0,Pancreatic Cancer,63.245070471797,xT.v4,match
+20brhi,False,af2osfdtuzemxdde6llelodjrm,negative,,0,Biliary Cancer,29.3933091722228,xT.v4,match
+20oeir,False,af3h6bpkzbamnnvc7lowfnf72e,positive,,0,Ovarian Cancer,75.7109769277054,xT.v4,match
+21jymn,False,af3witxpe5f2xend2oeyjxcmxi,negative,,0,Prostate Cancer,42.3049860005777,xT.v4,match
+20hmaj,False,af2v5qgno5fy7knvg3swfmksby,negative,,0,Ovarian Cancer,14.4464996163434,xT.v4,match
+20epgk,False,af3qtilaqbccfdd7pbbgmzko4a,positive,,0,Breast Cancer,54.4989503498635,xT.v4,match
+21zfss,False,af37vwnlpvcgxpfz25thsnrboa,negative,,0,Sarcoma,80.3108508723182,xT.v4,match
+20xgmt,False,af246lyezbfkfjsjpqap2q74ci,negative,,0,Ovarian Cancer,37.5309823604679,xT.v4,match
+20vvkt,False,af3bppp4prc4jioqjkn63j3wwi,positive,,0,Prostate Cancer,88.8950551785324,xT.v4,match
+20fqdl,False,af3lfckdhzexrkl32zrvl5i7ia,negative,,0,Endometrial Cancer,74.3566374398455,xT.v4,match
+20nqbx,False,af26442ykfdinkwjznzaexrwzm,negative,,0,Colorectal Cancer,55.0269411602826,xT.v4,match
+20yduy,False,af2vbrgnsjesvhja5q35zpmp2m,negative,,0,Peritoneal Cancer,90.8461563018374,xT.v4,tumor_only
+20sbvj,False,af3azz57ujapxhsj27jezlx6ke,negative,,0,Prostate Cancer,35.0459124941513,xT.v4,match
+20kaat,False,af2gu3jsifcjplk6mvg7pelvqu,negative,,0,Non-Small Cell Lung Cancer,52.9537104238398,xT.v4,match
+21mgly,False,af3uvqilpfd4xbhc5fipqxnx3i,positive,"Want to follow up on flagging logic, i thought this case would flagged since its positive below the threshold",0,Ovarian Cancer,51.2408561477485,xT.v4,match
+21gfqd,False,af373ob7ejcg3glzer5xwxea24,negative,,0,Biliary Cancer,51.84410619681,xT.v4,match
+21zzbw,False,af37imz5nvejtmplpc6cvflrka,negative,,0,Prostate Cancer,13.0001160258802,xT.v4,match
+20nbke,False,af2spcg4xfcilitvynfngraoga,negative,,0,Ovarian Cancer,57.24073463873,xT.v4,match
+20pgbm,False,af3owes7jvhtzjwq5gt5sih5ge,negative,,0,Esophageal Cancer,99.6635466770363,xT.v4,match
+20dktm,False,af2yoxr5f5glpdzrb2zl6necoe,positive,,0,Tumor of Unknown Origin,33.3627646827947,xT.v4,match
+20tkdv,False,af3oweqfrbgvdanaxdd6orvah4,positive,,0,Ovarian Cancer,60.2154598683358,xT.v4,match
+20ocdr,False,af2fdpodl5bypplzn4gjhmsn6y,positive,,0,Non-Small Cell Lung Cancer,78.6372476125801,xT.v4,match
+20hqdt,False,afz6aab4lve5pftvvrum3wpoe4,negative,"putting ""on hold"" to ensure OP is notified first",0,Pancreatic Cancer,63.7224150533889,xT.v4,match
+21iilr,False,af3xl2d7e5hrdavs3g4zg26lnu,negative,,0,Tumor of Unknown Origin,71.649615166854,xT.v4,match
+20phpk,False,af2v5qm2vjd23lbmeq66wen7hy,negative,,0,Cervical Cancer,66.6275704384631,xT.v4,match
+20fpxi,False,af3ok3wyfzfftopq7nj6yd56fe,negative,,0,Melanoma,56.0550505545105,xT.v4,match
+21yijo,False,af3yhxvcujgefffyf4dabarnme,positive,,0,Non-Small Cell Lung Cancer,63.3438049701988,xT.v4,match
+20ahsj,False,af246l5iizf7vndzlksvylhttq,positive,,0,Breast Cancer,61.0792477717028,xT.v4,match
+20hoef,False,af3iht3bqvfexaz7is4tbzyqby,positive,,0,Ovarian Cancer,82.0807843771958,xT.v4,match
+20ocvd,False,af2xrkx4rrgnpfobptbbsu353q,negative,,0,Ovarian Cancer,27.9077331665692,xT.v4,match
+21tcex,False,af4covpsmngq5e4gjft7fzhewi,negative,,0,Colorectal Cancer,47.4466252260655,xT.v4,match
+20ekoh,False,af3sf5reyncnjcugwjdjttzuom,negative,,0,Kidney Cancer,48.474380587922,xT.v4,match
+20hnau,False,af3qc7ndyrcyjfxpaqcgnrzqi4,negative,,0,Mesothelioma,73.4453094253482,xT.v4,match
+20nyxb,False,af3q6rzhsfdffpgqbdo4gbgdmm,negative,,0,Glioblastoma,87.5992977794817,xT.v4,match
+20gltj,False,af27zsndorbclecdmtgjw54yty,negative,,0,Colorectal Cancer,55.7261049716974,xT.v4,match
+21tnee,False,af33tbw4vvbfzjqqq3sttuwlxy,negative,,0,Biliary Cancer,19.3597883063408,xT.v4,match
+20bsyk,False,af2v5qh7kfakjm7hf5w2p2xttu,negative,,0,Melanoma,80.3731085430814,xT.v4,match
+20qqyq,False,af3grm3pvzd2ngqlzgmxxj2qfe,negative,,0,Tumor of Unknown Origin,55.4843168966179,xT.v4,match
+20wdov,False,af3mokwck5hdrfu44zfcmtxhpe,positive,,0,Pancreatic Cancer,42.2307172105189,xT.v4,match
+21kkmy,False,af3skzbp4nggbf3zs5t6joxcza,negative,,0,Glioblastoma,46.7034613215595,xT.v4,match
+21dxrc,False,af4bz7nm6jas5p3gfl3duc2weu,negative,,0,Prostate Cancer,40.9071928054404,xT.v4,match
+20hzlh,False,af2zxle45vc47m6l65m4maipxm,negative,,0,Tumor of Unknown Origin,36.4164894466264,xT.v4,match
+20bryz,False,af265oxiqbcdvbqvojiru7epxa,negative,,0,Kidney Cancer,37.76660808024,xT.v4,match
+21bgve,False,af3uc54ebjbtbcbgrf6de4nlqq,negative,,0,Bladder Cancer,63.5107110692264,xT.v4,match
+20hqsy,False,af3qth55vbh45lbg7zyh4vd6xm,negative,,0,Endometrial Cancer,56.4313294510598,xT.v4,match
+20aynz,False,af2rqhydgbgabkl55ce4zg7bca,negative,,0,Endometrial Cancer,85.8619895569944,xT.v4,match
+21eqep,False,af3s73pqgfgefbapxfqmldqxeq,negative,,0,Gastric Cancer,28.6104812295289,xT.v4,match
+20nheg,False,af3np2i3jffkjmniug4qt2tt3y,positive,,0,Colorectal Cancer,46.9512854993939,xT.v4,match
+20pvxh,False,af3ok3wlbnec7o3ukri7hmufbe,positive,,0,Ovarian Cancer,55.634483808559,xT.v4,match
+20bwje,False,af2rqhxy5zaotdmcieeh4zcwmi,negative,,0,Endometrial Cancer,37.1315978076183,xT.v4,match
+20vuit,False,af22l6uqdrglvdzay45xdhyoaa,negative,,0,Breast Cancer,72.1773428973076,xT.v4,match
+20walv,False,af2tugao7ra2dpumhixr7zwlbi,positive,,0,Non-Small Cell Lung Cancer,87.1362120388838,xT.v4,match
+20sjkq,False,af3iht3x3bhyjnmzda4ppgrqym,negative,,0,Prostate Cancer,65.6693932211428,xT.v4,match
+21uaht,False,af3rz6edzzeytcgbcvzddtnvbm,negative,,0,Sarcoma,92.7011800978848,xT.v4,match
+21tcfl,False,af34gvsiyfgefi7x3zjkzwexem,positive,"VAF method used for VS, must confirm the report looks correct and the flagging is correct",0,Ovarian Cancer,38.3250509609785,xT.v4,match
+21rkwv,False,af36yhs4ergyxgpexhb3dpn7ci,positive,,0,Colorectal Cancer,40.6214783494134,xT.v4,match
+21apig,False,af34qdab6jcjroqfibuf4sanwm,negative,,0,Colorectal Cancer,37.6489782465392,xT.v4,match
+21joiq,False,af3q6sivare3re4wsfn4dmxaya,negative,,0,Ovarian Cancer,80.5334410202279,xT.v4,match
+20puil,True,af276f5qh5b7rgjbk3dg3b63qm,negative,"retract b/c performed on benign sample, retraction amendment per 12/01/2020 email ""Re: 20puil / 20-A83434 -- benign dx?""",0,Sarcoma,77.7499610831335,xT.v4,match
+20puil,False,af276f5qh5b7rgjbk3dg3b63qm,negative,"internal; retraction, Report was marked qc-fail outside of ReportHub",0,Sarcoma,77.7499610831335,xT.v4,match
+20ejoo,False,af2zxlfodbbgbein7vqrurpvze,negative,,0,Endometrial Cancer,51.2862850368119,xT.v4,match
+20gdgi,False,af3ozacozrgfpp53mtyirnc2l4,positive,,0,Non-Small Cell Lung Cancer,33.5428182608556,xT.v4,match
+20qcdk,False,af2ww4yhp5dvxmakxhbaxederm,negative,,0,Breast Cancer,42.9624356736353,xT.v4,match
+21vgve,False,af3w7qt72rfqvjdnudqw6pcyma,negative,,0,Ovarian Cancer,31.0442488660718,xT.v4,match
+20itph,False,af3b7ly7kneypipsoi2oy5ctke,negative,,0,Breast Cancer,60.8714672677848,xT.v4,match
+21rdsw,False,af4bf37qqjgoldtyagih5booui,negative,,0,Low Grade Glioma,36.8189897059138,xT.v4,match
+20kwtp,False,af3dc3cn4rfsdkgd5hcahjdg7y,positive,,0,Peritoneal Cancer,89.6778690188443,xT.v4,match
+20mnwk,False,af2zxlf4bvfbbbnia5xkcgvwva,positive,,0,Non-Small Cell Lung Cancer,41.8017134595845,xT.v4,match
+20hoav,False,af24u4erdraxbmh6xibd2nepie,positive,Checking aneuploidy,1,Colorectal Cancer,69.8851758556881,xT.v4,match
+21torw,False,af34qcyiuvhkvbhhkim3c6h2ni,positive,Flag aneuploidy,1,Ovarian Cancer,92.571989247194,xT.v4,match
+21ttvx,False,af3utyagcnbzdfbdawhqsusb4u,negative,,0,Pancreatic Cancer,28.5590168970814,xT.v4,match
+20xcuu,False,af2uozocdjgohgb54qfwijysbe,positive,,0,Breast Cancer,68.7145546408025,xT.v4,match
+20jnyq,False,af2szzndobfpbbsg4xx75kyyh4,negative,,0,Ovarian Cancer,78.6059965423584,xT.v4,match
+20jcvq,False,afz3urbskvhj7poxdfgtstksqi,negative,,0,Glioblastoma,74.4766587070625,xT.v4,match
+20qtif,False,af2vg5ju7behxpwvw42sgsfwzq,positive,,0,Ovarian Cancer,61.1993906724571,xT.v4,match
+20nlxm,False,af2tx7mz3beohazdprwiio4ywe,positive,,0,Breast Cancer,60.7798803392015,xT.v4,match
+20jjko,False,af265ozojrcahpchlnehu7jhue,negative,,0,Small Cell Lung Cancer,95.1886864025711,xT.v4,match
+20mxmm,False,afzyhpolrncmrni2xxcfw4gl6i,positive,,0,Ovarian Cancer,41.5950585616117,xT.v4,match
+20bnrr,False,af24u4e6pnakjfsrvpfnpcrxqi,negative,,0,Ovarian Cancer,77.8415891893838,xT.v4,match
+20wtdn,False,af3oweqb6bczrgym2luraoigce,negative,,0,Prostate Cancer,26.3470360829327,xT.v4,match
+20vfbn,False,af3nnjyo3fel3mnoqvgrxb3uuy,negative,,0,Esophageal Cancer,30.8778152277426,xT.v4,match
+21gzzc,False,af33imbfo5axjgre66nit7qwvy,positive,,0,Breast Cancer,67.762384018861,xT.v4,match
+20mrcw,False,af3dmkimkrdjvjmiomvmyx25qa,negative,,0,Sarcoma,42.7799133468997,xT.v4,match
+20lelb,False,af3dc23tlzatdme72jb7oauasy,negative,,0,Pancreatic Cancer,36.4764860889826,xT.v4,match
+20fafo,False,af2ksxbpkbacrbzrkhmdnnil5q,positive,,0,Non-Small Cell Lung Cancer,57.8448561617278,xT.v4,match
+20efow,False,af2u42mypfdldmob7rvydmdikq,positive,,0,Ovarian Cancer,72.7861053014396,xT.v4,match
+20uvgx,False,af3f7avflzhmlociyjpwmrjtrq,negative,,0,Skin Cancer,32.4768580602462,xT.v4,match
+21qvek,False,af3vqijquzfldp47dedjjod43y,negative,,0,Endometrial Cancer,93.661370122784,xT.v4,match
+20vcha,False,af3iht7dgfdrnmu7evjlx3j3ce,negative,,0,Non-Small Cell Lung Cancer,24.9900214257909,xT.v4,match
+20qgsp,False,af2odvym5vcohfxitfhgmbraoy,negative,,0,Ovarian Cancer,54.9745006666187,xT.v4,match
+21wfyw,False,af37isrlr5afnkkm7o6upnpqpy,positive,,0,Breast Cancer,80.6010725176156,xT.v4,match
+20hiax,False,af3qc7g6bvhnxfh46d7pz3m3ly,negative,,0,Breast Cancer,62.7470837823661,xT.v4,match
+20uxtp,False,af3hj4xddzbnhhjh7kvqlxvq54,negative,,0,Endometrial Cancer,39.7517310893088,xT.v4,match
+20sbkw,False,af2wfxiywngiloxcor6aoq76zm,positive,,0,Ovarian Cancer,87.5897803771397,xT.v4,match
+20inuc,False,af2yebdbonaptgbsm6svwh2ljm,negative,,0,Tumor of Unknown Origin,18.3033902691511,xT.v4,match
+21pugc,False,af37isx3pbd5hplgntbfayf64m,positive,,0,Breast Cancer,32.8744929941003,xT.v4,match
+21esyh,False,af3w7qvqljbnbe2p42rn2lncda,negative,,0,Ovarian Cancer,82.9902045955072,xT.v4,match
+20ayfv,False,af3ewtno3bbtpjs62eq3dnxdsi,negative,,0,Prostate Cancer,29.648952271051,xT.v4,match
+20weqz,False,af2zxle4y5dsbo7slzb5wqq4e4,negative,,0,Breast Cancer,54.595583389446,xT.v4,match
+20lxcu,False,af2tf6xgd5ha5l5lpfsvv3t4eq,negative,"this is ovarian serous. also, please check the results, it looks like it should be higher than 1% based on the BAF plots. Please have Josh SK look at it.
+",0,Tumor of Unknown Origin,97.1705005838755,xT.v4,tumor_only
+20vsww,False,af3g6r4tcfb25hfa5jqx5e44fi,positive,,0,Ovarian Cancer,21.7227672955975,xT.v4,match
+20lcjw,False,af246lxwrrgqvhm3e2f2vmixya,negative,,0,Ovarian Cancer,71.0491180744337,xT.v4,match
+20ihdm,False,af25rhwmunas3g46f3hylaeunq,negative,,0,Colorectal Cancer,44.4457386350902,xT.v4,match
+20xdzc,False,af2zdq2f4jd5dlaffmyxn2gfcy,negative,,0,Prostate Cancer,48.4275552360691,xT.v4,match
+20vdsl,False,af2yoxvc4rdwjhb2eujf7bl35y,negative,,0,Ovarian Cancer,64.6234432233818,xT.v4,match
+20pmxp,False,af3qtibl25fkhl3uw6gj4bu37q,negative,,0,Colorectal Cancer,41.2533551317974,xT.v4,match
+20lpsp,False,af2m3hrghvcibdklanp2dm6e74,negative,,0,Sarcoma,91.9979824909875,xT.v4,match
+20pysr,False,af3gribyg5di3j2yttjyzbjp4e,negative,,0,Endometrial Cancer,51.5648516274876,xT.v4,match
+20rncy,False,af2v2or7orckree3omeqfocofe,positive,,0,Ovarian Cancer,75.3994182255588,xT.v4,match
+20uyht,False,af3htzsnx5bepa5pjrbb4nrj7i,negative,,0,Colorectal Cancer,67.4499312136876,xT.v4,match
+20eugd,False,af3f7aowzrd5xocczyamiyb2nq,negative,,0,Breast Cancer,76.5075425278747,xT.v4,match
+20dvkn,False,af3ndccfgnc7tkzftxtlcz7ifi,negative,,0,Prostate Cancer,44.2150393490164,xT.v4,match
+20hynz,False,af3dragxjjbefhcereuyml75xu,negative,,0,Prostate Cancer,65.914879318208,xT.v4,match
+20defd,False,af3ewtqrafb3jiqkkjtedwrk34,positive,,0,Ovarian Cancer,86.4475314893753,xT.v4,match
+21kibz,False,af4a4xosujhwfgdrmo53sgi2ky,negative,,0,Prostate Cancer,91.9382422128439,xT.v4,match
+20byvg,False,afz6ekp4xbad7nq5rvnaxyhu6q,positive,,0,Ovarian Cancer,65.6012898055474,xT.v4,match
+20qhao,False,af3rhlhmxvhmvevseckxtaw42a,positive,,0,Breast Cancer,86.7163723120261,xT.v4,match
+20qolr,False,af3s5xrajzbpdlvgfvgdbveonu,negative,,0,Pancreatic Cancer,38.7529054422235,xT.v4,match
+20ebti,False,af2vbregzzcdvbef5qyvui7jvu,negative,,0,Prostate Cancer,77.4634494662656,xT.v4,match
+21gscu,False,af3vqiqkbnfd3gmjcq2qjmadwm,negative,,0,Pancreatic Cancer,19.8053800623037,xT.v4,match
+21bchs,False,af3qtiimtzbnfbw4rmd76gmawy,negative,,0,Prostate Cancer,23.1663557256466,xT.v4,match
+20afbm,False,af2trdatczbkdgfloa6bfker2i,negative,,0,Prostate Cancer,47.5834527179169,xT.v4,match
+21xoot,False,af3witd32nbx5fyzkag7vz5axi,negative,,0,Kidney Cancer,40.1956045655565,xT.v4,match
+20fifs,False,af3jrkujjze4naqty5plhgf24e,positive,,0,Ovarian Cancer,22.0337722422543,xT.v4,match
+20awjz,False,af2lx2n475hqtbuoe54uab3lvy,negative,,0,Colorectal Cancer,59.6916297942324,xT.v4,match
+20vtfv,False,af3pz4tmdbgpbhqo5svry3khi4,positive,,0,Non-Small Cell Lung Cancer,41.5086688811344,xT.v4,match
+21wdtp,False,af3vyxaf4zdy7ijjsu3g2pm2tq,negative,,0,Esophageal Cancer,22.1623303999765,xT.v4,match
+20vtkh,False,af3ok3vxznbzxcrlljekbjb3bu,negative,,0,Pancreatic Cancer,25.5026982190002,xT.v4,match
+20ogvt,False,af2upqhytnhzljve2tjgw4gj4i,negative,,0,Non-Small Cell Lung Cancer,45.4065415852859,xT.v4,match
+21uyln,False,af3vyxcqkvf6jfuqr4m22yn3mi,negative,,0,Breast Cancer,58.8847850423215,xT.v4,match
+21odvy,False,af32r3pxznbtbfaiy6c2w7oxea,negative,,0,Tumor of Unknown Origin,57.4819146287466,xT.v4,match
+21ihcm,False,af37im4yijgqlm6unb2nrqwegm,positive,,0,Ovarian Cancer,39.503478448932,xT.v4,match
+20buzs,False,af2l3eo6ufgfxbfa7tq63mo35u,positive,,0,Ovarian Cancer,66.8361253985463,xT.v4,match
+20lvgg,False,af3hj45fc5c3hithi5ajl735ni,negative,,0,Ovarian Cancer,58.3446170140231,xT.v4,match
+21licq,False,af36yhrscrh4pj6zspl4j2wqjq,positive,,0,Ovarian Cancer,51.470368009904,xT.v4,match
+20hitq,False,af2ad5vq65c6rc2gtzbb23zyfy,negative,,0,Glioblastoma,79.6618360260399,xT.v4,match
+20sdev,False,af3fvmgyrzhs3fye67jr55hgxe,positive,,0,Breast Cancer,62.6954961273753,xT.v4,match
+20lkva,False,af3chktgwvb7fbdeebhmlx5xjy,positive,,0,Endometrial Cancer,33.6184722222222,xT.v4,match
+21mwtw,False,af3rhldc4nbanernva7zripzf4,negative,Going to review with variant science,0,Melanoma,42.7750310880908,xT.v4,match
+20hdsv,False,af3oy77l7vc2tjljlnvwqncojm,positive,,0,Ovarian Cancer,38.2594960440451,xT.v4,match
+21zlax,False,af3qtid4tbdn7dn5yg3uzucgeq,negative,,0,Prostate Cancer,32.346977509416,xT.v4,match
+21ewty,False,af32r3fi7reydkx5t4zgg53blq,negative,,0,Breast Cancer,37.3169335838752,xT.v4,match
+21cgum,False,af3yzewmxvbtnfjqkjcov3q2le,negative,,0,Endocrine Tumor,77.225310597948,xT.v4,match
+20rcyp,False,af3rhliqd5bepji234u37lefjm,negative,,0,Breast Cancer,54.1675880167332,xT.v4,match
+21znjo,False,af34qdfaa5hwnamf2im547b3sa,negative,,0,Colorectal Cancer,64.0767152826837,xT.v4,match
+21bzzr,False,af3vecrm65c6pizw72o2jehzlu,negative,,0,Colorectal Cancer,70.9940174953806,xT.v4,match
+21meoh,False,af34qdf7xnaj7lwix3rc26hgxi,positive,,0,Endometrial Cancer,43.0372783828003,xT.v4,match
+20clgq,False,af2pefmoxvglbgscqsendtq7cu,negative,,0,Biliary Cancer,53.5750871051805,xT.v4,match
+21evuh,False,af33maiaxvcnrdagd76smx7fze,negative,,0,Colorectal Cancer,26.8999448275862,xT.v4,match
+20hiwc,False,af2yebgigjelfkyw7pt2tmy6hm,negative,,0,Pancreatic Cancer,60.4267782388197,xT.v4,match
+20fvnd,False,af3fk2k34ja7jdbjzvjzjf7wvm,positive,,0,Head and Neck Cancer,35.3837725093936,xT.v4,match
+20hqdt,False,afztw2dao5dkxaz3tbbm4u5yya,positive,,0,Pancreatic Cancer,51.7417358813054,xT.v4,tumor_only
+20eije,False,af23wpx4zzfw7e7dconoazs62u,positive,,0,Non-Small Cell Lung Cancer,67.2320245306114,xT.v4,match
+21pytx,False,af3v7j7mwnaunadbo25kgvgqry,positive,,0,Sarcoma,69.4057446494541,xT.v4,match
+20kvsk,False,af3iht5z4baonkhma4j3yeow6a,negative,,0,Prostate Cancer,43.7222347010473,xT.v4,match
+20etnz,False,af2rlyrwxbdgnoapv5y7gl5j2u,negative,,0,Glioblastoma,44.8235554631365,xT.v4,match
+20wrog,False,af2rqhvspnfyfim22p7d7cxuty,negative,,0,Colorectal Cancer,88.5893756542626,xT.v4,match
+20wtsy,False,af3lfckgtjfi3kbksvcq25lsa4,negative,,0,Peritoneal Cancer,26.1515166069683,xT.v4,match
+20drud,False,af2mciwcn5g6dlbqnfrrebtbqq,negative,,0,Kidney Cancer,53.0795545081003,xT.v4,match
+21bytj,False,af3yzew6m5hprpe6trx7u5odby,negative,,0,Non-Small Cell Lung Cancer,99.4171165551919,xT.v4,match
+21xzup,True,af33ddtf25cqbdhqoqsqa72eyi,positive,"Change the cohort to pancreatic cancer, assuming that cohort was changed on the xT report, panc threshold (28%) after recohort",0,Breast Cancer,73.8887191829229,xT.v4,match
+20pndo,False,af27zsmqyfhhnbsosp45k4gl2i,positive,,0,Ovarian Cancer,63.5012131172959,xT.v4,match
+20lqhf,False,af2gmktonbhjhbxbitrcyot7ay,negative,,0,Glioblastoma,48.339180298923,xT.v4,match
+20imnj,False,af3fk2mpifactiz5367qyu5hxu,negative,,0,Breast Cancer,56.7947689376052,xT.v4,match
+20qaxh,False,af3mokveonf55a34vxhu7gbnem,negative,,0,Sarcoma,63.9759610950856,xT.v4,match
+21sxlv,False,af32jnoaaba7hlljq4oxtr5rlq,negative,,0,Ovarian Cancer,56.7052957327751,xT.v4,match
+21wwhu,False,af3s5xpdvzfa7pqvuax2o6kkde,positive,,0,Colorectal Cancer,65.4764114015929,xT.v4,match
+20ztme,False,af2o2ojs2nbwjggkhnjzrnhwyi,negative,,0,Colorectal Cancer,58.9998727047562,xT.v4,match
+21wwmx,False,af333ptkbjf4rba76amubesslq,positive,,0,Ovarian Cancer,44.7483435876956,xT.v4,match
+21gjtt,False,af3yquditre5np4iukgvorkp3y,negative,,0,Ovarian Cancer,86.0125622674928,xT.v4,match
+20spco,False,af3q6seblfgtfaijmrjmsqoyzi,negative,,0,Prostate Cancer,90.6684830104592,xT.v4,match
+20wlci,False,af2qn5sicnf4bhvow5uvq56rgy,positive,,0,Bladder Cancer,47.5783782705275,xT.v4,match
+21koub,False,af3zui4albgadiufar6v4jsgmi,negative,,0,Prostate Cancer,77.3491525520551,xT.v4,match
+20npzw,False,af3fvmjperctthpegcrdzfttci,positive,,0,Breast Cancer,63.8845148001793,xT.v4,match
+20itco,False,af3qtia2drfpvooybv42ha75hy,negative,,0,Non-Small Cell Lung Cancer,52.4183758186973,xT.v4,match
+21xjfx,False,af4bf3mebvc4lagp3z4ook3jfe,negative,,0,Ovarian Cancer,69.6276120917403,xT.v4,match
+20fxyk,False,af3dobudo5dhjkw5weqqq6fcue,positive,,0,Ovarian Cancer,54.4381274752795,xT.v4,match
+20dwxs,False,af2qrkshazc4zch4hcwxo5dxd4,negative,,0,Prostate Cancer,42.2846296296296,xT.v4,match
+20bqsh,False,af265otw3veq3awtdgped4xjwi,negative,Test rejection,0,Pancreatic Cancer,41.2202553299723,xT.v4,match
+20amfy,False,af3f7asgwzftjev6slirvpusum,negative,,0,Non-Small Cell Lung Cancer,54.8915092961245,xT.v4,match
+20utoz,False,af3fvmhsdveivicomrvoq6m22i,positive,,0,Esophageal Cancer,54.768806566294,xT.v4,match
+20tzom,False,af37issmana55gkkeihq27ppxq,negative,,0,Prostate Cancer,61.3460322888216,xT.v4,match
+20sbji,False,af25xwxm5fdglkk76jhfcvkjje,negative,,0,Endometrial Cancer,63.0736778068978,xT.v4,match
+20exej,False,af2ww4vknfc7nlxf3rjz3uspum,positive,,0,Ovarian Cancer,67.0621960418306,xT.v4,match
+21qtcs,True,af35eozczva2zffvpqwr7h56sy,positive,"aneuploidy edits, Boarderline colon case, run RNA HRD",1,Colorectal Cancer,39.3157420614475,xT.v4,match
+20iehk,False,af2ksxexpvhl5pzqfejb4inrnm,positive,,0,Ovarian Cancer,76.2539017832211,xT.v4,match
+20hxot,False,afzxppblwbddhlwr6xjr6xnp24,negative,,0,Prostate Cancer,48.6809974082423,xT.v4,match
+21jhwy,False,af3sawy2znamjlj3amfsaoc5ki,negative,,0,Prostate Cancer,51.9085811457306,xT.v4,match
+21wlzu,False,af3xb373vzgdzcmz65q6rb2oya,negative,,0,Tumor of Unknown Origin,86.8975848851736,xT.v4,match
+20kruq,False,af3np2h6mvgmdaua5qlhycwk5q,positive,,0,Non-Small Cell Lung Cancer,34.3414447707619,xT.v4,match
+21ursk,False,af3zkkd635ao3c7wzbbab5k2ym,negative,,0,Biliary Cancer,64.2763523487232,xT.v4,match
+21lqys,False,af3utyatrzaurlyztvvn4kzhhu,negative,,0,Sarcoma,62.1418384831523,xT.v4,match
+21nzgb,False,af3uvqbml5hjhg6vj2t52kpqq4,negative,,0,Non-Small Cell Lung Cancer,22.0666896570378,xT.v4,match
+20vkzk,False,af24krm44vdczcqvxofbrj5vt4,positive,,0,Non-Small Cell Lung Cancer,36.8155642906746,xT.v4,match
+20bnfk,False,af2qadyr3vgexklhd7kw6hf3aa,negative,,0,Ovarian Cancer,46.7765101037031,xT.v4,match
+21lrtq,False,af32r3f7azaujbmyuyxmrbneci,negative,,0,Colorectal Cancer,30.1388995174569,xT.v4,match
+20tnwf,False,af2spch65rgqvcbxameiwaje4u,positive,,0,Ovarian Cancer,42.4599091788031,xT.v4,match
+20xmkn,False,af2qadnlk5aqdglbmkvhsjwoly,negative,,0,Breast Cancer,52.9699879227053,xT.v4,match
+21nqez,False,af3s73rnsrh4pd5vyqla6wodze,positive,,0,Non-Small Cell Lung Cancer,35.9170583669581,xT.v4,match
+21yksw,False,af37jqwjf5dmrjnlxgm7pa54am,negative,,0,Pancreatic Cancer,36.5216146963708,xT.v4,match
+20hswn,False,af2xuceagvhc3cscqj4waun6qu,positive,,0,Gastric Cancer,43.1736305561999,xT.v4,match
+20scdl,False,af2yoxxhgvb6padkvdj5uwqa5a,negative,,0,Endometrial Cancer,21.7648869752422,xT.v4,match
+21cvsa,False,af3vecotcjbmbax63xszs3jboy,negative,,0,Melanoma,65.6625336713512,xT.v4,match
+21jjqz,False,af34qcxlwze3ngdqqg7altpjsa,negative,,0,Melanoma,88.4681824624978,xT.v4,match
+20zvyl,False,af3dc2zehjc2bnu4v3v7as5kwy,positive,,0,Non-Small Cell Lung Cancer,65.2800927602798,xT.v4,match
+21jlih,False,af3rz5v7ejakbh3vey3e7jnulq,negative,,0,Esophageal Cancer,49.0379862094663,xT.v4,match
+20jupy,False,af3ht2eporadvdv4pt6wxgw33u,negative,,0,Ovarian Cancer,39.5124015546569,xT.v4,match
+20ijex,False,af3owetilnc4hbl3z2e6af3xsi,positive,Aneuploidy,1,Endocrine Tumor,93.4853023750443,xT.v4,match
+21cree,False,af4bf3mnojgj7mcktkrpzpklgm,positive,,0,Non-Small Cell Lung Cancer,91.6948357195791,xT.v4,match
+20ohmz,False,af3ok3ugkfhejalrehsg2arscm,negative,,0,Non-Small Cell Lung Cancer,22.6107345646491,xT.v4,match
+21juwe,False,af4a4xl5kna7xjbt6blvscs3wq,negative,,0,Gastric Cancer,45.5049818216088,xT.v4,match
+21azkq,False,af33maknpndgzj2vhk3qpg2fwi,negative,,0,Prostate Cancer,43.7747704622257,xT.v4,match
+21qwdg,False,af3zui5s5vdxvjs45slwk6wfeq,negative,,0,Non-Small Cell Lung Cancer,38.4114817441947,xT.v4,match
+20khxv,False,af3jag25fjg2todby5wjvvpnbi,negative,,0,Breast Cancer,82.7288117483944,xT.v4,match
+20alqq,False,af2zdqanqngldikbiwfzkrzx34,negative,,0,Endometrial Cancer,17.4469942355274,xT.v4,match
+20dkyq,False,af3ok4afabg5xon22gsew5hl2m,negative,,0,Ovarian Cancer,63.4020426026822,xT.v4,match
+20urtm,False,af3qth776nd5lntxkzi5ztykvm,negative,,0,Sarcoma,78.888321020716,xT.v4,match
+20hwrx,False,af23wlvlgrg7zdzo54joa3hyse,positive,,0,Ovarian Cancer,73.0771795495476,xT.v4,match
+20fqfp,False,af3iht4ro5gyrhcujqvcqlbbwy,positive,,0,Ovarian Cancer,66.4286707423618,xT.v4,match
+21gqaf,False,af3yqtsnc5azpd6s2nwmrp56qe,negative,,0,Prostate Cancer,75.3210417036236,xT.v4,match
+21agew,False,af3xwo2xsredthg7jjglcuezhi,negative,,0,Biliary Cancer,74.6943907337502,xT.v4,match
+20tmbt,False,af2wfxmrhvcxpjopkuataw7zma,negative,,0,Endometrial Cancer,25.8692128712029,xT.v4,match
+20kvjg,False,af3hj4v54zd5bbtkq4ekk7lzgi,positive,,0,Ovarian Cancer,40.0237163347036,xT.v4,match
+20dmee,False,afz5lzbekfd2pm6srz2enfptye,negative,HRD amendment - needs note,0,Prostate Cancer,58.9857442345234,xT.v4,match
+21cxnu,False,af4bz3jyufbhnm3uunt3ws23wu,negative,,0,Biliary Cancer,47.1868793360147,xT.v4,match
+20sihc,False,af2upqjesjhfjpd3r7ubma6g24,negative,,0,Glioblastoma,31.2314304467228,xT.v4,match
+20eyxt,False,af22vr3mdramretpiaagip76ri,negative,,0,Tumor of Unknown Origin,73.6307297737909,xT.v4,match
+20hlpp,False,af3nan5nyfafbiwmvwm4obglrm,negative,,0,Non-Small Cell Lung Cancer,82.3148795477134,xT.v4,match
+21kxjq,False,af3r5q57lnglzkclizppnfu6pa,negative,,0,Melanoma,63.0572210260513,xT.v4,match
+20sdec,False,af246lvvgjas5odjqptsytmutm,positive,,0,Ovarian Cancer,61.428876900015,xT.v4,match
+20hhrr,False,af27zdwnobbmne2ezitwkjscdm,negative,,0,Breast Cancer,71.4320507281228,xT.v4,match
+20tecm,False,af22clneazdavats5megxl5u6u,negative,,0,Colorectal Cancer,48.2858520091931,xT.v4,match
+21umzl,False,af33tbx5lng57jp74ivqxhnwxa,negative,,0,Non-Small Cell Lung Cancer,51.1401062652181,xT.v4,match
+20itks,False,af2645fykvgp3nyjktaibfurvq,negative,,0,Prostate Cancer,54.6854514074243,xT.v4,match
+21knnt,False,af3xl2d5bjeankigmpbcvnkipe,negative,,0,Breast Cancer,67.7958800177398,xT.v4,match
+20zphg,False,af2lmixnzvc4ncguat5imw2it4,negative,,0,Gastric Cancer,28.9068964727704,xT.v4,match
+20popq,False,af3hj4nnmneltcqauche5pgg5i,negative,,0,Esophageal Cancer,63.1364982488667,xT.v4,match
+20osrx,False,af2r5uq5nnfpri5gjm46h2cxvq,positive,,0,Ovarian Cancer,44.1820462215794,xT.v4,match
+20lmls,False,af2jnbotpbemndigibv7ayhzsq,negative,,0,Prostate Cancer,47.0170481814039,xT.v4,match
+20owzc,False,af2lx2ivenbdtbduwpmjaefp3a,negative,,0,Pancreatic Cancer,73.9689749124235,xT.v4,tumor_only
+20cjtj,False,af3eis55nbfytlz4lci3o7qwie,negative,,0,Prostate Cancer,53.4991984810223,xT.v4,match
+20opwo,False,af2neyp34bc5xhfb4ly4l3r43e,negative,,0,Prostate Cancer,78.8655598857146,xT.v4,match
+20veuo,False,af3jrkvcxfaibgfqtnthhpaypa,negative,,0,Prostate Cancer,68.3540943608208,xT.v4,match
+21dole,False,af3rhlftmjgzxcuib3idqtpczm,negative,,0,Small Cell Lung Cancer,98.8020151595494,xT.v4,match
+20bkqm,False,af2mduocorfwth2dr72tza665e,negative,,0,Ovarian Cancer,54.246098046098,xT.v4,match
+20lcfe,False,af3ok3wumfgqnl45xtvp4ta5pe,negative,,0,Colorectal Cancer,51.0495238287205,xT.v4,match
+21ucvx,False,af333prw2newfadwukepsaysny,negative,,0,Prostate Cancer,35.6157023153915,xT.v4,match
+20mswd,False,afz26jlhkrfjhig4n7nol7snrq,negative,HRD amendment - needs note,0,Ovarian Cancer,48.6865334952044,xT.v4,match
+21xrbz,False,af37imwttrabjkuhxmvgtlsc6i,positive,,0,Breast Cancer,86.4245608213293,xT.v4,match
+21aqzs,False,af4bf3rhera67ldafxtpvts7m4,negative,,0,Prostate Cancer,48.5203816697212,xT.v4,match
+21dflk,False,af3yhxrgyvd4jbe5qutvmmyxsi,negative,,0,Ovarian Cancer,67.7539319885393,xT.v4,match
+20hlxd,False,af2hp7gzz5ccxh75r5bnfyatwa,negative,,0,Small Cell Lung Cancer,86.1588706632129,xT.v4,tumor_only
+20hbjl,False,af3fvmjrmvg3nbanzarvjcqnuu,negative,,0,Breast Cancer,55.1934963204139,xT.v4,match
+20qmiv,False,af2zdqgtxrhhxpr7ghfqbyptgq,positive,,0,Ovarian Cancer,88.2631273937854,xT.v4,match
+20rrhd,False,af3ht2fb3fbqnnb2rna2fqlj3q,negative,,0,Prostate Cancer,81.4679528274476,xT.v4,match
+20ohko,False,af2vbrfw6vf3pp2rnexmwqmpii,negative,"Report was marked complete outside of ReportHub, Report was marked complete outside of ReportHub",0,Pancreatic Cancer,49.8667022911584,xT.v4,match
+21ljxe,False,af3xudvqfnaqhbnccmy5pujzxa,negative,,0,Colorectal Cancer,59.3534058886056,xT.v4,match
+20mkyl,False,af2gu3j36nfvnlndzyoi4k4gcy,negative,,0,Non-Small Cell Lung Cancer,32.6085607250765,xT.v4,match
+20fvpd,False,af25xwyytnhotd7wb6pfsjz23m,negative,,0,Head and Neck Cancer,86.1669133036893,xT.v4,match
+20dvji,False,af24u4khvncd7o7su5dpd6cbwi,negative,,0,Ovarian Cancer,15.2294194140595,xT.v4,match
+20wvdh,False,af24u4h345aprpyguodlxawczm,negative,,0,Ovarian Cancer,35.5367836231544,xT.v4,match
+21ohbr,False,af4bf3t6fvhofbiyqevjzqi7bm,negative,,0,Gastric Cancer,47.3925327537226,xT.v4,match
+20syyl,False,af3qvda7arfrhf5w2bfzqppbgu,positive,Going to review case with variant science,0,Prostate Cancer,71.5797397485314,xT.v4,match
+21afnf,False,af3sbynrkfbybasdinhx7zzigq,positive,,0,Ovarian Cancer,40.3653562785845,xT.v4,match
+21jnhw,False,af33mwkzoza33hqdodm5cso7eu,negative,,0,Oropharyngeal Cancer,57.4334212082548,xT.v4,match
+21foej,False,af34qcx4orgdxlotoiz2dk5sdq,negative,,0,Prostate Cancer,43.4616121059899,xT.v4,match
+21ktrr,False,af3zui5fhnb2nge5a6x7chghyq,negative,,0,Non-Small Cell Lung Cancer,52.1263514963369,xT.v4,match
+20qcmn,False,af2tdy6ai5fcnmhqyhjbqfx4jy,positive,,0,Colorectal Cancer,40.3679587332578,xT.v4,match
+20vwjh,False,af3fa2z6orakze2bqsnhwm3hbu,negative,,0,Clear Cell Renal Cell Carcinoma,29.3243285677901,xT.v4,match
+21uagp,False,af32jnpv3zeefgebp7ghpo7yfm,positive,,0,Ovarian Cancer,84.1712399435992,xT.v4,match
+20vnap,False,af2yoxxsnjaxxpbjv64mq6z234,positive,,0,Ovarian Cancer,58.6394444296049,xT.v4,match
+20pswl,False,af2spcgr3rhnjdaxq43hwzrmwi,negative,,0,Colorectal Cancer,54.8582326306544,xT.v4,match
+20cquv,False,af2peflskzaj7a3vma7hbhmviq,negative,,0,Skin Cancer,30.1515896971186,xT.v4,match
+20ffco,False,af3mgxooevffppjggbj3jppy3i,negative,,0,Gastric Cancer,33.6412862131022,xT.v4,match
+20xkcg,False,af2o2oipsbcbdapxqndcolrnlm,negative,,0,Ovarian Cancer,30.7956247354968,xT.v4,match
+20xdgj,False,af2lx3e2dzhmlmgavvaueddpee,positive,,0,Ovarian Cancer,78.3185668666205,xT.v4,match
+21noqc,False,af4cjcej5jdxtaatik74u43ftm,negative,,0,Breast Cancer,41.5372709928484,xT.v4,match
+21kaoy,False,af36yhs4bjfrjnonax2tmhvi2e,negative,,0,Pancreatic Cancer,21.4250269775018,xT.v4,match
+20qydt,False,af3iht4majeppbqh5mbn4amgna,negative,,0,Ovarian Cancer,70.7396825165401,xT.v4,match
+20tbzs,False,af2kctrcqvfpbja3o3lhjedc7y,negative,,0,Endometrial Cancer,94.9560056293214,xT.v4,tumor_only
+21rqaa,False,af3s5w7akbdsdeisg6jnx2ipvy,positive,,0,Breast Cancer,83.5656089145209,xT.v4,match
+20nazd,False,af2pm6wnz5g25p4kfqeyz4adfy,negative,,0,Sarcoma,77.3778453006781,xT.v4,match
+21hvru,False,af3uafz4lvddvc3kjevjsaodqa,negative,,0,Pancreatic Cancer,34.9329620125166,xT.v4,match
+21abqs,False,af3z5w2le5auvi7bm7k3etwk64,negative,,0,Colorectal Cancer,67.6372889552596,xT.v4,match
+21wuoi,False,af4axy2atfe57honhmozmbdxgy,negative,,0,Prostate Cancer,53.1404943497185,xT.v4,match
+21jcar,False,af333pwse5bofebjmfk5dvx7ni,negative,,0,Pancreatic Cancer,63.8121678891863,xT.v4,match
+20vqab,False,af27zsnrbnfmfc43cyoecdoaku,negative,,0,Cervical Cancer,71.1913969824831,xT.v4,match
+20uvdd,False,af3gu6eyrfgqro7uwlfv376aeq,positive,,0,Ovarian Cancer,78.1230759335119,xT.v4,match
+20xykd,False,af2zdqmeojbidfaeotk7imuw4i,negative,,0,Pancreatic Cancer,40.9688675042324,xT.v4,match
+20lccr,False,af3mc5mqhrbkpppz4drohpaale,negative,,0,Colorectal Cancer,32.4498249929377,xT.v4,match
+20gzni,False,af2wfxhg5zbc7klz6fvvrsk4ze,negative,,0,Ovarian Cancer,27.0270367318107,xT.v4,match
+20fycw,False,af3dmyfazbfkzl6dfrffyhkeiu,negative,,0,Bladder Cancer,84.830752635681,xT.v4,match
+21zdvs,False,af4bf3mu7jda5kkf4xmvvwg3sa,positive,,0,Pancreatic Cancer,34.8847660113813,xT.v4,match
+21sxzv,False,af3vjdypafbebdmy3xdg6c3mwy,positive,,0,Endometrial Cancer,73.239541162597,xT.v4,match
+21lvon,False,af3zs5fuqjghzl2nuzog6aexlm,negative,,0,Pancreatic Cancer,39.8412208642779,xT.v4,match
+20wizc,False,af2qrktf65aonbc7towvbgcrzu,positive,,0,Ovarian Cancer,55.129370872202,xT.v4,match
+20atse,False,af2ewqxpabaajkxzkkpkfoorha,negative,,0,Glioblastoma,49.235267987839,xT.v4,match
+21karw,False,af4bz7suenev7f4fk275xzbvfu,negative,,0,Bladder Cancer,85.977810752108,xT.v4,match
+20lbcd,False,af3jlzcrlrahvhdw7brwxwlgpq,negative,,0,Bladder Cancer,83.1524683078694,xT.v4,match
+20sbwd,False,af2gmkqddvgv5jsqmv26te2uay,negative,,0,Ovarian Cancer,19.6922564100561,xT.v4,match
+20vitd,False,af25rhxr2fepnn224n3bruhzvi,negative,,0,Small Cell Lung Cancer,74.0875734039529,xT.v4,match
+20pazb,False,af22lvxy7vdgvds5f6meq4tzee,negative,,0,Ovarian Cancer,64.354419430948,xT.v4,match
+20ekcb,False,af25ftev2bex3mqzctfo7vlnka,negative,,0,Kidney Cancer,69.7305250398652,xT.v4,match
+21wzoe,False,af34gvpxmvdgzpdn4gag5ekniy,positive,,0,Non-Small Cell Lung Cancer,65.8890677965172,xT.v4,match
+21ljzo,False,af32bfiqlre4xbbid5sgashney,negative,,0,Colorectal Cancer,52.847216052257,xT.v4,match
+20mcrc,False,af2vg5lldzaahfzlymx6rnhuoy,positive,"Report was marked delayed outside of ReportHub, Report was marked in-progress outside of ReportHub",0,Ovarian Cancer,65.7011109579508,xT.v4,match
+21cpgb,False,af3yailq35eatdifx6skwncqgi,negative,,0,Esophageal Cancer,61.6336141296711,xT.v4,match
+20tnfb,False,af2upp73tfafdczhjh2kowgqki,negative,"Report was marked complete outside of ReportHub, Report was marked complete outside of ReportHub",0,Ovarian Cancer,35.040520223757,xT.v4,match
+20snyv,False,af2shlkqojba7dfrkidcssqv5i,positive,,0,Breast Cancer,75.0627701879851,xT.v4,match
+21ucrd,False,af32r3pzdrckjelaxsbji2vxsa,negative,,0,Cervical Cancer,50.9791954754135,xT.v4,match
+21fvlc,False,af3zkj25evgbbeduzb3jyfcimi,negative,,0,Prostate Cancer,28.7620562493593,xT.v4,match
+21nkyu,False,af4bf3qi6vbztakskggbbdeisi,negative,,0,Pancreatic Cancer,55.2537563980343,xT.v4,match
+20gdns,False,af3oweq7yrhuvkots5vfguun4e,negative,,0,Ovarian Cancer,96.973704385978,xT.v4,match
+20bews,False,af3mc5mcazhzff5zbj3rywzx3y,negative,,0,Small Cell Lung Cancer,87.1705540162349,xT.v4,match
+21ddin,False,af37vwmkhveb5pqr5tonkqf2ue,negative,,0,Pancreatic Cancer,56.5883668280809,xT.v4,match
+20ayvb,False,af25uznz5rgzlltwyqzpjnsbqe,negative,"per Steph, Needs OP/Institution fixed",0,Colorectal Cancer,41.943761645157,xT.v4,match
+20vhwz,False,af2qaduntjeijewxoh5juu3tvm,negative,,0,Breast Cancer,43.1714731145041,xT.v4,match
+21wyjo,False,af35t6h7lrfjjgig64kzo2ej74,positive,,0,Pancreatic Cancer,69.9327904473477,xT.v4,match
+20izmt,False,af3fa2ylifhj3ae5ox3iycoedu,negative,,0,Ovarian Cancer,35.0961617570839,xT.v4,match
+21zonp,False,af3yqtoelzeibpqejwybqo2bqu,negative,,0,Esophageal Cancer,34.5047684036394,xT.v4,match
+21eynj,False,af3vyxatfvbk7lsqoglec7peaq,positive,,0,Pancreatic Cancer,26.5607513124803,xT.v4,match
+21tesj,False,af4covbinrg4xhsyn7qwbtavmq,negative,,0,Ovarian Cancer,27.0566780128586,xT.v4,match
+20cjpd,False,af3q6salhbecxm7m5weqwpuiha,negative,,0,Small Cell Lung Cancer,83.5555003561397,xT.v4,match
+21wnjt,False,af32jnrze5bynnkzxe4megr5wy,positive,,0,Non-Small Cell Lung Cancer,37.3195209259516,xT.v4,match
+20ozvs,False,af3s3gmzxjbvxc5w6b3o7mi2ce,negative,,0,Breast Cancer,51.5045581611371,xT.v4,match
+21phir,False,af3zujhw4veo7i7mjbdnh5xugq,negative,,0,Sarcoma,52.373741306324,xT.v4,match
+20qttl,False,af2zdqlrqbfkxllfiujblihhhq,negative,,0,Ovarian Cancer,21.4414072080156,xT.v4,match
+20ztiv,False,af24u4iewbgmvf7azi4qnejsxa,negative,,0,Ovarian Cancer,19.3191489361702,xT.v4,match
+20worq,False,af3hj4tthrevliovruhe6wi644,negative,,0,Breast Cancer,93.4341228316889,xT.v4,match
+20omro,False,af27zd5uyfavbahtdqmkdflidm,negative,,0,Non-Small Cell Lung Cancer,29.5473227155292,xT.v4,match
+20pwhc,False,af26ttcyzrhhndmshnsh5a5oea,negative,,0,Breast Cancer,71.1031482574943,xT.v4,match
+20vvfu,False,af3dc3eosrfnbhtn6txgra6zhm,negative,,0,Breast Cancer,58.6021777058362,xT.v4,match
+20zlqt,False,af23zphdmrerdlqvmxv5lgprbu,negative,,0,Breast Cancer,41.6877414187572,xT.v4,match
+21aqti,False,af4a4xnfjzbk5kqhuspwnoyoqq,negative,,0,Skin Cancer,70.0304081097119,xT.v4,match
+20adep,False,af3elafsmbbdvekkrnxxjcdhla,negative,,0,Clear Cell Renal Cell Carcinoma,50.759969679348,xT.v4,match
+20hqjv,False,af3g6r4qtjcallp2773uisagby,negative,,0,Prostate Cancer,61.1204663188881,xT.v4,match
+20eitl,False,af3fk2kccnf6pgoigve2evopie,positive,,0,Ovarian Cancer,87.6982804403685,xT.v4,match
+21zeev,False,af4a4xrnfvgelcul4a5h2mnzme,negative,,0,Ovarian Cancer,35.7527455412609,xT.v4,match
+20ubhs,False,af3qc7nce5h2ndbmnuwnfxo7pa,negative,,0,Prostate Cancer,66.8089716791533,xT.v4,match
+20ndbu,False,af2inhyj2neghar6b2i6i5gdqe,negative,,0,Colorectal Cancer,36.4999837582175,xT.v4,match
+20vsrh,False,af2inhz6bbayffilw5mx2ouy2e,negative,,0,Endometrial Cancer,52.037576554284,xT.v4,tumor_only
+20ftoq,False,af3ewtp5rvellby2ehcea5x3gy,negative,,0,Melanoma,30.8786850920089,xT.v4,match
+20xhra,False,af3ok3wyobe4zn65bhhljhfpqi,negative,,0,Bladder Cancer,67.1923533486197,xT.v4,match
+20cpsj,False,af3dmyj6ijamtkiywtw5sfiyva,negative,,0,Bladder Cancer,65.3495022520359,xT.v4,match
+20vbld,False,af2m3hnfdbdjzpxmalxwxyl6vy,negative,,0,Sarcoma,74.2810234268459,xT.v4,match
+20bleh,False,af3kve2agbc6jkpvt4rumh5ffi,negative,,0,Pancreatic Cancer,17.1279851475474,xT.v4,match
+20oyjw,False,af25uzmdobciniwa3efxde6ada,positive,,0,Ovarian Cancer,66.0485338252952,xT.v4,match
+20bsui,False,af3hj4ek4fepvajzpsf5jrbhga,negative,,0,Endometrial Cancer,49.5105837135556,xT.v4,match
+20rjct,False,af265bsu6bgylakg3st3wodt54,negative,,0,Colorectal Cancer,72.354530896098,xT.v4,match
+20lzze,False,af2yebafknhs5axhayc5qo766q,positive,,0,Ovarian Cancer,61.8690157350603,xT.v4,match
+20gxwz,False,af3dc23yyvh2tallozdtyn65y4,positive,,0,Ovarian Cancer,86.555302739984,xT.v4,match
+21ldah,False,af37im2bxjf53a6sugxueai33i,negative,,0,Bladder Cancer,58.690019601486,xT.v4,match
+21jfgi,False,af32jnnhp5aw7lx5d33dr72fku,negative,,0,Ovarian Cancer,51.8223139206291,xT.v4,match
+21kvbv,False,af4axzaejnbznp2cnzi2hlnjha,negative,,0,Breast Cancer,49.4157021183746,xT.v4,match
+20znoh,False,af2znhrhvnetjjqrp5rnw5zwxi,positive,,0,Ovarian Cancer,68.2287099639284,xT.v4,match
+21xaxi,False,af3s5wygxjgbzhljboppuisfvq,negative,,0,Melanoma,30.9372871036651,xT.v4,match
+20blnx,False,af2xmaz5hvcsdk25a4hbupxcd4,negative,,0,Ovarian Cancer,31.3560386524162,xT.v4,match
+21bjmk,False,af3rhlgigfdjjoica3ohbfw5ni,positive,,0,Ovarian Cancer,53.9496806168711,xT.v4,match
+20mnmv,False,af3g7bli3veqdoy3r6ahs4krxi,negative,,0,Breast Cancer,33.0614942924733,xT.v4,match
+21jqwy,False,af3yaikfbjg2fe62cgdthjqygi,positive,suspicious for aneuploidy,1,Non-Small Cell Lung Cancer,74.7199383063683,xT.v4,match
+21pjog,False,af34qdi3wbhmxgqbpmdgmhrmr4,negative,,0,Prostate Cancer,55.0138156176622,xT.v4,match
+21ynpx,False,af3vyxc4cjhl3kwrkj2e5vannu,negative,,0,Breast Cancer,60.5392700201632,xT.v4,match
+20vvhb,False,af3liupg2ncj5a2p4g4yxtoutu,negative,,0,Ovarian Cancer,22.1525519810996,xT.v4,match
+20gjeg,False,af3f7ar2dfaozbtriyglh6rxxa,negative,,0,Prostate Cancer,41.5490283519318,xT.v4,match
+20ktqb,False,af2tuf7ftna65buzmuzi7mya4q,negative,,0,Pancreatic Cancer,39.8483760604039,xT.v4,match
+20jqtk,False,af3e3sx3ofcdhisy2dgfyumary,negative,,0,Prostate Cancer,88.8261376850033,xT.v4,match
+21wvrl,False,af4axy6gp5c6pagj7pzmjz4soi,negative,,0,Ovarian Cancer,30.3978950927986,xT.v4,match
+21gctw,False,af33mwqvbjambltqflzorjkzoe,negative,,0,Biliary Cancer,27.6790241361348,xT.v4,match
+20racw,False,af2neyqipzae5i2nxiehteoo4u,negative,,0,Non-Small Cell Lung Cancer,24.7468817733014,xT.v4,match
+21pohu,True,af3yzeu23feznowc46n5iilyyu,positive,"Need to confirm if two hit, nix 2-hit note, add ""not-detected"" pill",0,Prostate Cancer,44.3751202497383,xT.v4,match
+21veku,False,af3yaijnbvdoda7tralyzv6w44,negative,,0,Endometrial Cancer,57.0843552810281,xT.v4,match
+20drmy,False,af2vbrftxranndk3u423qookse,negative,,0,Tumor of Unknown Origin,23.6249652879602,xT.v4,match
+20mchg,False,afz3c72irrfarph7iqwa7ft75q,positive,"Report was marked delayed outside of ReportHub, Report was marked in-progress outside of ReportHub, HRD amendment - KB still needs to contact clinician, ""on hold"" to ensure OP is contacted first",0,Ovarian Cancer,52.5637253503612,xT.v4,match
+21ztvi,False,af3vecngzbbafm5izjdo5qcxsy,positive,,0,Non-Small Cell Lung Cancer,35.9425676340905,xT.v4,match
+20oopq,False,af2v5qq445ezfl7ct4335ud6jy,negative,,0,Prostate Cancer,41.3623381165481,xT.v4,match
+20ifbd,False,af2ksw4nevet7mxogn37ps6azi,negative,,0,Head and Neck Cancer,78.8212932983884,xT.v4,match
+20jdii,False,af2mmkcfefdprnueacxirb7tqq,positive,,0,Colorectal Cancer,37.5805851940174,xT.v4,match
+20inji,True,afz66ktvx5byhmgzrj5ja4k4ya,positive,"Discordant result, ""not detected"" pill, removed 2 hit note, updated s/o footer (12/21)",0,Prostate Cancer,23.4724754153762,xT.v4,match
+20jdlt,False,af2yebdwufbk3kj5tc3omdoe7a,negative,,0,Melanoma,78.2709104941908,xT.v4,match
+21exeu,False,af4bqlfxp5feto4yk7ltahvvqe,negative,,0,Colorectal Cancer,35.2723965276086,xT.v4,match
+21hwqw,False,af4bf3r6n5fvhpkjxacsqrlobq,negative,,0,Esophageal Cancer,28.5165607507431,xT.v4,match
+20hzkh,False,af26443wcfcutl2b56w5sis55a,positive,,0,Ovarian Cancer,72.9999496471647,xT.v4,match
+20cxzr,False,af2k4vov3rc3fgfknoanxj3exe,negative,,0,Ovarian Cancer,54.4382593497198,xT.v4,match
+21tlfq,False,af3s5xhhhrag7liijrkfyssyqu,negative,,0,Endometrial Cancer,55.0602303570376,xT.v4,match
+20bghl,False,af2tuf3kmrby3cbir7x2y5w6sa,positive,,0,Colorectal Cancer,43.6188570444571,xT.v4,match
+20swnm,False,af3np2jhjbc3pjyemg3ks2dnzu,negative,,0,Colorectal Cancer,65.9273239773527,xT.v4,match
+20dfgw,False,af34gvgbvvcgznmuxsp66kug6a,negative,,0,Pancreatic Cancer,66.9516831922357,xT.v4,match
+21ldkj,False,af3xworvxnaw7oob2f7ttjhrmu,positive,,0,Breast Cancer,74.210731515393,xT.v4,match
+20bmyd,False,af3iht5lcfgbpj4wuydubnweqq,positive,,0,Ovarian Cancer,72.340006391111,xT.v4,match
+20jygn,False,af2tugdjqvh5dautdzf65pd2am,negative,,0,Breast Cancer,68.1237771736747,xT.v4,match
+20ywqr,False,af3rz5xwt5e7zcnpd7g2d35l5a,negative,,0,Sarcoma,50.0479375116753,xT.v4,match
+20xqrx,False,af2fhq7okrgyjarjefihc4v4ey,negative,,0,Ovarian Cancer,63.1677883715175,xT.v4,match
+21jgnl,False,af34xrkg5ndd7nclvz66sca6ny,negative,,0,Skin Cancer,68.7615022951998,xT.v4,match
+20uikp,False,af3jag3ounfqxmiolmuzmc5rfe,negative,,0,Prostate Cancer,85.459268716511,xT.v4,match
+21jzsf,False,af3www3cefh33b54jr6eym23k4,negative,,0,Biliary Cancer,43.344842041005,xT.v4,match
+20nvjg,False,af3eis536ng3lj2l47ald5fw34,positive,,0,Melanoma,58.8512505103315,xT.v4,match
+20yohd,False,af3jjej6mnbndnopc3nwbrve2i,positive,,0,Ovarian Cancer,50.9669000494475,xT.v4,match
+20axmx,False,af2rlyqp7vfhbmfjas33fixsfe,negative,"Report was marked canceled outside of ReportHub, HRD amendment - shouldn't require an amendment",0,Bladder Cancer,28.176438172502,xT.v4,match
+21jeja,False,af3yeskfgjdffjuvxojva3pc5y,positive,,0,Non-Small Cell Lung Cancer,28.5907125940695,xT.v4,match
+20bdyh,False,af265o2yjfdupbtbyyfxc4xucq,negative,,0,Thyroid Cancer,57.603363281798,xT.v4,match
+20oxla,False,af3cnb3hlnapxdpvw6u5uzoa7y,positive,,0,Non-Small Cell Lung Cancer,28.8878676142626,xT.v4,match
+20gjch,False,af2vscatwjg77polts2d6vmyu4,negative,,0,Pancreatic Cancer,55.1022579745481,xT.v4,match
+21xhxg,False,af4badidxvahfch6fymkyygv6m,negative,,0,Ovarian Cancer,13.5654802701899,xT.v4,match
+20wbwi,False,af3cr6uekrd67jdllbourmkwt4,negative,,0,Prostate Cancer,52.0359168409493,xT.v4,match
+20jbkk,False,af2rcjbkk5flpem7nkv3rkoeba,negative,"HRD amendment - needs call-out note, Report was marked delayed outside of ReportHub, on hold, Report was marked in-progress outside of ReportHub",0,Biliary Cancer,47.9858926335429,xT.v4,match
+21qnlk,False,af3zujhc55gybag62ovqmnz4qy,negative,,0,Non-Small Cell Lung Cancer,26.7497340912799,xT.v4,match
+21dcgf,False,af35eozql5dedhey3iqz23l46a,negative,,0,Endocrine Tumor,70.7971213457013,xT.v4,match
+20mahr,False,af2xlf54ivc6zos2vobz3c3nf4,positive,,0,Pancreatic Cancer,59.9496226110154,xT.v4,match
+20qijx,False,af3n6i5zmjcuzdsnsu3jg576uy,negative,,0,Colorectal Cancer,90.334480243194,xT.v4,match
+21dzcd,False,af35eoy4pbbqrbm7nrg2vewtqm,positive,,0,Non-Small Cell Lung Cancer,49.6431082071689,xT.v4,match
+20wuln,False,af2xhxjizjbqzngwgoxcygbytm,negative,,0,Tumor of Unknown Origin,44.9199960967723,xT.v4,match
+20rpjh,False,af3m7kgbp5dyvkkbvhyvftwg6q,negative,,0,Biliary Cancer,70.1004855154265,xT.v4,match
+20nbzu,False,af27zd6sjbd6ph5fai5622qwcm,negative,,0,Prostate Cancer,61.193339704947,xT.v4,match
+20btyb,False,af2tuf2xkbbjhnuycmldzue4vm,negative,,0,Thymoma,20.0745321294559,xT.v4,match
+20qhpr,False,af3jjeduwjeqhnaeh2vvpwt4xq,negative,,0,Colorectal Cancer,80.7194638011988,xT.v4,match
+21beyw,False,af4bf3u7zbctxf2yx2lywtpjru,positive,,0,Peritoneal Cancer,94.7564159821853,xT.v4,match
+20cmxq,False,af2qadtmirhwdlvz64zamjmxme,negative,,0,Colorectal Cancer,85.2600640489104,xT.v4,match
+21fndf,False,af333pwjqfabnc722ovka7cule,positive,"Check aneuploidy, Suspicious for aneuploidy (lung w/ 44%, BAF -2, 2)",1,Non-Small Cell Lung Cancer,92.825294666212,xT.v4,match
+20epnm,False,af3mc5q4ujdmflcsllyvhagwgu,negative,,0,Colorectal Cancer,22.4681524760897,xT.v4,match
+21zkae,False,af4bz7oty5byzhwtcv2ixx42nu,positive,,0,Non-Small Cell Lung Cancer,65.6069770724025,xT.v4,match
+21roda,False,af33ynhyabhhdnmtckriuidr5i,negative,,0,Bladder Cancer,87.9097126052856,xT.v4,match
+20lvdw,False,af2rwyj5hfhd3jhumap7kozvya,negative,,0,Prostate Cancer,42.1561193198315,xT.v4,match
+21fbwr,False,af3zkkdfazasjanqdd4umcxuay,negative,,0,Small Cell Lung Cancer,79.4054090186649,xT.v4,match
+20wisz,False,af3q6sf2bne7bi6vjwrcexnbgm,negative,,0,Non-Small Cell Lung Cancer,88.3695100288038,xT.v4,match
+21vuxa,False,af4b7uylojallaipm7vp6idiiy,negative,,0,Endometrial Cancer,67.6371462704121,xT.v4,match
+21pkea,False,af4axyw4lfghjntsi4n3aif2wa,positive,,0,Ovarian Cancer,30.8903007518797,xT.v4,match
+20dehs,False,af22vr56f5d43doabhzxbpc7te,negative,,0,Prostate Cancer,26.996580934332,xT.v4,match
+21yerh,False,af3www35snhdtlgd62ybxvpf4u,negative,,0,Colorectal Cancer,57.1260806717064,xT.v4,match
+20gvut,False,af2pm6danvb6hfc6zlfkkavbzy,positive,,0,Ovarian Cancer,83.5547288881439,xT.v4,match
+20cono,False,af2tuf3yjfcknh3qnd2ptb3wym,negative,,0,Pancreatic Cancer,63.7152844961497,xT.v4,match
+20dsro,False,af2rqhunjzdfjj4nej3dn6oa5a,negative,,0,Colorectal Cancer,88.0660422378474,xT.v4,match
+20cuuo,False,af3b7l54dfchrcsecpdk5tscwq,negative,,0,Thyroid Cancer,58.6009010977891,xT.v4,match
+21aogk,False,af3wittfzzgmfnfhadozrlrwqe,positive,,0,Liver Cancer,49.6127921611762,xT.v4,match
+20fdkg,False,af2ww4xuknfh3pswm42jwh5may,negative,,0,Non-Small Cell Lung Cancer,41.2491928553813,xT.v4,match
+20wyaw,False,af2lmiyb4jfuvgdzhhpnddhlqq,positive,,0,Ovarian Cancer,79.1526905116146,xT.v4,match
+21rgxb,False,af33l7rkb5enjfmw73ghszpo5u,positive,,0,Ovarian Cancer,69.0346058283392,xT.v4,match
+20usve,False,af24krqxx5aeriepubvtdbcuu4,negative,,0,Breast Cancer,68.3214907500374,xT.v4,match
+20whpc,False,af3f7aezprekje6sa4nwclpgbm,negative,,0,Colorectal Cancer,26.2152955239614,xT.v4,match
+20lubx,False,af3rz54rhrhw3gxlev6s3quib4,negative,,0,Tumor of Unknown Origin,38.4851986548644,xT.v4,match
+21ogeh,False,af3yhxmd3bahrmw3lwvhbf3sui,negative,,0,Pancreatic Cancer,31.6315389758522,xT.v4,match
+20xaxq,False,af2nxwuc3vhxpozqr7meqocqsa,negative,,0,Prostate Cancer,51.2587880104857,xT.v4,match
+21ljbt,False,af3x2igip5h3ziekupgn4ntfrm,positive,,0,Non-Small Cell Lung Cancer,47.2887501669855,xT.v4,match
+21diwu,False,af34qdhxcrbkviq6l7wbeda5jy,positive,,0,Ovarian Cancer,74.9446419781229,xT.v4,match
+20gnub,True,af2bikcf7ncorklctwwlczdzky,positive,"Report was marked in-progress outside of ReportHub, ""on hold"" to ensure OP is notified first, Report was marked in-progress outside of ReportHub, header was erased when resized. still need edits for pill and true GWLOH value, change pill, remove double-hit note, Report was marked delayed outside of ReportHub, Rejecting to make further edits: 1) ""not detected"" pill; 2) get updated GWLOH from BI, Report was marked delayed outside of ReportHub",0,Breast Cancer,81.6231437420415,xT.v4,match
+21vssp,False,af3rhld7pnarlgfd4pcutekg6q,negative,,0,Pancreatic Cancer,38.6818980127067,xT.v4,match
+21oavu,False,af4bf335v5dtpnfbnmjdl4otzm,negative,,0,Endometrial Cancer,31.5683365969578,xT.v4,match
+20wwhc,False,af3jlzbbqfgl7ozcel2ehjawhu,negative,,0,Biliary Cancer,20.9476197402597,xT.v4,match
+20sukw,False,af2upqiiknhqnhvj3g3t4rr42a,negative,,0,Ovarian Cancer,10.771065905896,xT.v4,match
+20nkjg,False,af3fa22j2fhgrodgwx7remifwa,negative,,0,Small Cell Lung Cancer,96.8870729854063,xT.v4,match
+21xddk,False,af34gvq7m5bura7ewtw3xcxio4,negative,,0,Pancreatic Cancer,24.7974896551724,xT.v4,match
+21duoq,False,af34qdgng5ge3ndnmwiwpitdgm,positive,"sus for aneuplody based on -1.5, 1.5 BAF bounds",1,Breast Cancer,86.4380426999775,xT.v4,match
+20mquc,False,af3ajodfsncivjzdexnptxdcse,negative,,0,Endometrial Cancer,48.9948802657328,xT.v4,match
+21ysfc,False,af4bz7mvwjc7fkq2o3kx5bh5mu,negative,,0,Pancreatic Cancer,43.8549906893042,xT.v4,match
+21sgkf,False,af4bf3lyzvftnkbd5cs2qgcuhq,positive,,0,Breast Cancer,74.8671983730532,xT.v4,match
+20dicr,False,af25xwwsufea3ed6vcuhe42keq,negative,,0,Tumor of Unknown Origin,90.8314167060163,xT.v4,match
+20ybxg,False,af2v5qmljfc45neshgih5t77ky,negative,,0,Endocrine Tumor,32.1193167815987,xT.v4,match
+20yude,False,af2p4fh5dfb6jgo3n2jh7ksrkq,positive,,0,Ovarian Cancer,85.1521404436801,xT.v4,tumor_only
+20hcck,False,af246lxr2bchxhmhy7d42ycdnq,negative,,0,Non-Small Cell Lung Cancer,47.2286191820891,xT.v4,match
+20rbor,False,af3nan53pncfbdr3yptk23pgty,negative,,0,Prostate Cancer,46.9466040372637,xT.v4,match
+20jckl,False,af2pm6arwvaljctjisi374rssy,negative,,0,Tumor of Unknown Origin,77.4060221703728,xT.v4,match
+21trgy,False,af3uvqt6kjb3dbznkt3syqjcbq,negative,,0,Breast Cancer,74.2226958039562,xT.v4,match
+21sjfk,False,af3rhlbbdncb7cyfmaqvyjxhqe,negative,,0,Esophageal Cancer,19.8695299928785,xT.v4,match
+20vptb,False,af3i3nztanb6licrpoyfafk2ra,negative,,0,Prostate Cancer,37.9257535240176,xT.v4,match
+20frqb,False,af3aew7mbrh7hhbepy66dkz6ka,negative,,0,Ovarian Cancer,58.5574905001215,xT.v4,match
+21ixze,False,af3z5wzyrna5fmvklc4orr5jbq,negative,,0,Ovarian Cancer,26.8953766882757,xT.v4,match
+21mnbx,False,af3vechp6jcnrag6rq7c34nkmu,negative,,0,Non-Small Cell Lung Cancer,13.7004927363861,xT.v4,match
+20zksd,False,af2zmpwgyzhmlgb6ljygkic4bu,negative,,0,Prostate Cancer,58.7670760264617,xT.v4,match
+20iral,False,af2v5qtbdfhfjepbpqkklo4syq,negative,,0,Ovarian Cancer,49.656080354258,xT.v4,match
+21ujyx,False,af3w76otsbddholdwwqbmtav7m,negative,,0,Breast Cancer,24.3234924563699,xT.v4,match
+21cmzg,False,af32bfg5xjgs3p53ypf67immhi,positive,,0,Kidney Cancer,34.5916396835094,xT.v4,match
+21xyxv,False,af35o33rabatbgcj6n6bt3u5eq,negative,,0,Melanoma,54.3089947102252,xT.v4,match
+20bchb,False,af2nxwwkfbg7raridi2etdhpci,negative,,0,Prostate Cancer,87.4722245179684,xT.v4,match
+21qepn,False,af3s5xowafacrejlvjr6cgcobe,negative,,0,Pancreatic Cancer,49.5956403658228,xT.v4,match
+20ixjb,False,af2lpoztofbznlpivbbucavwpe,negative,,0,Gastric Cancer,45.8622063812706,xT.v4,tumor_only
+20sxdd,False,af2cqn46tfbxrm6up2bv3s5xoi,positive,HRD amendment - needs note,0,Ovarian Cancer,41.784300646724,xT.v4,match
+20tbsu,False,af2u42ov6zfkvhdz6csiqd2ygu,positive,"Report was marked complete outside of ReportHub, Report was marked delayed outside of ReportHub, Report was marked delayed outside of ReportHub, Report was marked delayed outside of ReportHub, Report was marked complete outside of ReportHub, Report was marked in-progress outside of ReportHub",0,Ovarian Cancer,69.1408848435201,xT.v4,match
+20molh,False,af2yebf56ffe3oks4pwgrmrayq,negative,,0,Pancreatic Cancer,17.38003074895,xT.v4,match
+21arwn,False,af3vecfnzjc6bos5e2b56jkkti,negative,,0,Colorectal Cancer,49.6639800397876,xT.v4,match
+21qdws,False,af35t6gydbfb3fcjp5wkhfbety,positive,,0,Ovarian Cancer,34.6316135317842,xT.v4,match
+20vsrh,False,af2ozt7luvbijev5ybmkaz2poe,negative,"HRD amendment - needs call-out note, Report was marked in-progress outside of ReportHub, on hold, Report was marked delayed outside of ReportHub",0,Endometrial Cancer,37.3212158963341,xT.v4,match
+21zcyo,False,af32jnmtebh4dkv4yxdmkkermm,negative,,0,Sarcoma,97.8972744363086,xT.v4,match
+20addv,False,af2qadv4h5gknicnbfwtza474y,negative,"on hold, Hold - notify CS/sales, HRD amendment - updated GWLOH",0,Pancreatic Cancer,38.0985583102458,xT.v4,match
+21bgtx,False,af34qdictrbabnqxspg7plbbfq,negative,,0,Bladder Cancer,53.4923554847521,xT.v4,match
+20jmgk,False,af2szzmk5zczzblfkv6mrq335e,negative,,0,Prostate Cancer,23.9429972846204,xT.v4,match
+21stfv,False,af3vecnwivc7dmboskrc3ufvhq,negative,,0,Colorectal Cancer,88.0520569677232,xT.v4,match
+20yrhi,False,af2zdqkjazgcjm2h5saokpnajq,negative,,0,Melanoma,43.0898015994715,xT.v4,match
+20cwsc,False,af2rqhzt55fvzpjapbxcz4qs5q,positive,,0,Ovarian Cancer,76.4248257258476,xT.v4,match
+20sowe,False,af25uzk3fja67dj5mws3uxkcse,negative,,0,Biliary Cancer,33.2503458625024,xT.v4,match
+20sobf,False,af3ewtobt5f7nirwje4bum66yu,negative,,0,Bladder Cancer,59.1630213581063,xT.v4,match
+20dvmw,False,af2nngorgnfktbrv2przhbe3p4,negative,,0,Ovarian Cancer,88.9895041132259,xT.v4,match
+21kieg,False,af3sky7qhjhp3gyauyiyijfypq,negative,,0,Sarcoma,59.7410116418672,xT.v4,match
+20ucha,False,af3uvqxa2zaypdvehj7mc7tnr4,negative,,0,Melanoma,44.5614678899083,xT.v4,match
+20qqvb,False,afzufpmwnrbe7pmsdabvcyjoaa,negative,,0,Prostate Cancer,60.2744484980616,xT.v4,match
+20zmyh,False,af3zkkekrzdtxi3hqyueta2zty,positive,,0,Ovarian Cancer,83.7078251974865,xT.v4,match
+21huqd,False,af35o34vpndcrijtvjbctobrle,negative,,0,Biliary Cancer,28.172256873886,xT.v4,match
+20auuj,False,af2j6nnca5htrccvyucrs24kgq,positive,,0,Tumor of Unknown Origin,52.8504996264009,xT.v4,match
+20hvxe,False,af3dc2zeu5a2tp7foo4ixuo6bi,negative,,0,Esophageal Cancer,43.2858980783693,xT.v4,match
+20gohc,False,af3nksjfirbjjm37kua3yijlai,negative,,0,Endocrine Tumor,17.4173730767458,xT.v4,match
+20rxpd,False,af26443ybjhftgp5skjttvysfe,negative,,0,Melanoma,69.3904024349575,xT.v4,match
+20hyfv,False,afzwk2imubfbldhzhvvvxr76my,positive,,0,Colorectal Cancer,77.6592275157817,xT.v4,match
+21ivfl,False,af4a4xltibgvrnjiiudful6d7e,negative,,0,Prostate Cancer,76.405657478644,xT.v4,match
+20bmqe,False,af3iyq6uwbf57pp37othi3j4ye,positive,,0,Esophageal Cancer,75.7216013968479,xT.v4,match
+20wujj,False,af3bppprenee7bdxmja4uq7lbe,positive,,0,Non-Small Cell Lung Cancer,60.3695996208977,xT.v4,match
+20ldxh,False,af26443kyzfxhg5l2tybw3xiwu,negative,"correct the ordering physician and institution, complete clerical edits for amendment
+, Report was marked delayed outside of ReportHub, Report was marked qc-fail outside of ReportHub, Report was marked in-progress outside of ReportHub, update s/o footer date",0,Breast Cancer,50.2438959660297,xT.v4,match
+21ytdb,False,af37vwuqynerfn5gczq7rze6iy,negative,,0,Bladder Cancer,70.4977802624724,xT.v4,match
